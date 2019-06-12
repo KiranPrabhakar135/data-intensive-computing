@@ -1,0 +1,117 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555286541015, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "facebook", 
+      "query_language": "en"
+    }, 
+    "text": "We are getting ready to bring our 17 kids and the Jai Jagat show to the USA and UK this May/June 2019! Check out our Facebook event pages or website for a show near you and book your tickets now! Please help spread the word and together, we can... http://www.jaijagattour.com/", 
+    "created_at": "2019-03-28T03:15:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/foWwXuMOTS", 
+          "expanded_url": "http://www.jaijagattour.com/", 
+          "display_url": "http://www.jaijagattour.com/"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Ekatva2012", 
+      "name": "Ekatva Oneness", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1809703587/fb2_-_logo_no_kid_400x400.jpg", 
+      "id": 479269403
+    }, 
+    "retweet_count": 1, 
+    "id": 1111164828213751809, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555286541015, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "facebook", 
+      "query_language": "en"
+    }, 
+    "text": "White nationalism is an oxymoron, because USA IS a majority white nation, with a majority white history. Facebook is just attacking white people, when remnants of the British Empire are behind this. The near entire background of the United States IS about Nationalism.", 
+    "created_at": "2019-03-27T20:47:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "NowMediaScott", 
+      "name": "Now Media News", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/883795767189798914/C3MlDinp_400x400.jpg", 
+      "id": 275765160
+    }, 
+    "retweet_count": 0, 
+    "id": 1111067260708368385, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555286541015, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "facebook", 
+      "query_language": "en"
+    }, 
+    "text": "Straight from Kopparberg town in Sweden to locations all over the east coast of the USA. Find a tasting near you on our Facebook events page.\n#\nKopparberg\n#\nFindKopparbergpic.twitter.com/EtymvcTvSt", 
+    "created_at": "2019-03-26T13:00:22Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/EtymvcTvSt", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/EtymvcTvSt"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "KopparbergUSA", 
+      "name": "Kopparberg USA", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/458980832225423360/nVFAjcd-_400x400.jpeg", 
+      "id": 296488966
+    }, 
+    "retweet_count": 0, 
+    "id": 1110587308661764096, 
+    "favorite_count": 2
+  }
+]

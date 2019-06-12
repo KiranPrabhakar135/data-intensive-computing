@@ -1,0 +1,117 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279874188, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Yes Google Maps, if I type a street name and there is a choice of one near my current location in the UK, or another one in the USA, the latter one is definitely the right one for intellisense.", 
+    "created_at": "2019-01-29T03:20:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "gushie", 
+      "name": "Jonathan Corwin", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/791286956596551680/Ad7JhBnF_400x400.jpg", 
+      "id": 24158276
+    }, 
+    "retweet_count": 0, 
+    "id": 1090162759847870464, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279874188, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "(Google Maps Street View: Gruesome sight spotted among Hollywood tourists in shock photo | Travel News | Travel) Google Maps Street View has captured a horrifying image taken near the Hollywood sign in California, USA. The disturbing photo... - https://is.gd/KE0K88", 
+    "created_at": "2019-01-26T07:03:44Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/M1PyWo8R1f", 
+          "expanded_url": "https://is.gd/KE0K88", 
+          "display_url": "https://is.gd/KE0K88"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "gooshi2000", 
+      "name": "geopost 24/7", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1044207319792406528/D5TtTR3g_400x400.jpg", 
+      "id": 63720592
+    }, 
+    "retweet_count": 0, 
+    "id": 1089131773324333057, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279874188, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "RUSSIANS used their near magic cloaking technology. The same way Russia invaded USA and gave you racism and Trump. Their tech is almost godlike and only made Google ads And Facebook memes. It's a powerful devastating new weapon! They're everywhere! Eeeeeeee!", 
+    "created_at": "2019-01-25T20:05:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "128402033", 
+          "id": 128402033, 
+          "name": "simon maginn", 
+          "screen_name": "simonmaginn"
+        }, 
+        {
+          "id_str": "4082408847", 
+          "id": 4082408847, 
+          "name": "Kristy Lyall \ud83c\udf39 #GTTO #RJCOB", 
+          "screen_name": "LyallKristy"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "WalterThereal", 
+      "name": "TherealWalter", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1081328938524110848/dqSyYYWW_400x400.jpg", 
+      "id": 1081328040867577857
+    }, 
+    "retweet_count": 1, 
+    "id": 1088966132529123328, 
+    "favorite_count": 1
+  }
+]

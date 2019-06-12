@@ -1,0 +1,210 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284376294, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Private Room#4 near Apple + Free Organic Breakfast - Hus til leie i Cupertino, California, USA http://joistamatic.com/egg1Accq", 
+    "created_at": "2019-02-27T12:10:31Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#4"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/7XABBBAi1Z", 
+          "expanded_url": "http://joistamatic.com/egg1Accq", 
+          "display_url": "http://joistamatic.com/egg1Accq"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "AntiRustbelt", 
+      "name": "John Fields", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075770771853590529/SI_IhV94_400x400.jpg", 
+      "id": 1075504949159706629
+    }, 
+    "retweet_count": 0, 
+    "id": 1100805387773767680, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284376294, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Global Job Search Looking for USA Jobs or UK Jobs? Searching for Disney Jobs, Walmart Jobs, Boeing Jobs, Microsoft Jobs, Aldi Jobs or Apple Jobs? We have Jobs from all top global employers. Search & apply for Jobs near you today. https://pos.li/2b9jso\u00a0pic.twitter.com/jf8emEX8xP", 
+    "created_at": "2019-02-25T13:43:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/SDtE9P5HqX", 
+          "expanded_url": "https://pos.li/2b9jso", 
+          "display_url": "https://pos.li/2b9jso"
+        }, 
+        {
+          "url": "https://t.co/jf8emEX8xP", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/jf8emEX8xP"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "martynv_martyn", 
+      "name": "Martyn V", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/864522581168185344/sASNqGXP_400x400.jpg", 
+      "id": 864758804
+    }, 
+    "retweet_count": 0, 
+    "id": 1100103916040192000, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284376294, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Coming to a City near you here is the USA. The UK Did it to themselves, we see the difference from 20 yrs ago and now, Islam is the fastest growing religion due primarily to immigration and above 'Average birth rates' (getting \u00a3300 a month per child) How do you like them apples", 
+    "created_at": "2019-02-23T22:00:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1013877380551774210", 
+          "id": 1013877380551774210, 
+          "name": "DoingRight \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \ud83d\udd36\ud83d\udd36\ud83d\udd36", 
+          "screen_name": "DoingRight1"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "margarit_martin", 
+      "name": "Hope n Dreams", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/618305413138616320/tQADppLp_400x400.jpg", 
+      "id": 2801448168
+    }, 
+    "retweet_count": 0, 
+    "id": 1099504247350181888, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284376294, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Private Room#4 near Apple + Free Organic Breakfast - Hus til leie i Cupertino, California, USA http://joistamatic.com/egg1Accq", 
+    "created_at": "2019-02-23T05:30:31Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#4"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/7XABBBAi1Z", 
+          "expanded_url": "http://joistamatic.com/egg1Accq", 
+          "display_url": "http://joistamatic.com/egg1Accq"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "AntiRustbelt", 
+      "name": "John Fields", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075770771853590529/SI_IhV94_400x400.jpg", 
+      "id": 1075504949159706629
+    }, 
+    "retweet_count": 0, 
+    "id": 1099255173703258112, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284376294, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Private Room#4 near Apple + Free Organic Breakfast - Hus til leie i Cupertino, California, USA http://joistamatic.com/egg1Accq", 
+    "created_at": "2019-02-20T21:53:18Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#4"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/NhG2a8u1Qb", 
+          "expanded_url": "http://joistamatic.com/egg1Accq", 
+          "display_url": "http://joistamatic.com/egg1Accq"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "IndustryVentur3", 
+      "name": "Robert Park", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1082746027445288960/JNzRak3Y_400x400.jpg", 
+      "id": 1082711722807447553
+    }, 
+    "retweet_count": 0, 
+    "id": 1098415335429074946, 
+    "favorite_count": 0
+  }
+]

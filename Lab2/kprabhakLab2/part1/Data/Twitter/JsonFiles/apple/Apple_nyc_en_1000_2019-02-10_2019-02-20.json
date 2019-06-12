@@ -1,0 +1,47 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284217791, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Comparing apples to oranges again? The EU is nowhere near as successful as the USA! For one; the USA has freedom!", 
+    "created_at": "2019-02-17T12:41:25Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "110664009", 
+          "id": 110664009, 
+          "name": "swen_28002  \ud83c\uddec\ud83c\udde7 \ud83c\uddea\ud83c\uddf8 \ud83c\udde9\ud83c\uddea \ud83c\uddeb\ud83c\uddf7 \ud83c\uddf3\ud83c\uddf1 \ud83c\uddea\ud83c\uddfa", 
+          "screen_name": "Swen28002"
+        }, 
+        {
+          "id_str": "922559543221063680", 
+          "id": 922559543221063680, 
+          "name": "Unity", 
+          "screen_name": "UKunityorg"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "IndividualSimon", 
+      "name": "SaintSimon", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1066335882486136833/4JQIRnNv_400x400.jpg", 
+      "id": 1055208838637457408
+    }, 
+    "retweet_count": 0, 
+    "id": 1097189286967951360, 
+    "favorite_count": 0
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "I checked the satellite on Google Earth of the border at and near McAllen where you visited today. USA is divided from Mexico by a long stretch of the Rio Grande river there. Do you want a wall built on the river? Exactly what physical barrier do you want?", 
+    "created_at": "2019-01-10T15:24:50Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "25073877", 
+          "id": 25073877, 
+          "name": "Donald J. Trump", 
+          "screen_name": "realDonaldTrump"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "blaccoffee", 
+      "name": "Greg Berchenko", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/378800000693967861/6ab33050d10b6482109ddc2a0787e916_400x400.jpeg", 
+      "id": 32412626
+    }, 
+    "retweet_count": 0, 
+    "id": 1083459672932261890, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Piano Guitar Singing Lessons in your Home | Piano Guitar Music Lessons near me, San Antonio, TX USA on\n#\nGoogle https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:8446928177358062834&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026", 
+    "created_at": "2019-01-09T03:25:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#lkt"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/mFlh1YWKCn", 
+          "expanded_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:8446928177358062834&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629", 
+          "display_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:8446928177358062834&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "VictorEGalvan", 
+      "name": "Victor E Galvan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/878053749532446720/yhKQpRPk_400x400.jpg", 
+      "id": 18330020
+    }, 
+    "retweet_count": 0, 
+    "id": 1082916267420512256, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Actual picture right near USA Mexico border. GOOGLE earth. Right now. See all the terrorist? @US/Mexico Border https://www.instagram.com/p/BsZQHz4FULl/?utm_source=ig_twitter_share&igshid=2bhmezxn5z9r\u00a0\u2026", 
+    "created_at": "2019-01-08T20:00:06Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/cPLwVJJSMr", 
+          "expanded_url": "https://www.instagram.com/p/BsZQHz4FULl/?utm_source=ig_twitter_share&igshid=2bhmezxn5z9r", 
+          "display_url": "https://www.instagram.com/p/BsZQHz4FULl/?utm_source=ig_twitter_share&igshid=2bhmezxn5z9r\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "drdaveores", 
+      "name": "Dr. David Ores", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1642317429/Dr._David_Ores_PHOTO_400x400.png", 
+      "id": 239179016
+    }, 
+    "retweet_count": 0, 
+    "id": 1082804170808270848, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Piano Guitar Singing Lessons in your Home | Piano Guitar Music Lessons near me, San Antonio, TX USA on\n#\nGoogle https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:2542998799979467077&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026", 
+    "created_at": "2019-01-06T18:44:10Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#lkt"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/FqUt5ZYhbC", 
+          "expanded_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:2542998799979467077&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629", 
+          "display_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:2542998799979467077&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "VictorEGalvan", 
+      "name": "Victor E Galvan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/878053749532446720/yhKQpRPk_400x400.jpg", 
+      "id": 18330020
+    }, 
+    "retweet_count": 0, 
+    "id": 1082060284548866048, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Piano Guitar Singing Lessons in your Home | Piano Guitar Music Lessons near me, San Antonio, TX USA on\n#\nGoogle https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:1673854491246632282&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026", 
+    "created_at": "2019-01-04T14:53:47Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#lkt"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/kFTSqmg8Qm", 
+          "expanded_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:1673854491246632282&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629", 
+          "display_url": "https://search.google.com/local/posts?q=Piano+Guitar+Singing+Lessons+in+your+Home+%7C+Piano+Guitar+Music+Lessons+near+me,+San+Antonio,+TX+USA&ludocid=7517483009594743629#lkt=LocalPoiPosts&lpstate=pid:1673854491246632282&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:7517483009594743629\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "VictorEGalvan", 
+      "name": "Victor E Galvan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/878053749532446720/yhKQpRPk_400x400.jpg", 
+      "id": 18330020
+    }, 
+    "retweet_count": 0, 
+    "id": 1081277533662969856, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279474448, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Hidr my son shared a ride with a lesser political mortal than u chelsea clinton. See red hat, after supposed recognised i googled thats when she put red hat on.shows usa secret service monitors google near targets. Red hat so protection from afar can keep eyes on.", 
+    "created_at": "2019-01-01T12:43:34Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "330717019", 
+          "id": 330717019, 
+          "name": "Dr Teck Khong", 
+          "screen_name": "DrTeckKhong"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Hamishckay1", 
+      "name": "Jmb", 
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png", 
+      "id": 723093369342332928
+    }, 
+    "retweet_count": 0, 
+    "id": 1080157597951512576, 
+    "favorite_count": 2
+  }
+]

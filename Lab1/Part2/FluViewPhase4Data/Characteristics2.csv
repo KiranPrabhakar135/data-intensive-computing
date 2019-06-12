@@ -1,0 +1,54 @@
+Characteristics of Influenza-Associated Pediatric Deaths, additional breakdown (data downloaded on 2/28/2019)
+SEASON,CHARACTERISTIC,GROUP,COUNT,PERCENT
+2015-16,Conditions,Neurologic Disorder,24,26.7
+2015-16,Conditions,Pulmonary Disease,20,22.2
+2015-16,Conditions,Chromosomal Abnormality / Genetic Syndrome,5,5.6
+2015-16,Conditions,Cardiac Disease,16,17.8
+2015-16,Conditions,Immune Suppression ,4,4.4
+2015-16,Conditions,Endocrine Disorder,3,3.3
+2015-16,Conditions,Renal Disease,4,4.4
+2015-16,Bacterial Coinfectio,Staphylococcus aureus(methicillin susceptible),2,10
+2015-16,Bacterial Coinfectio,Staphylococcus aureus(methicillin resistant),2,10
+2015-16,Bacterial Coinfectio,Staphylococcus aureus(susceptibility unknown),3,15
+2015-16,Bacterial Coinfectio,Streptococcus pneumoniae,5,25
+2015-16,Bacterial Coinfectio,Group A Streptococcus,5,25
+2015-16,Bacterial Coinfectio,Other,11,55
+2016-17,Conditions,Neurologic Disorder,23,23.2
+2016-17,Conditions,Pulmonary Disease,21,21.2
+2016-17,Conditions,Chromosomal Abnormality / Genetic Syndrome,8,8.1
+2016-17,Conditions,Cardiac Disease,6,6.1
+2016-17,Conditions,Immune Suppression ,5,5.1
+2016-17,Conditions,Endocrine Disorder,4,4
+2016-17,Conditions,Renal Disease,1,1
+2016-17,Conditions,Obesity,4,4
+2016-17,Bacterial Coinfectio,Staphylococcus aureus(methicillin susceptible),2,7.7
+2016-17,Bacterial Coinfectio,Staphylococcus aureus(methicillin resistant),6,23.1
+2016-17,Bacterial Coinfectio,Staphylococcus aureus(susceptibility unknown),5,19.2
+2016-17,Bacterial Coinfectio,Streptococcus pneumoniae,6,23.1
+2016-17,Bacterial Coinfectio,Group A Streptococcus,4,15.4
+2016-17,Bacterial Coinfectio,Other,10,38.5
+2017-18,Conditions,Neurologic Disorder,47,28.3
+2017-18,Conditions,Pulmonary Disease,37,22.3
+2017-18,Conditions,Chromosomal Abnormality / Genetic Syndrome,21,12.7
+2017-18,Conditions,Cardiac Disease,15,9
+2017-18,Conditions,Immune Suppression ,7,4.2
+2017-18,Conditions,Endocrine Disorder,9,5.4
+2017-18,Conditions,Mitochondrial Disorder,1,0.6
+2017-18,Conditions,Renal Disease,5,3
+2017-18,Conditions,Obesity,5,3
+2017-18,Bacterial Coinfectio,Staphylococcus aureus(methicillin susceptible),4,12.1
+2017-18,Bacterial Coinfectio,Staphylococcus aureus(methicillin resistant),8,24.2
+2017-18,Bacterial Coinfectio,Staphylococcus aureus(susceptibility unknown),2,6.1
+2017-18,Bacterial Coinfectio,Streptococcus pneumoniae,7,21.2
+2017-18,Bacterial Coinfectio,Group A Streptococcus,4,12.1
+2017-18,Bacterial Coinfectio,Other,15,45.5
+2018-19,Conditions,Neurologic Disorder,11,28.2
+2018-19,Conditions,Pulmonary Disease,7,17.9
+2018-19,Conditions,Chromosomal Abnormality / Genetic Syndrome,2,5.1
+2018-19,Conditions,Endocrine Disorder,1,2.6
+2018-19,Conditions,Obesity,1,2.6
+2018-19,Bacterial Coinfectio,Staphylococcus aureus(methicillin resistant),1,12.5
+2018-19,Bacterial Coinfectio,Staphylococcus aureus(susceptibility unknown),2,25
+2018-19,Bacterial Coinfectio,Streptococcus pneumoniae,1,12.5
+2018-19,Bacterial Coinfectio,Group A Streptococcus,1,12.5
+2018-19,Bacterial Coinfectio,Other,4,50

@@ -1,0 +1,28 @@
+publicData <- read.csv(file.choose())
+library(ggplot2)
+library(reshape2)
+dim(publicData)
+publicData[-(x:y),]
+dfm <- melt(publicData[,c('WEEK', 'A..Subtyping.not.Performed.', 
+                          'A..2009.H1N1.', 'A..H3.', 'H3N2v', 'B', 'BVic', 'BYam')],id.vars = 1)
+dfm
+ggplot(dfm,aes(x = WEEK,y = value)) + 
+  geom_bar(aes(fill = variable),stat = "identity",position =position_stack(reverse = TRUE))
+
+publicData <- read.csv(file.choose())
+library(ggplot2)
+library(reshape2)
+
+dfm <- melt(publicData[,c('WEEK', 'TOTAL A', 'TOTAL B')],id.vars = 1)
+dfm
+ggplot(dfm,aes(x = WEEK,y = value)) + 
+  geom_bar(aes(fill = variable),stat = "identity",position =position_stack(reverse = TRUE))+
+  geom_line(aes(fill = variable))+
+  geom_point(aes(fill = variable))
+
+
+x <- c(1,2,4,6,7,9,10,12,30,50)
+y <- c(3,5,7,9,10,11,15,35,40,49)
+model <- lm(y-x)
+model
+plot(model)

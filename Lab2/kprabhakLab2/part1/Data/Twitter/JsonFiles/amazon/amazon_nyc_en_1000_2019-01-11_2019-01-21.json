@@ -1,0 +1,69 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281040839, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "#\nIntent_sports is the\n#\nUSA based best online store for sports and exercise equipment. Click: http://www.intentsports.com\u00a0 Amazon: https://amzn.to/2uPve30\n#\nsports_and_fitness_equipment\n#\nworkout_equipment_for_sale\n#\nexercise_equipment_stores_near_me\n#\nused_exercise_equipment_forpic.twitter.com/asWTiI3TNC", 
+    "created_at": "2019-01-15T13:08:40Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/RWC6WiG3Bw", 
+          "expanded_url": "http://www.intentsports.com", 
+          "display_url": "http://www.intentsports.com"
+        }, 
+        {
+          "url": "https://t.co/IH54EPkAfx", 
+          "expanded_url": "https://amzn.to/2uPve30", 
+          "display_url": "https://amzn.to/2uPve30"
+        }, 
+        {
+          "url": "https://t.co/asWTiI3TNC", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/asWTiI3TNC"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "SportsIntent", 
+      "name": "Intent Sports", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1067824040318881792/u1Q5ckcQ_400x400.jpg", 
+      "id": 995839613657866241
+    }, 
+    "retweet_count": 0, 
+    "id": 1085237346428104704, 
+    "favorite_count": 1
+  }
+]

@@ -1,0 +1,10 @@
+google
+apple
+amazon
+facebook
+microsoft
+music
+store
+youtube
+twitter
+windows

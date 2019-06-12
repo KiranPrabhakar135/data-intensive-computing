@@ -1,0 +1,2329 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e1c\u0e22 \u0e41\u0e2e\u0e04\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e43\u0e0a\u0e49\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e02\u0e2d\u0e07 http://Outlook.com\u00a0 \u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e2d\u0e37\u0e48\u0e19https://www.gamingdose.com/news/microsoft-%e0%b9%80%e0%b8%9c%e0%b8%a2-%e0%b9%81%e0%b8%ae%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b9%88%e0%b8%b2\u00a0\u2026", 
+    "created_at": "2019-04-14T09:43:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/cT4ov9xAAE", 
+          "expanded_url": "http://Outlook.com", 
+          "display_url": "http://Outlook.com"
+        }, 
+        {
+          "url": "https://t.co/s3aGR6vrdV", 
+          "expanded_url": "https://www.gamingdose.com/news/microsoft-%e0%b9%80%e0%b8%9c%e0%b8%a2-%e0%b9%81%e0%b8%ae%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b9%88%e0%b8%b2", 
+          "display_url": "https://www.gamingdose.com/news/microsoft-%e0%b9%80%e0%b8%9c%e0%b8%a2-%e0%b9%81%e0%b8%ae%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b9%88%e0%b8%b2\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "nlpo11", 
+      "name": "\ud83c\udfae", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1104010831547707392/Wy2OSgxr_400x400.jpg", 
+      "id": 98156647
+    }, 
+    "retweet_count": 0, 
+    "id": 1117423037123416065, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e1c\u0e22 \u0e41\u0e2e\u0e04\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e43\u0e0a\u0e49\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e02\u0e2d\u0e07 http://Outlook.com\u00a0 \u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e2d\u0e37\u0e48\u0e19 http://bit.ly/2Ud1MxP\n#\nGamingDose", 
+    "created_at": "2019-04-14T06:03:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/oRO9sqMs0c", 
+          "expanded_url": "http://Outlook.com", 
+          "display_url": "http://Outlook.com"
+        }, 
+        {
+          "url": "https://t.co/Ou0CBgyyzu", 
+          "expanded_url": "http://bit.ly/2Ud1MxP", 
+          "display_url": "http://bit.ly/2Ud1MxP"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "thaitechfeed", 
+      "name": "THAI TECH FEED", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_400x400.jpg", 
+      "id": 475660262
+    }, 
+    "retweet_count": 0, 
+    "id": 1117367738643681282, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e1c\u0e22 \u0e41\u0e2e\u0e04\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e43\u0e0a\u0e49\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e48\u0e32\u0e07\u0e02\u0e2d\u0e07 http://Outlook.com\u00a0 \u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e2d\u0e37\u0e48\u0e19 https://www.gamingdose.com/?p=132168", 
+    "created_at": "2019-04-14T05:26:39Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/qFOmkDm3yF", 
+          "expanded_url": "http://Outlook.com", 
+          "display_url": "http://Outlook.com"
+        }, 
+        {
+          "url": "https://t.co/DbM4kQteeD", 
+          "expanded_url": "https://www.gamingdose.com/?p=132168", 
+          "display_url": "https://www.gamingdose.com/?p=132168"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "GamingDose", 
+      "name": "GamingDose", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1078905397715456000/hjnw5r9G_400x400.jpg", 
+      "id": 2217844164
+    }, 
+    "retweet_count": 0, 
+    "id": 1117358495982964736, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e48\u0e07\u0e43\u0e08\u0e27\u0e48\u0e32\u0e08\u0e30\u0e40\u0e2d\u0e32 office2019 \u0e2b\u0e23\u0e37\u0e2d 365 \u0e41\u0e15\u0e48\u0e40\u0e2b\u0e47\u0e19 microsoft \u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e41\u0e2d\u0e14\u0e01\u0e31\u0e14\u0e27\u0e48\u0e32\u0e2d\u0e22\u0e48\u0e32\u0e0b\u0e37\u0e49\u0e2d\u0e40\u0e25\u0e22 0ffice2019 \u0e0b\u0e37\u0e49\u0e2d 365 \u0e40\u0e16\u0e2d\u0e30 \u0e40\u0e1b\u0e47\u0e19\u0e07\u0e07\u0e40\u0e25\u0e22\u0e1b\u0e30 \u0e01\u0e31\u0e14\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e04\u0e37\u0e2d\u0e44\u0e23\u0e27\u0e30", 
+    "created_at": "2019-04-14T04:43:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "bitnaneunn", 
+      "name": "Nada", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1086444493543333889/bY0toM9D_400x400.jpg", 
+      "id": 626500662
+    }, 
+    "retweet_count": 0, 
+    "id": 1117347577219862528, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e27\u0e34\u0e18\u0e35\u0e43\u0e0a\u0e49 Google Docs \u0e41\u0e01\u0e49\u0e44\u0e02\u0e44\u0e1f\u0e25\u0e4c\u0e07\u0e32\u0e19 Microsoft Word \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e41\u0e1b\u0e25\u0e07\u0e44\u0e1f\u0e25\u0e4c https://www.it24hrs.com/2019/google-docs-docx-editing/\u00a0\u2026", 
+    "created_at": "2019-04-14T04:39:54Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Of99izsTk9", 
+          "expanded_url": "https://www.it24hrs.com/2019/google-docs-docx-editing/", 
+          "display_url": "https://www.it24hrs.com/2019/google-docs-docx-editing/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "iT24Hrs", 
+      "name": "iT24Hrs", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/949610424604835840/ugYYu2vn_400x400.jpg", 
+      "id": 175151241
+    }, 
+    "retweet_count": 10, 
+    "id": 1117346732445028352, 
+    "favorite_count": 13
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e43\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e01\u0e47\u0e21\u0e32\u0e16\u0e36\u0e07 ! \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 Google \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e08\u0e23\u0e34\u0e07 \u0e46 \u0e01\u0e31\u0e1a Microsoft Office \u0e2a\u0e31\u0e01\u0e17\u0e35 \u0e2d\u0e48\u0e32\u0e19\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : https://techface.co/office-editing/\n#\nTechface\n#\nMicrosoftOffice\n#\nGoogleDrive\n#\nGoogleDocs\n#\nGsuitehttps://techface.co/office-editing/", 
+    "created_at": "2019-04-13T22:30:45Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ZvHn2ZUz5T", 
+          "expanded_url": "https://techface.co/office-editing/", 
+          "display_url": "https://techface.co/office-editing/"
+        }, 
+        {
+          "url": "https://t.co/ZvHn2ZUz5T", 
+          "expanded_url": "https://techface.co/office-editing/", 
+          "display_url": "https://techface.co/office-editing/"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "techface_co", 
+      "name": "Techface.co", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/913230668552855553/B6SSePzh_400x400.jpg", 
+      "id": 913229783319711744
+    }, 
+    "retweet_count": 0, 
+    "id": 1117253829265956864, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e43\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e01\u0e47\u0e21\u0e32\u0e16\u0e36\u0e07 ! \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 Google \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e23\u0e48\u0e27\u0e21\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e08\u0e23\u0e34\u0e07 \u0e46 \u0e01\u0e31\u0e1a Microsoft Office \u0e2a\u0e31\u0e01\u0e17\u0e35 \u0e2d\u0e48\u0e32\u0e19\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : http://bit.ly/2IiIl5m\n#\nTechface\n#\nMicrosoftOffice\n#\nGoogleDrive\n#\nGoogleDocs\n#\nGsuite", 
+    "created_at": "2019-04-13T22:30:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/o9kXbfxbYE", 
+          "expanded_url": "http://bit.ly/2IiIl5m", 
+          "display_url": "http://bit.ly/2IiIl5m"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "techface_co", 
+      "name": "Techface.co", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/913230668552855553/B6SSePzh_400x400.jpg", 
+      "id": 913229783319711744
+    }, 
+    "retweet_count": 0, 
+    "id": 1117253777646596096, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e41\u0e01 Microsoft Edge \u0e15\u0e31\u0e27\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e07 based Chromium \u0e41\u0e21\u0e48\u0e07\u0e40\u0e1a\u0e32\u0e1a\u0e32\u0e07\u0e2a\u0e27\u0e22\u0e2a\u0e1a\u0e32\u0e22\u0e15\u0e32\u0e21\u0e32\u0e01 \u0e44\u0e21\u0e48\u0e41\u0e14\u0e01\u0e41\u0e23\u0e21\u0e14\u0e49\u0e27\u0e22 \u0e40\u0e23\u0e47\u0e27\u0e14\u0e40\u0e27\u0e22\u0e22\u0e22", 
+    "created_at": "2019-04-13T12:34:56Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Korzeesr", 
+      "name": "\u0e17\u0e35\u0e21\u0e25\u0e38\u0e07\u0e15\u0e39\u0e48 \\10 \u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e14\u0e37\u0e2d", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1102485666699460608/RUalu145_400x400.jpg", 
+      "id": 1304241786
+    }, 
+    "retweet_count": 0, 
+    "id": 1117103888438480897, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e27\u0e34\u0e18\u0e35\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e04\u0e37\u0e2d \u0e43\u0e2b\u0e49\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e17\u0e35\u0e48 https://account.microsoft.com/security\u00a0 \u0e0b\u0e36\u0e48\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e14\u0e49\u0e32\u0e19\u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e42\u0e14\u0e22\u0e40\u0e09\u0e1e\u0e32\u0e30 \u0e20\u0e32\u0e22\u0e2b\u0e25\u0e31\u0e07\u0e08\u0e32\u0e01\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e2a\u0e23\u0e47\u0e08 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e43\u0e0a\u0e49\u0e41\u0e2d\u0e1b Microsoft Authenticator \u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e2d\u0e1b\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e01\u0e32\u0e23\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e15\u0e31\u0e27\u0e2d\u0e35\u0e01\u0e0a\u0e31\u0e49\u0e19 \u0e2d\u0e35\u0e01\u0e17\u0e31\u0e49\u0e07\u0e2d\u0e33\u0e19\u0e27\u0e22\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e30\u0e14\u0e27\u0e01\u0e43\u0e19\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e2d\u0e35\u0e01\u0e02\u0e31\u0e49\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e41\u0e04\u0e48\u0e25\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e43\u0e0a\u0e49\u0e04\u0e23\u0e31\u0e49\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1e\u0e2d", 
+    "created_at": "2019-04-13T11:35:38Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ELOLOvw2vR", 
+          "expanded_url": "https://account.microsoft.com/security", 
+          "display_url": "https://account.microsoft.com/security"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Be1con", 
+      "name": "MOSambique Here", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/790168886331125760/iKKRXvrU_400x400.jpg", 
+      "id": 391349002
+    }, 
+    "retweet_count": 0, 
+    "id": 1117088963678756864, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e21\u0e32\u0e14\u0e39\u0e04\u0e27\u0e32\u0e21\u0e01\u0e49\u0e2a\u0e27\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e31\u0e48\u0e07 Microsoft \u0e01\u0e31\u0e19 https://techsauce.co/en/pr-news/microsoft-innovation-conference-ai-for-thai-sme/\u00a0\u2026", 
+    "created_at": "2019-04-13T00:12:25Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/AxaE35xJKj", 
+          "expanded_url": "https://techsauce.co/en/pr-news/microsoft-innovation-conference-ai-for-thai-sme/", 
+          "display_url": "https://techsauce.co/en/pr-news/microsoft-innovation-conference-ai-for-thai-sme/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ie_engineer_dpu", 
+      "name": "\u0e27\u0e34\u0e28\u0e27\u0e30\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e32\u0e23 DPU", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/699970598919761920/Y7iOgYsa_400x400.jpg", 
+      "id": 4921257624
+    }, 
+    "retweet_count": 0, 
+    "id": 1116917028428795905, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e27\u0e34\u0e18\u0e35\u0e43\u0e0a\u0e49 Google Docs \u0e41\u0e01\u0e49\u0e44\u0e02\u0e44\u0e1f\u0e25\u0e4c\u0e07\u0e32\u0e19 Microsoft Word \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e41\u0e1b\u0e25\u0e07\u0e44\u0e1f\u0e25\u0e4c https://www.it24hrs.com/2019/google-docs-docx-editing/\u00a0\u2026", 
+    "created_at": "2019-04-12T13:52:59Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/6GajQtfDDt", 
+          "expanded_url": "https://www.it24hrs.com/2019/google-docs-docx-editing/", 
+          "display_url": "https://www.it24hrs.com/2019/google-docs-docx-editing/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "panraphee", 
+      "name": "Panraphee \u0e1b\u0e32\u0e19\u0e23\u0e30\u0e1e\u0e35", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103788893109837824/QRdHxJ81_400x400.jpg", 
+      "id": 56156439
+    }, 
+    "retweet_count": 72, 
+    "id": 1116761144532672512, 
+    "favorite_count": 106
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e21\u0e32\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e42\u0e25\u0e01\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19\u0e2a\u0e21\u0e31\u0e22\u0e43\u0e2b\u0e21\u0e48\u0e44\u0e1b\u0e01\u0e31\u0e1a Microsoft Office 365 Applications (1Day) (O365) \u0e01\u0e31\u0e1a\u0e1f\u0e35\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e17\u0e35\u0e48\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e49\u0e2d\u0e07\u0e27\u0e49\u0e32\u0e27\u0e21\u0e32\u0e01\u0e02\u0e36\u0e49\u0e19 \u0e01\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e04\u0e25\u0e48\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e43\u0e19\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e1a\u0e19\u0e23\u0e30\u0e1a\u0e1a\u0e04\u0e25\u0e32\u0e27\u0e14\u0e4c \u0e14\u0e49\u0e27\u0e22\u0e23\u0e32\u0e04\u0e32\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e40\u0e1e\u0e35\u0e22\u0e07 990 \u0e1a\u0e32\u0e17\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19 \u0e08\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e2d\u0e1a\u0e23\u0e21\u0e41\u0e25\u0e30\u0e25\u0e07\u0e17\u0e30\u0e40\u0e1a\u0e35\u0e22\u0e19\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 https://forms.gle/VnjLfA2vvKRqUivi9\u00a0\u2026pic.twitter.com/N5ebrH18la", 
+    "created_at": "2019-04-12T09:48:02Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/tCNdjEtDBO", 
+          "expanded_url": "https://forms.gle/VnjLfA2vvKRqUivi9", 
+          "display_url": "https://forms.gle/VnjLfA2vvKRqUivi9\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/N5ebrH18la", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/N5ebrH18la"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ERTTraining", 
+      "name": "ERT Training Center", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1113807299884118021/b0qFLGAE_400x400.png", 
+      "id": 111484414
+    }, 
+    "retweet_count": 0, 
+    "id": 1116699499487846400, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e04\u0e27\u0e32\u0e21\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e1a \u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e39\u0e15\u0e23\u0e1b\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e38\u0e07 \u201c\n#\n\u0e20\u0e39\u0e21\u0e34\u0e2a\u0e32\u0e23\u0e2a\u0e19\u0e40\u0e17\u0e28\u201d Excel 2013, 2016 \u0e41\u0e2a\u0e14\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e19\u0e41\u0e1c\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e21\u0e34\u0e15\u0e34\u0e44\u0e14\u0e49\u0e14\u0e49\u0e27\u0e22 \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d \u201c\n#\n3DMap\u201d \u0e21\u0e35\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e19\u0e23\u0e38\u0e48\u0e19 2016 *\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a Excel 2013 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14 add-in \u0e1f\u0e23\u0e35 Power Map \u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 https://www.microsoft.com/en-us/download/details.aspx?id=38395\u00a0\u2026 \u0e40\u0e04\u0e23\u0e14\u0e34\u0e15 : Thailand Microsoft in Education pic.twitter.com/ujiuAsYzBm", 
+    "created_at": "2019-04-12T09:45:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/EazOGwpZHm", 
+          "expanded_url": "https://www.microsoft.com/en-us/download/details.aspx?id=38395", 
+          "display_url": "https://www.microsoft.com/en-us/download/details.aspx?id=38395\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/ujiuAsYzBm", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/ujiuAsYzBm"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "9yaud", 
+      "name": "NaiYaud NaPralarn", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/928082061553889280/XlvAyZVT_400x400.jpg", 
+      "id": 72417371
+    }, 
+    "retweet_count": 4, 
+    "id": 1116698965771075585, 
+    "favorite_count": 4
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e0b\u0e31\u0e21\u0e40\u0e21\u0e2d\u0e23\u0e4c\u0e19\u0e35\u0e49 ... \u0e40\u0e23\u0e35\u0e22\u0e19\u0e17\u0e35\u0e48\u0e44\u0e2b\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e42\u0e1b\u0e23\u0e42\u0e21\u0e0a\u0e31\u0e48\u0e19 Training On Demand Summer Parade \u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e08\u0e49\u0e32 \u0e25\u0e14 20% \u0e40\u0e09\u0e1e\u0e32\u0e30\u0e43\u0e19 ERT Store Online \u0e01\u0e31\u0e1a \u0e04\u0e2d\u0e23\u0e4c\u0e2a On Demand \u0e02\u0e2d\u0e07 Microsoft \u0e41\u0e25\u0e30 VMware \u0e44\u0e1b\u0e0a\u0e49\u0e2d\u0e1b\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 \u0e16\u0e36\u0e07 31 \u0e1e\u0e24\u0e29\u0e20\u0e32\u0e04\u0e21 2562 \u0e19\u0e35\u0e49 \u0e04\u0e48\u0e30 \u0e0a\u0e49\u0e2d\u0e1b\u0e01\u0e31\u0e19\u0e04\u0e25\u0e32\u0e22\u0e23\u0e49\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 http://www.ert.co.th/onlinestore\u00a0pic.twitter.com/PQ7Lr6yat4", 
+    "created_at": "2019-04-12T09:45:49Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/DgVUVxBtsQ", 
+          "expanded_url": "http://www.ert.co.th/onlinestore", 
+          "display_url": "http://www.ert.co.th/onlinestore"
+        }, 
+        {
+          "url": "https://t.co/PQ7Lr6yat4", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/PQ7Lr6yat4"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ERTTraining", 
+      "name": "ERT Training Center", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1113807299884118021/b0qFLGAE_400x400.png", 
+      "id": 111484414
+    }, 
+    "retweet_count": 0, 
+    "id": 1116698940789780487, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e15\u0e33\u0e19\u0e32\u0e19 Microsoft \u0e40\u0e25\u0e34\u0e01\u0e2a\u0e19\u0e31\u0e1a\u0e2a\u0e19\u0e38\u0e19 Windows XP \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e41\u0e25\u0e49\u0e27 \u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e23\u0e30\u0e22\u0e30\u0e40\u0e27\u0e25\u0e32\u0e40\u0e01\u0e37\u0e2d\u0e1a 18 \u0e1b\u0e35\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32 \u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27\n#\nThisisgameTH\n#\nWindowsXPhttps://www.thisisgamethailand.com/content/%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99-Microsoft-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99-Windows-XP-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7.html\u00a0\u2026", 
+    "created_at": "2019-04-12T09:30:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/3JyQoiF4eL", 
+          "expanded_url": "https://www.thisisgamethailand.com/content/%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99-Microsoft-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99-Windows-XP-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7.html", 
+          "display_url": "https://www.thisisgamethailand.com/content/%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99-Microsoft-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99-Windows-XP-%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ThisIsGameTH", 
+      "name": "ThisIsGame Thailand", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1090884769120890880/6r4ddhh8_400x400.jpg", 
+      "id": 2354217919
+    }, 
+    "retweet_count": 1, 
+    "id": 1116695027013414912, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e40\u0e15\u0e37\u0e2d\u0e19 Patch \u0e40\u0e14\u0e37\u0e2d\u0e19\u0e40\u0e21\u0e29\u0e32\u0e22\u0e19 2019 \u0e02\u0e2d\u0e07 Microsoft \u0e21\u0e35\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e01\u0e31\u0e1a Antivirus \u0e2d\u0e32\u0e08\u0e17\u0e33\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1a\u0e39\u0e17\u0e44\u0e21\u0e48\u0e02\u0e36\u0e49\u0e19 https://www.techtalkthai.com/microsoft-patch-2019-04-patches-conflict-with-antivirus-softwares/\u00a0\u2026pic.twitter.com/mrF51wpYoi", 
+    "created_at": "2019-04-12T07:22:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/I8weJ9fEv8", 
+          "expanded_url": "https://www.techtalkthai.com/microsoft-patch-2019-04-patches-conflict-with-antivirus-softwares/", 
+          "display_url": "https://www.techtalkthai.com/microsoft-patch-2019-04-patches-conflict-with-antivirus-softwares/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/mrF51wpYoi", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/mrF51wpYoi"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "TechTalkThai", 
+      "name": "TechTalkThai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/980874672232280064/h8mgnBFD_400x400.jpg", 
+      "id": 2463524000
+    }, 
+    "retweet_count": 0, 
+    "id": 1116662865006596098, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e08\u0e31\u0e14\u0e07\u0e32\u0e19 Innovation Conference \u0e0a\u0e39\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21 AI \u0e41\u0e25\u0e30\u0e04\u0e25\u0e32\u0e27\u0e14\u0e4c\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e2a\u0e33\u0e04\u0e31\u0e0d \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19 SME \u0e44\u0e17\u0e22\u0e2a\u0e39\u0e48\u0e2d\u0e19\u0e32\u0e04\u0e15 https://news.siamphone.com/news-41309.html\u00a0 \u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e32\u0e01\n@\nsiamphonedotcom", 
+    "created_at": "2019-04-12T06:23:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "59100165", 
+          "id": 59100165, 
+          "name": "Siamphone", 
+          "screen_name": "siamphonedotcom"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/gPSrhJfJn8", 
+          "expanded_url": "https://news.siamphone.com/news-41309.html", 
+          "display_url": "https://news.siamphone.com/news-41309.html"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kositlaorngsri", 
+      "name": "kosit la-orngsri", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/459633758090448896/mnnag4We_400x400.jpeg", 
+      "id": 2418295728
+    }, 
+    "retweet_count": 0, 
+    "id": 1116647998262407168, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e27\u0e34\u0e18\u0e35\u0e43\u0e0a\u0e49 Google Docs \u0e41\u0e01\u0e49\u0e44\u0e02\u0e44\u0e1f\u0e25\u0e4c\u0e07\u0e32\u0e19 Microsoft Word \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e41\u0e1b\u0e25\u0e07\u0e44\u0e1f\u0e25\u0e4c http://bit.ly/2X47Lqw", 
+    "created_at": "2019-04-12T03:53:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Lmv0pIhFFt", 
+          "expanded_url": "http://bit.ly/2X47Lqw", 
+          "display_url": "http://bit.ly/2X47Lqw"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "iT24Hrs", 
+      "name": "iT24Hrs", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/949610424604835840/ugYYu2vn_400x400.jpg", 
+      "id": 175151241
+    }, 
+    "retweet_count": 29, 
+    "id": 1116610380678086656, 
+    "favorite_count": 23
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e30\u0e14\u0e27\u0e01\u0e2a\u0e1a\u0e32\u0e22\u0e41\u0e01\u0e48\u0e1c\u0e39\u0e49\u0e41\u0e01\u0e49\u0e41\u0e25\u0e30\u0e1c\u0e39\u0e49\u0e15\u0e23\u0e27\u0e08\u0e07\u0e32\u0e19 \u0e40\u0e27\u0e25\u0e32\u0e41\u0e01\u0e49\u0e07\u0e32\u0e19\u0e43\u0e19 Microsoft Word \u0e43\u0e0a\u0e49 Function track change \u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30\u0e04\u0e23\u0e31\u0e1a\n#\nphdforum", 
+    "created_at": "2019-04-12T03:38:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Saritsrc", 
+      "name": "Sarit.src", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/665783949025673216/UFuGNfOC_400x400.jpg", 
+      "id": 1655695494
+    }, 
+    "retweet_count": 0, 
+    "id": 1116606606295195648, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e1b\u0e34\u0e14\u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e38\u0e02\u0e20\u0e32\u0e1e HealthVault \u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e35\u0e19\u0e35\u0e49 http://dlvr.it/R2dy00\u00a0pic.twitter.com/FgSfkoHk4a", 
+    "created_at": "2019-04-11T18:18:03Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Zp39PVW1gZ", 
+          "expanded_url": "http://dlvr.it/R2dy00", 
+          "display_url": "http://dlvr.it/R2dy00"
+        }, 
+        {
+          "url": "https://t.co/FgSfkoHk4a", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/FgSfkoHk4a"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Grafpalio", 
+      "name": "Grafpalio", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1019927473272733696/IkQX-bgR_400x400.jpg", 
+      "id": 61145899
+    }, 
+    "retweet_count": 0, 
+    "id": 1116465459572797440, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Satya Nadella \u0e0b\u0e35\u0e2d\u0e35\u0e42\u0e2d Microsoft \u0e04\u0e37\u0e2d\u0e1c\u0e39\u0e49\u0e01\u0e2d\u0e1a\u0e01\u0e39\u0e49\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e02\u0e2d\u0e07\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e1c\u0e07\u0e32\u0e14\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 \u0e42\u0e14\u0e22\u0e40\u0e02\u0e32\u0e01\u0e25\u0e48\u0e32\u0e27\u0e16\u0e36\u0e07\u0e1a\u0e38\u0e04\u0e25\u0e34\u0e01\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e19\u0e35\u0e49\u0e40\u0e04\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e22\u0e34\u0e48\u0e07\u0e1c\u0e22\u0e2d\u0e07 \u0e0b\u0e36\u0e48\u0e07 Nadella \u0e44\u0e14\u0e49\u0e17\u0e33\u0e25\u0e32\u0e22\u0e21\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e34\u0e14\u0e01\u0e27\u0e49\u0e32\u0e07\u0e41\u0e25\u0e30\u0e22\u0e2d\u0e21\u0e1b\u0e23\u0e31\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e41\u0e1b\u0e25\u0e07\n#\nThursdayThoughts\n#\nbusinessquote\n#\nCEO\n#\n\u0e04\u0e21\u0e04\u0e34\u0e14\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08pic.twitter.com/PXUX5nmtBf", 
+    "created_at": "2019-04-11T12:33:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/PXUX5nmtBf", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/PXUX5nmtBf"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Forbes_TH", 
+      "name": "Forbes Thailand", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/450869802114887680/5WLKAtHP_400x400.jpeg", 
+      "id": 2421587226
+    }, 
+    "retweet_count": 4, 
+    "id": 1116378655733641218, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e40\u0e2d\u0e01\u0e40\u0e0b\u0e25\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e15\u0e23\u0e30\u0e01\u0e39\u0e25 Microsoft Office \u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e43\u0e19\u0e15\u0e23\u0e30\u0e01\u0e39\u0e25\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e04\u0e38\u0e49\u0e19\u0e0a\u0e34\u0e19\u0e01\u0e31\u0e19\u0e01\u0e47\u0e08\u0e30\u0e21\u0e35 Word \u0e41\u0e25\u0e30 PowerPoint \u0e40\u0e1b\u0e47\u0e19\u0e15\u0e49\u0e19 \u0e17\u0e31\u0e49\u0e07\u0e19\u0e35\u0e49 \u0e41\u0e15\u0e48\u0e25\u0e30\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e16\u0e39\u0e01\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e02\u0e36\u0e49\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e15\u0e16\u0e38\u0e1b\u0e23\u0e30\u0e2a\u0e07\u0e04\u0e4c\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19", 
+    "created_at": "2019-04-11T09:30:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "287629297", 
+          "id": 287629297, 
+          "name": "Grimmjow", 
+          "screen_name": "grimmjow_j4eger"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "khunpreut", 
+      "name": "\u0e04\u0e39\u0e21\u0e1e\u0e23\u0e36\u0e15\u0e04\u0e25\u0e40\u0e14\u0e4b\u0e2d\u2122 \u0e2d\u0e19\u0e32\u0e04\u0e15\u0e21\u0e37\u0e14\u0e21\u0e19 \u25c7", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114447339727405056/QkxoNpJK_400x400.jpg", 
+      "id": 2471357414
+    }, 
+    "retweet_count": 2, 
+    "id": 1116332669111922689, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e08\u0e31\u0e14\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e21\u0e39\u0e25\u0e04\u0e48\u0e32\u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c\u0e02\u0e2d\u0e07 Forbes \u0e43\u0e19\u0e1b\u0e35 2018 \u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 1 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 Apple 5.8 \u0e25\u0e49\u0e32\u0e19\u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 \u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 2 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 Google 4.2 \u0e25\u0e49\u0e32\u0e19\u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 \u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 3 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 Microsoft 3.3 \u0e25\u0e49\u0e32\u0e19\u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 \u0e41\u0e15\u0e48\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e2a\u0e19\u0e43\u0e08\u0e04\u0e37\u0e2d \u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48 Marlboro \u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e08\u0e31\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e17\u0e35\u0e48 22 \u0e21\u0e35\u0e21\u0e39\u0e25\u0e04\u0e48\u0e32\u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c\u0e1b\u0e23\u0e30\u0e21\u0e32\u0e13 8.4 \u0e41\u0e2a\u0e19\u0e25\u0e49\u0e32\u0e19\u0e1a\u0e32\u0e17 pic.twitter.com/ajJeLrPxKE", 
+    "created_at": "2019-04-11T07:50:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ajJeLrPxKE", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/ajJeLrPxKE"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "longtunman", 
+      "name": "\u0e25\u0e07\u0e17\u0e38\u0e19\u0e41\u0e21\u0e19", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1017346304261828608/-pu9GYNH_400x400.jpg", 
+      "id": 965801281813069824
+    }, 
+    "retweet_count": 79, 
+    "id": 1116307406429085697, 
+    "favorite_count": 25
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "#\nMicrosoft \u0e08\u0e31\u0e14\u0e07\u0e32\u0e19\n#\nInnovationConference \u0e0a\u0e39\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21 AI \u0e41\u0e25\u0e30\u0e04\u0e25\u0e32\u0e27\u0e14\u0e4c\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e2a\u0e33\u0e04\u0e31\u0e0d \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19 SME \u0e44\u0e17\u0e22\u0e2a\u0e39\u0e48\u0e2d\u0e19\u0e32\u0e04\u0e15 https://news.siamphone.com/news-41309.html\u00a0pic.twitter.com/sVXV0AHoCl", 
+    "created_at": "2019-04-11T06:30:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/MPrUNxVCwz", 
+          "expanded_url": "https://news.siamphone.com/news-41309.html", 
+          "display_url": "https://news.siamphone.com/news-41309.html"
+        }, 
+        {
+          "url": "https://t.co/sVXV0AHoCl", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/sVXV0AHoCl"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "siamphonedotcom", 
+      "name": "Siamphone", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/924650680471523328/tj_PSOrW_400x400.jpg", 
+      "id": 59100165
+    }, 
+    "retweet_count": 1, 
+    "id": 1116287274701000706, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e42\u0e16\u0e16\u0e16\u0e16 \u0e44\u0e21\u0e48\u0e21\u0e35\u0e1b\u0e31\u0e0d\u0e0d\u0e32\u0e44\u0e1b \u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e42\u0e17\u0e29\u0e1a\u0e23\u0e23\u0e1e\u0e1a\u0e38\u0e23\u0e38\u0e29\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e42\u0e17\u0e29\u0e04\u0e27\u0e32\u0e21\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32\u0e44\u0e2b\u0e19\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07.. \u0e1a\u0e34\u0e25\u0e40\u0e01\u0e15 \u0e40\u0e08\u0e49\u0e32\u0e1e\u0e48\u0e2d microsoft \u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01\u0e27\u0e48\u0e32\u0e16\u0e49\u0e32\u0e04\u0e38\u0e13\u0e40\u0e01\u0e34\u0e14\u0e21\u0e32\u0e10\u0e32\u0e19\u0e30\u0e22\u0e32\u0e01\u0e08\u0e19\u0e21\u0e31\u0e19\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e04\u0e27\u0e32\u0e21\u0e1c\u0e34\u0e14\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 \u0e41\u0e15\u0e48\u0e16\u0e49\u0e32\u0e04\u0e38\u0e13\u0e15\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27\u0e10\u0e32\u0e19\u0e30\u0e22\u0e31\u0e07\u0e22\u0e32\u0e01\u0e08\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 \u0e21\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e1c\u0e34\u0e14\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13", 
+    "created_at": "2019-04-11T06:12:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "953670151", 
+          "id": 953670151, 
+          "name": "\u0e21\u0e31\u0e19\u0e14\u0e39\u0e40\u0e01\u0e34\u0e23\u0e4c\u0e25 \ud83d\udc99", 
+          "screen_name": "_peachchee_"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "somchu", 
+      "name": "Somchai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1115197614306152448/znlV-3a4_400x400.jpg", 
+      "id": 61791137
+    }, 
+    "retweet_count": 10, 
+    "id": 1116282817212588032, 
+    "favorite_count": 13
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e30\u0e41\u0e1a\u0e04\u0e2d\u0e31\u0e1e\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e22\u0e2d\u0e30\u0e21\u0e32\u0e01\u0e1b\u0e23\u0e30\u0e21\u0e32\u0e13 3TB \u0e02\u0e36\u0e49\u0e19\u0e40\u0e0b\u0e34\u0e1f\u0e40\u0e27\u0e2d\u0e23\u0e4c \u0e04\u0e27\u0e23\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e0a\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e07\u0e40\u0e08\u0e49\u0e32\u0e44\u0e2b\u0e19\u0e14\u0e35 iCloud ggdrive microsoft \u0e02\u0e2d\u0e1a\u0e1e\u0e23\u0e30\u0e04\u0e38\u0e13\u0e04\u0e48\u0e30", 
+    "created_at": "2019-04-11T05:10:08Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "erk_erk", 
+      "name": "www.erk-erk.com", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1063497929376186368/jgY8Uoxs_400x400.jpg", 
+      "id": 63753577
+    }, 
+    "retweet_count": 0, 
+    "id": 1116267175457640448, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e16\u0e49\u0e32\u0e41\u0e01\u0e49\u0e44\u0e02\u0e43\u0e19 Microsoft word \u0e43\u0e0a\u0e49\u0e1f\u0e31\u0e07\u0e01\u0e4c\u0e0a\u0e31\u0e19 replace \u0e17\u0e31\u0e1a\u0e0a\u0e37\u0e48\u0e2d\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e40\u0e25\u0e22\u0e44\u0e14\u0e49\u0e19\u0e30\u0e04\u0e30", 
+    "created_at": "2019-04-11T04:01:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1064807191553597441", 
+          "id": 1064807191553597441, 
+          "name": "CYU\u2022\ud83e\udd18\u0e02\u0e2d\u0e07\ubfcd\uc091", 
+          "screen_name": "S_Cyunie"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Thanawankan", 
+      "name": "TK~", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116710485687246848/wA_WrfVa_400x400.jpg", 
+      "id": 145710469
+    }, 
+    "retweet_count": 0, 
+    "id": 1116249834401554432, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e1c\u0e39\u0e49\u0e40\u0e0a\u0e35\u0e48\u0e22\u0e27\u0e0a\u0e32\u0e0d\u0e40\u0e1c\u0e22\u0e42\u0e04\u0e49\u0e14 PoC \u0e0a\u0e48\u0e2d\u0e07\u0e42\u0e2b\u0e27\u0e48\u0e22\u0e01\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e17\u0e35\u0e48 Microsoft \u0e41\u0e1e\u0e15\u0e0a\u0e4c\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e2a\u0e39\u0e48\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e30 https://www.techtalkthai.com/researcher-published-demo-cve-2019-0841/\u00a0\u2026pic.twitter.com/0in2Yxc3Oa", 
+    "created_at": "2019-04-11T03:43:40Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/bSyqbGbw4i", 
+          "expanded_url": "https://www.techtalkthai.com/researcher-published-demo-cve-2019-0841/", 
+          "display_url": "https://www.techtalkthai.com/researcher-published-demo-cve-2019-0841/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/0in2Yxc3Oa", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/0in2Yxc3Oa"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "TechTalkThai", 
+      "name": "TechTalkThai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/980874672232280064/h8mgnBFD_400x400.jpg", 
+      "id": 2463524000
+    }, 
+    "retweet_count": 5, 
+    "id": 1116245416494948352, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e15\u0e49\u0e2d\u0e07\u0e41\u0e01\u0e49\u0e44\u0e02\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 \u0e2b\u0e32\u0e01\u0e23\u0e30\u0e1a\u0e1a\u0e0a\u0e33\u0e23\u0e30\u0e40\u0e07\u0e34\u0e19\u0e02\u0e2d\u0e07 Microsoft Store \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13 http://msft.social/IoCWVR\u00a0pic.twitter.com/XXJezNPlQR", 
+    "created_at": "2019-04-11T03:00:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/KT7pGRIlHT", 
+          "expanded_url": "http://msft.social/IoCWVR", 
+          "display_url": "http://msft.social/IoCWVR"
+        }, 
+        {
+          "url": "https://t.co/XXJezNPlQR", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/XXJezNPlQR"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MSHelpsThai", 
+      "name": "MSHelpsThai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/875615022654734336/hU6BDFte_400x400.jpg", 
+      "id": 415173708
+    }, 
+    "retweet_count": 0, 
+    "id": 1116234427405885441, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "#\nmicrosoft \u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e17\u0e35\u0e48\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e23\u0e34\u0e07\u0e46 \u0e42\u0e17\u0e23\u0e44\u0e1b\u0e15\u0e32\u0e21\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e43\u0e2b\u0e49\u0e21\u0e32\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e23\u0e30\u0e1a\u0e1a\u0e15\u0e2d\u0e1a\u0e23\u0e31\u0e1a\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34 \u0e01\u0e14\u0e40\u0e25\u0e02\u0e2d\u0e30\u0e44\u0e23\u0e44\u0e1b\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e08\u0e2d\u0e04\u0e19 \u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07 \u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e43\u0e2b\u0e49\u0e0a\u0e48\u0e27\u0e22\u0e41\u0e01\u0e49\u0e1b\u0e31\u0e0d\u0e2b\u0e32 onedrive \u0e0b\u0e31\u0e01\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e44\u0e21\u0e48\u0e19\u0e48\u0e32\u0e22\u0e2d\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e40\u0e07\u0e34\u0e19\u0e23\u0e32\u0e22\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e40\u0e25\u0e22", 
+    "created_at": "2019-04-11T01:47:25Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "actky", 
+      "name": "Ricky Dong", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/924687946/058c7e30-7bb8-4ee9-a10c-621c1e8671b9_400x400.png", 
+      "id": 33836974
+    }, 
+    "retweet_count": 0, 
+    "id": 1116216160712712193, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e1b\u0e34\u0e14\u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e38\u0e02\u0e20\u0e32\u0e1e HealthVault \u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e35\u0e19\u0e35\u0e49 http://dlvr.it/R2ZykY\u00a0pic.twitter.com/ZqjJGcXUm7", 
+    "created_at": "2019-04-11T00:46:03Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/VGRse4XKqU", 
+          "expanded_url": "http://dlvr.it/R2ZykY", 
+          "display_url": "http://dlvr.it/R2ZykY"
+        }, 
+        {
+          "url": "https://t.co/ZqjJGcXUm7", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/ZqjJGcXUm7"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "narokboy", 
+      "name": "Narokboy Junior", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1512378902/47174_1270451540262_1799086958_529074_6364788_n_400x400.jpg", 
+      "id": 80206010
+    }, 
+    "retweet_count": 0, 
+    "id": 1116200714542309376, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e2d\u0e34\u0e19\u0e1f\u0e34\u0e19\u0e34\u0e01\u0e0b\u0e4c \u0e42\u0e0b\u0e25\u0e39\u0e0a\u0e31\u0e48\u0e19 \u0e08\u0e33\u0e01\u0e31\u0e14 \u0e02\u0e2d\u0e19\u0e33\u0e40\u0e2a\u0e19\u0e2d\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e14\u0e35\u0e46 \u0e02\u0e2d\u0e07 Microsoft Teams \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e2a\u0e2d\u0e1a\u0e16\u0e32\u0e21\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e41\u0e25\u0e30\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 Tel :02-077-9066 Line ID :@pym5186s WEB :http://www.infinix.co.th\n#\nMicrosoft\n#\nMicrosoftTeamspic.twitter.com/aiNSolBlAo", 
+    "created_at": "2019-04-11T00:12:09Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/GWzoz485Z3", 
+          "expanded_url": "http://www.infinix.co.th", 
+          "display_url": "http://www.infinix.co.th"
+        }, 
+        {
+          "url": "https://t.co/aiNSolBlAo", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/aiNSolBlAo"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Infinix_thai", 
+      "name": "Infinix_Solution", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103545754902093825/6yciu9so_400x400.png", 
+      "id": 1103545608608968705
+    }, 
+    "retweet_count": 1, 
+    "id": 1116192183722242048, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft Patch Tuesday \u0e1b\u0e23\u0e30\u0e08\u0e33\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e40\u0e21\u0e29\u0e32\u0e22\u0e19 2019 \u0e2d\u0e38\u0e14\u0e0a\u0e48\u0e2d\u0e07\u0e42\u0e2b\u0e27\u0e48\u0e04\u0e27\u0e32\u0e21\u0e21\u0e31\u0e48\u0e19\u0e04\u0e07\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e01\u0e27\u0e48\u0e32 74 \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23 https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/\u00a0\u2026", 
+    "created_at": "2019-04-10T22:56:11Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/vEn1J1uRpz", 
+          "expanded_url": "https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/", 
+          "display_url": "https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ohmohm", 
+      "name": "ohmohm", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/55159506/ohmohm_400x400.png", 
+      "id": 14935588
+    }, 
+    "retweet_count": 0, 
+    "id": 1116173066147524608, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e15\u0e32\u0e2a\u0e27\u0e48\u0e32\u0e07 ! Microsoft \u0e1a\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e49\u0e2d\u0e07 safely remove hardware \u0e43\u0e04\u0e23\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 USB \u0e41\u0e25\u0e49\u0e27\u0e22\u0e31\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e14\u0e2d\u0e22\u0e39\u0e48 \u0e40\u0e25\u0e34\u0e01\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\n#\nThisisgameTH\n#\nMicrosoft https://www.thisisgamethailand.com/content/%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-Microsoft-%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-safely-remove-hardware.html\u00a0\u2026", 
+    "created_at": "2019-04-10T19:30:13Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/N2Nktm11M6", 
+          "expanded_url": "https://www.thisisgamethailand.com/content/%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-Microsoft-%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-safely-remove-hardware.html", 
+          "display_url": "https://www.thisisgamethailand.com/content/%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-Microsoft-%E0%B8%9A%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-safely-remove-hardware.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ThisIsGameTH", 
+      "name": "ThisIsGame Thailand", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1090884769120890880/6r4ddhh8_400x400.jpg", 
+      "id": 2354217919
+    }, 
+    "retweet_count": 1, 
+    "id": 1116121233886605312, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e19\u0e49\u0e33\u0e15\u0e32\u0e08\u0e30\u0e44\u0e2b\u0e25!! Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 Windows 10 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07 USB Flash Drive \u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e31\u0e19\u0e17\u0e35 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e17\u0e33 Safely Remove \u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\n#\nMicrosoft\n#\nSafelyRemove\n#\nTeletalkhttps://www.flashfly.net/wp/247882", 
+    "created_at": "2019-04-10T13:15:45Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/QZJ6ykFOTn", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "wiraphats", 
+      "name": "Steven Wir", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1077565962809835520/1bZltLjR_400x400.jpg", 
+      "id": 68299041
+    }, 
+    "retweet_count": 0, 
+    "id": 1116026997908561921, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e17\u0e33\u0e44\u0e21\u0e1e\u0e35\u0e48\u0e17\u0e33\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e44\u0e21\u0e48\u0e1a\u0e2d\u0e01\u0e40\u0e23\u0e32\n#\nMicrosoft \u0e1a\u0e2d\u0e01\u0e40\u0e07\u0e35\u0e22\u0e1a\u0e46 \u0e43\u0e19\u0e40\u0e2d\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e48\u0e32\n#\nWindows10 \u0e23\u0e38\u0e48\u0e19\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e14 Safety Remove \u0e01\u0e47\u0e40\u0e2d\u0e32\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e2d\u0e2d\u0e01\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22 \u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e34\u0e19\u0e42\u0e14\u0e27\u0e2a\u0e4c\u0e1b\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19\u0e43\u0e2b\u0e49\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e41\u0e25\u0e49\u0e27\n#\nbeartaihttps://www.beartai.com/news/itnews/320542\u00a0\u2026", 
+    "created_at": "2019-04-10T10:38:25Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/eGl3GYdKgv", 
+          "expanded_url": "https://www.beartai.com/news/itnews/320542", 
+          "display_url": "https://www.beartai.com/news/itnews/320542\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "beartai", 
+      "name": "\u0e40\u0e27\u0e47\u0e1a\u0e41\u0e1a\u0e44\u0e15\u0e4b", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1056857929704333312/dR79tV5B_400x400.jpg", 
+      "id": 13302042
+    }, 
+    "retweet_count": 9, 
+    "id": 1115987401438941184, 
+    "favorite_count": 12
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e40\u0e04\u0e23\u0e35\u0e22\u0e14\u0e01\u0e27\u0e48\u0e32\u0e07\u0e32\u0e19\u0e01\u0e47\u0e04\u0e37\u0e2d\u0e17\u0e33\u0e2a\u0e44\u0e25\u0e14\u0e4c\u0e1c\u0e25 \u0e40\u0e1e\u0e23\u0e32\u0e30 Microsoft \u0e17\u0e38\u0e01\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e20\u0e32\u0e29\u0e32\u0e40\u0e22\u0e2d\u0e23\u0e21\u0e31\u0e19\u0e2b\u0e21\u0e14 \u0e19\u0e31\u0e48\u0e07\u0e07\u0e21\u0e44\u0e1b\u0e08\u0e49\u0e32 \u0e2b\u0e21\u0e14\u0e40\u0e27\u0e25\u0e32\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2d\u0e30\u0e44\u0e23\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 555555", 
+    "created_at": "2019-04-10T10:33:51Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "YoungisYou", 
+      "name": "\ud83e\udd8a\u0e2a\u0e30\u0e43\u0e20\u0e49TORONTO\u00a0\ud83c\udf43ft.lostinberlin\u00a0\ud83c\udde9\ud83c\uddea", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103349041029476353/FAy0PHAb_400x400.png", 
+      "id": 924292426948210688
+    }, 
+    "retweet_count": 0, 
+    "id": 1115986254460534784, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e2d\u0e34\u0e2b\u0e48 microsoft team \u0e02\u0e22\u0e31\u0e19\u0e02\u0e36\u0e49\u0e19\u0e08\u0e31\u0e07 \u0e25\u0e1a\u0e25\u0e30\u0e01\u0e47\u0e21\u0e32\u0e2d\u0e35\u0e01 \u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e48\u0e44\u0e23", 
+    "created_at": "2019-04-10T09:33:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "melxc29", 
+      "name": "ProfilePhoto . png", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1082828191608188930/XbZNnOGA_400x400.jpg", 
+      "id": 88328254
+    }, 
+    "retweet_count": 0, 
+    "id": 1115970971402264577, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e16\u0e2d\u0e14 Flash Drive \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e43\u0e0a\u0e49 Safely Remove \u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e48\u0e32\u0e19\u0e09\u0e1a\u0e31\u0e1a\u0e40\u0e15\u0e47\u0e21 >> https://bit.ly/2UJANhB\n#\n\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21 >> http://gamingdose.com\n#\noricothailand\n#\norico\n#\n\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e44\u0e2d\u0e17\u0e35\n#\nMicrosoft\n#\nWindows https://www.gamingdose.com/news/microsoft-\u00a0\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19-\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e16\u0e2d\u0e14-flash-drive-\u0e42\u0e14\u0e22\u0e44", 
+    "created_at": "2019-04-10T08:02:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/i5Ys2JFFlC", 
+          "expanded_url": "https://bit.ly/2UJANhB", 
+          "display_url": "https://bit.ly/2UJANhB"
+        }, 
+        {
+          "url": "https://t.co/9uKNXh75Je", 
+          "expanded_url": "http://gamingdose.com", 
+          "display_url": "http://gamingdose.com"
+        }, 
+        {
+          "url": "https://t.co/DCho2Wrbnu", 
+          "expanded_url": "https://www.gamingdose.com/news/microsoft-", 
+          "display_url": "https://www.gamingdose.com/news/microsoft-"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "_BackN_", 
+      "name": "Back-N Co.,Ltd.", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1019413466/back-n-logo-filtered_400x400.png", 
+      "id": 159023713
+    }, 
+    "retweet_count": 0, 
+    "id": 1115948038810263552, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e46\n#\nMicrosoft\n#\nEdgehttps://www.beartai.com/news/itnews/320292\u00a0\u2026", 
+    "created_at": "2019-04-10T07:30:31Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/DhjPe77sl5", 
+          "expanded_url": "https://www.beartai.com/news/itnews/320292", 
+          "display_url": "https://www.beartai.com/news/itnews/320292\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "reckonth", 
+      "name": "Nattapoom Yooyanyong", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1121483016/zyWidW99_400x400", 
+      "id": 96593568
+    }, 
+    "retweet_count": 0, 
+    "id": 1115940115862282248, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19\u0e40\u0e27\u0e25\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e1a\u0e44\u0e14\u0e23\u0e1f\u0e4c USB \u0e41\u0e25\u0e49\u0e27 \u0e17\u0e33\u0e43\u0e2b\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 Safely Remove \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e16\u0e2d\u0e14\u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b\n#\nMicrosoft\n#\nUSB\n#\nWriteCachehttps://www.overclockzone.com/microsoft-admit-safely-remove-usb-is-no-longer\u00a0\u2026", 
+    "created_at": "2019-04-10T06:00:10Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/8vhrLeW0va", 
+          "expanded_url": "https://www.overclockzone.com/microsoft-admit-safely-remove-usb-is-no-longer", 
+          "display_url": "https://www.overclockzone.com/microsoft-admit-safely-remove-usb-is-no-longer\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "OverclockzoneTH", 
+      "name": "Overclockzone", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1110118414800977920/jcUcfXOD_400x400.png", 
+      "id": 97928887
+    }, 
+    "retweet_count": 0, 
+    "id": 1115917377768706048, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Azure Dev Tools for Teaching \u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e0b\u0e2d\u0e1f\u0e15\u0e4c\u0e41\u0e27\u0e23\u0e4c\u0e25\u0e34\u0e02\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e01\u0e32\u0e23\u0e28\u0e36\u0e01\u0e29\u0e32\u0e02\u0e2d\u0e07 Microsoft \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e31\u0e01\u0e28\u0e36\u0e01\u0e29\u0e32 \u0e21\u0e0a. \u0e19\u0e31\u0e01\u0e28\u0e36\u0e01\u0e29\u0e32\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14\u0e0b\u0e2d\u0e1f\u0e15\u0e4c\u0e41\u0e27\u0e23\u0e4c\u0e02\u0e2d\u0e07\u0e44\u0e21\u0e42\u0e04\u0e23\u0e0b\u0e2d\u0e1f\u0e17\u0e4c \u0e17\u0e35\u0e48\u0e21\u0e35\u0e25\u0e34\u0e02\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e1c\u0e48\u0e32\u0e19\u0e17\u0e32\u0e07\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e15\u0e19\u0e40\u0e2d\u0e07 \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e04\u0e48\u0e32\u0e43\u0e0a\u0e49\u0e08\u0e48\u0e32\u0e22\u0e43\u0e14 \u0e46 \u0e28\u0e36\u0e01\u0e29\u0e32\u0e23\u0e32\u0e22\u0e25\u0e30\u0e40\u0e2d\u0e35\u0e22\u0e14\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 https://itsc.cmu.ac.th/services/43\n#\n\u0e17\u0e35\u0e21\u0e21\u0e0a\n#\nreviewCMUpic.twitter.com/CHRWuPieaj", 
+    "created_at": "2019-04-10T04:24:29Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/g8cdnQU40W", 
+          "expanded_url": "https://itsc.cmu.ac.th/services/43", 
+          "display_url": "https://itsc.cmu.ac.th/services/43"
+        }, 
+        {
+          "url": "https://t.co/CHRWuPieaj", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/CHRWuPieaj"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ReviewCMU", 
+      "name": "ReviewCMU", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1111925782891237376/dAHQ7Tcd_400x400.png", 
+      "id": 4130000479
+    }, 
+    "retweet_count": 39, 
+    "id": 1115893298676293634, 
+    "favorite_count": 24
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e41\u0e1e\u0e15\u0e0a\u0e4c\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e40\u0e21\u0e29\u0e32\u0e22\u0e19 2019 \u0e2d\u0e38\u0e14\u0e0a\u0e48\u0e2d\u0e07\u0e42\u0e2b\u0e27\u0e48\u0e04\u0e27\u0e32\u0e21\u0e21\u0e31\u0e48\u0e19\u0e04\u0e07\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e01\u0e27\u0e48\u0e32 74\u00a0\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23 https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/\u00a0\u2026pic.twitter.com/hC36g6LW6m", 
+    "created_at": "2019-04-10T03:48:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/jpMBnI1F7Z", 
+          "expanded_url": "https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/", 
+          "display_url": "https://www.techtalkthai.com/microsoft-monthly-patch-april-2019/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/hC36g6LW6m", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/hC36g6LW6m"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "TechTalkThai", 
+      "name": "TechTalkThai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/980874672232280064/h8mgnBFD_400x400.jpg", 
+      "id": 2463524000
+    }, 
+    "retweet_count": 1, 
+    "id": 1115884234693054464, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e44\u0e1b\u0e1d\u0e36\u0e01\u0e21\u0e32\u0e43\u0e2b\u0e21\u0e48\u0e19\u0e30 55", 
+    "created_at": "2019-04-10T03:15:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1087378124327669761", 
+          "id": 1087378124327669761, 
+          "name": "WORD -\u200bTHE14K-", 
+          "screen_name": "microsoft_words"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "mnhj2j", 
+      "name": "\ud83c\udf19\ud835\ude2b\ud835\ude22\ud835\ude2f\ud835\ude5f\ud835\ude56\ud835\ude64 |", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1117438866544160771/9DXZZ7yw_400x400.jpg", 
+      "id": 1069133076779790336
+    }, 
+    "retweet_count": 0, 
+    "id": 1115875877169111040, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e40\u0e2d\u0e07 \u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 Windows 10 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e16\u0e2d\u0e14 USB Flash Drive \u0e2d\u0e2d\u0e01\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e17\u0e31\u0e19\u0e17\u0e35\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e33\u0e2a\u0e31\u0e48\u0e07 Safely Remove \u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b https://www.techmoblog.com/windows-10-no-need-safely-remove-eject-usb-flash-drive/\u00a0\u2026", 
+    "created_at": "2019-04-10T02:21:11Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/KU6LC7B7S6", 
+          "expanded_url": "https://www.techmoblog.com/windows-10-no-need-safely-remove-eject-usb-flash-drive/", 
+          "display_url": "https://www.techmoblog.com/windows-10-no-need-safely-remove-eject-usb-flash-drive/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "TechmoBlog", 
+      "name": "Techmoblog", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/927812099102818304/_puWYplH_400x400.jpg", 
+      "id": 126910886
+    }, 
+    "retweet_count": 2, 
+    "id": 1115862270624575491, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e2e\u0e31\u0e48\u0e19\u0e41\u0e19\u0e48!! \u0e1b\u0e01\u0e15\u0e34\u0e0a\u0e2d\u0e1a\u0e14\u0e36\u0e07\u0e41\u0e1f\u0e25\u0e0a\u0e44\u0e14\u0e23\u0e4c\u0e1f \u0e44\u0e21\u0e48\u0e01\u0e14 Safely Remove \u0e23\u0e36\u0e1b\u0e48\u0e32\u0e27 \u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07\u0e2d\u0e2d\u0e01\u0e44\u0e14\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e14 Safely Remove \u0e41\u0e25\u0e49\u0e27\u0e19\u0e30\n#\nMicrosoft\n#\nWindows10https://tech.mthai.com/it-news/109895.html\u00a0\u2026", 
+    "created_at": "2019-04-10T00:02:22Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/o5kcRairp5", 
+          "expanded_url": "https://tech.mthai.com/it-news/109895.html", 
+          "display_url": "https://tech.mthai.com/it-news/109895.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MthaiIT", 
+      "name": "MThai Tech", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1011873262744158209/cL4ok8bi_400x400.jpg", 
+      "id": 276558177
+    }, 
+    "retweet_count": 3, 
+    "id": 1115827337101238272, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e1b\u0e34\u0e14\u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e38\u0e02\u0e20\u0e32\u0e1e HealthVault \u0e1b\u0e25\u0e32\u0e22\u0e1b\u0e35\u0e19\u0e35\u0e49 https://www.blognone.com/node/109071", 
+    "created_at": "2019-04-09T23:47:24Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/yVH6XRx68S", 
+          "expanded_url": "https://www.blognone.com/node/109071", 
+          "display_url": "https://www.blognone.com/node/109071"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "DewParin", 
+      "name": "Dew Parin", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1040204831938334720/aSes1fI3_400x400.jpg", 
+      "id": 859579148552912896
+    }, 
+    "retweet_count": 0, 
+    "id": 1115823568535924736, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e1c\u0e21\u0e21\u0e32\u0e41\u0e08\u0e49\u0e07\u0e04\u0e27\u0e32\u0e21\u0e17\u0e35\u0e48\u0e1b\u0e32\u0e01\u0e19\u0e49\u0e33 \u0e15\u0e23.\u0e1b\u0e32\u0e01\u0e19\u0e49\u0e33\u0e1a\u0e2d\u0e01 FB. \u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e14\u0e39\u0e21\u0e39\u0e25\u0e2b\u0e25\u0e2d\u0e01 \u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e44\u0e14\u0e49 \u0e1c\u0e21\u0e01\u0e47\u0e1a\u0e2d\u0e01 \u0e40\u0e02\u0e32\u0e08\u0e31\u0e1a\u0e01\u0e31\u0e19\u0e21\u0e32\u0e2b\u0e25\u0e32\u0e22\u0e23\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27\u0e04\u0e23\u0e31\u0e1a \u0e42\u0e14\u0e22\u0e02\u0e2d\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 FB. \u0e16\u0e49\u0e32\u0e08\u0e19\u0e17. \u0e1e\u0e34\u0e2a\u0e39\u0e08\u0e19\u0e4c\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e01\u0e23\u0e30\u0e17\u0e33\u0e04\u0e27\u0e32\u0e21\u0e1c\u0e34\u0e14\u0e08\u0e23\u0e34\u0e07 \u0e15\u0e23.\u0e01\u0e47\u0e40\u0e16\u0e35\u0e22\u0e07\u0e2d\u0e35\u0e01 \u0e40\u0e2d\u0e32\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 email \u0e08\u0e32\u0e01 Microsoft \u0e43\u0e2b\u0e49\u0e2d\u0e48\u0e32\u0e19 \u0e1c\u0e21\u0e1a\u0e2d\u0e01\u0e1e\u0e35\u0e48\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48 \u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 FB. \u0e04\u0e23\u0e31\u0e1a", 
+    "created_at": "2019-04-09T22:20:47Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1022682763470589953", 
+          "id": 1022682763470589953, 
+          "name": "\u0e2d\u0e39\u0e19\u0e32\u0e23\u0e34\u0e2a\u0e04", 
+          "screen_name": "aunarisk"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "nopporn90", 
+      "name": "\u0e04\u0e19\u0e44\u0e17\u0e22\u0e23\u0e31\u0e01\u0e0a\u0e32\u0e15\u0e34", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/925720278008676352/d9_IsK4r_400x400.jpg", 
+      "id": 137117612
+    }, 
+    "retweet_count": 1, 
+    "id": 1115801771467653120, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft Edge \u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e43\u0e0a\u0e49\u0e40\u0e2d\u0e19\u0e08\u0e34\u0e19 Chromium \u0e40\u0e1b\u0e34\u0e14\u0e43\u0e2b\u0e49\u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14\u0e41\u0e25\u0e49\u0e27 via\n@\nblognonehttps://www.blognone.com/node/109074", 
+    "created_at": "2019-04-09T22:00:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "9439602", 
+          "id": 9439602, 
+          "name": "Blognone", 
+          "screen_name": "blognone"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/euhvRwqtv4", 
+          "expanded_url": "https://www.blognone.com/node/109074", 
+          "display_url": "https://www.blognone.com/node/109074"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kositlaorngsri", 
+      "name": "kosit la-orngsri", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/459633758090448896/mnnag4We_400x400.jpeg", 
+      "id": 2418295728
+    }, 
+    "retweet_count": 0, 
+    "id": 1115796571948371968, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e2d\u0e2d\u0e01\u0e41\u0e1e\u0e17\u0e0a\u0e4c\u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e17\u0e41\u0e25\u0e49\u0e27 \u0e41\u0e19\u0e30\u0e19\u0e33\u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e17\u0e14\u0e48\u0e27\u0e19! https://www.hostatom.com/content/5714/\n#\nadobe\n#\nhostatom\n#\nmicrosoft\n#\npatch\n#\nupdate", 
+    "created_at": "2019-04-09T21:53:22Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/tXQl1zawC1", 
+          "expanded_url": "https://www.hostatom.com/content/5714/", 
+          "display_url": "https://www.hostatom.com/content/5714/"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "hostatomdotcom", 
+      "name": "hostatomdotcom", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/902394599708147712/fW5nB-aa_400x400.jpg", 
+      "id": 901999714438062080
+    }, 
+    "retweet_count": 0, 
+    "id": 1115794872336695297, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e19\u0e49\u0e33\u0e15\u0e32\u0e08\u0e30\u0e44\u0e2b\u0e25!! Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 Windows 10 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07 USB Flash Drive \u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e31\u0e19\u0e17\u0e35 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e17\u0e33 Safely Remove \u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 https://www.flashfly.net/wp/247882\n#\nflashfly\n#\nMicrosoft\n#\nUSBFlashDrivehttps://www.flashfly.net/wp/247882", 
+    "created_at": "2019-04-09T21:34:46Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/hYInpmS2pT", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }, 
+        {
+          "url": "https://t.co/hYInpmS2pT", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "psvitath", 
+      "name": "PSVita Thailand", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1536118384/PSVitaTW_400x400.png", 
+      "id": 370786080
+    }, 
+    "retweet_count": 2, 
+    "id": 1115790192747532289, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07\u0e41\u0e1f\u0e25\u0e0a\u0e44\u0e14\u0e23\u0e4c\u0e1f\u0e2d\u0e2d\u0e01\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07 Safely Remove \u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27 https://www.lcdtvthailand.com/news/6390/Microsoft-%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%A5%E0%B8%8A%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-Safely-Remove-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-.html\u00a0\u2026", 
+    "created_at": "2019-04-09T21:00:09Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/26z5K2Ph0D", 
+          "expanded_url": "https://www.lcdtvthailand.com/news/6390/Microsoft-%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%A5%E0%B8%8A%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-Safely-Remove-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-.html", 
+          "display_url": "https://www.lcdtvthailand.com/news/6390/Microsoft-%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%A5%E0%B8%8A%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87-Safely-Remove-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "lcdtvthailand", 
+      "name": "LCDTVTHAILAND", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/378728154/image_logo_lcd_1_copy_400x400.jpg", 
+      "id": 66275619
+    }, 
+    "retweet_count": 0, 
+    "id": 1115781479953395714, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e19\u0e49\u0e33\u0e15\u0e32\u0e08\u0e30\u0e44\u0e2b\u0e25!! Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 Windows 10 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07 USB Flash Drive \u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e31\u0e19\u0e17\u0e35 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e17\u0e33 Safely Remove \u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 https://www.flashfly.net/wp/247882", 
+    "created_at": "2019-04-09T20:46:51Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/mbF5jmj4TZ", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Pobrak", 
+      "name": "Pobrak", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/786570582095560704/lwsTqPRP_400x400.jpg", 
+      "id": 54854843
+    }, 
+    "retweet_count": 0, 
+    "id": 1115778130289942528, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285875313, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "th"
+    }, 
+    "text": "\u0e19\u0e49\u0e33\u0e15\u0e32\u0e08\u0e30\u0e44\u0e2b\u0e25!! Microsoft \u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19 Windows 10 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e14\u0e36\u0e07 USB Flash Drive \u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e31\u0e19\u0e17\u0e35 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e17\u0e33 Safely Remove \u0e2d\u0e35\u0e01\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 https://www.flashfly.net/wp/247882\n#\nflashfly\n#\nMicrosoft\n#\nUSBFlashDrive https://www.flashfly.net/wp/247882", 
+    "created_at": "2019-04-09T20:11:06Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/FfieIzTkxo", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }, 
+        {
+          "url": "https://t.co/FfieIzTkxo", 
+          "expanded_url": "https://www.flashfly.net/wp/247882", 
+          "display_url": "https://www.flashfly.net/wp/247882"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "flashfly", 
+      "name": "flashfly.net", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/786547232291946496/zw7Max6R_400x400.jpg", 
+      "id": 6547242
+    }, 
+    "retweet_count": 20, 
+    "id": 1115769135810531328, 
+    "favorite_count": 5
+  }
+]

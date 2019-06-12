@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550090977399.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91010A48",
+    "lastKnownWriteTime" : 1550174794,
+    "last_content_update" : 1550350494716,
+    "path" : "C:/DIC/Labs/Lab1/Part2/CDC_Charts.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "12,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

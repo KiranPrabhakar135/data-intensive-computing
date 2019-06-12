@@ -1,0 +1,236 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281474281, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Coming to an Amazon delivery fleet near you? Big investment from Amazon into USA EV maker Rivian, the 'Tesla' of pickup trucks, who are starting to gain a lot of positive attention https://medium.com/utopiapress/amazon-invests-700-million-in-tesla-rival-rivian-35fb86c8fd88\u00a0\u2026", 
+    "created_at": "2019-02-18T08:22:52Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/0FRzl7Y5ZX", 
+          "expanded_url": "https://medium.com/utopiapress/amazon-invests-700-million-in-tesla-rival-rivian-35fb86c8fd88", 
+          "display_url": "https://medium.com/utopiapress/amazon-invests-700-million-in-tesla-rival-rivian-35fb86c8fd88\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "bookmycharge", 
+      "name": "Bookmycharge.com", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/912934241029296128/RlgRs9ZV_400x400.jpg", 
+      "id": 859056329842991104
+    }, 
+    "retweet_count": 0, 
+    "id": 1097486610789224448, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281474281, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "I'm glad you asked :) The\n#\nsmalla agile Manager book is available from some good Amazons near you. UK https://www.amazon.co.uk/dp/1794400567\u00a0 USA https://www.amazon.com/dp/1794400567\u00a0 Japan https://www.amazon.co.jp/dp/1794400567\u00a0 Germany, Spain, Italy... Not AU sorry :( Dunno how to get on there yet Not on Kindle (yet)", 
+    "created_at": "2019-02-17T18:32:50Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "241081430", 
+          "id": 241081430, 
+          "name": "Stuart Rance", 
+          "screen_name": "StuartRance"
+        }, 
+        {
+          "id_str": "984252309919023105", 
+          "id": 984252309919023105, 
+          "name": "Cherry Vu", 
+          "screen_name": "drcherryvu"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/okVi7pmExD", 
+          "expanded_url": "https://www.amazon.co.uk/dp/1794400567", 
+          "display_url": "https://www.amazon.co.uk/dp/1794400567"
+        }, 
+        {
+          "url": "https://t.co/VPfww6u60E", 
+          "expanded_url": "https://www.amazon.com/dp/1794400567", 
+          "display_url": "https://www.amazon.com/dp/1794400567"
+        }, 
+        {
+          "url": "https://t.co/phrzVBnUgR", 
+          "expanded_url": "https://www.amazon.co.jp/dp/1794400567", 
+          "display_url": "https://www.amazon.co.jp/dp/1794400567"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "theitskeptic", 
+      "name": "Rob England", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/965344907660550144/G4gOqTja_400x400.jpg", 
+      "id": 13227912
+    }, 
+    "retweet_count": 2, 
+    "id": 1097277724689743872, 
+    "favorite_count": 7
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281474281, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Speaking of COL, what is Amazon even thinking? They're building HQ2 in the 6th-highest household income county in the USA, which is surrounded by the 1st- and 3rd- highest, plus DC, and near the 2nd-highest county. They'll have to pay through the nose to compete for local talent.", 
+    "created_at": "2019-02-16T17:08:40Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "5882452", 
+          "id": 5882452, 
+          "name": "rebecca", 
+          "screen_name": "blueraccoon"
+        }, 
+        {
+          "id_str": "451003460", 
+          "id": 451003460, 
+          "name": "Bernie/Nina 2020 \ud83c\udf39", 
+          "screen_name": "mikemoran2010"
+        }, 
+        {
+          "id_str": "17006157", 
+          "id": 17006157, 
+          "name": "Paul Krugman", 
+          "screen_name": "paulkrugman"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ingloriousBOH", 
+      "name": "HipGnosis", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/785266559090647040/CZ8Vb4c6_400x400.jpg", 
+      "id": 529450596
+    }, 
+    "retweet_count": 0, 
+    "id": 1096894154787995650, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281474281, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Works for Tesla and Amazon at the USA Parkway near Reno NV https://twitter.com/KimStrassel/status/1096170567735042049\u00a0\u2026", 
+    "created_at": "2019-02-15T13:00:06Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/6f0FOp9P7r", 
+          "expanded_url": "https://twitter.com/KimStrassel/status/1096170567735042049", 
+          "display_url": "https://twitter.com/KimStrassel/status/1096170567735042049\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "vsiscott", 
+      "name": "Scott Pearce", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/494959909406916608/_zqffRRE_400x400.jpeg", 
+      "id": 2730208941
+    }, 
+    "retweet_count": 0, 
+    "id": 1096469213605023744, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281474281, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "#\nwhere is the headquarters of amazon in usa \u2026http://airline-ticket-to-pakistan_airline-tickets.strongarcade.us\u00a0 hotels near coco keys", 
+    "created_at": "2019-02-13T09:48:01Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/WGzYeRKvzY", 
+          "expanded_url": "http://airline-ticket-to-pakistan_airline-tickets.strongarcade.us", 
+          "display_url": "\u2026http://airline-ticket-to-pakistan_airline-tickets.strongarcade.us"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ELabazova1", 
+      "name": "Rebecca Chesterton", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/898694040304189440/B0UI1Anl_400x400.jpg", 
+      "id": 874198494675959808
+    }, 
+    "retweet_count": 4, 
+    "id": 1095696097987706881, 
+    "favorite_count": 3
+  }
+]

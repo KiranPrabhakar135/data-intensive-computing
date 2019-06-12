@@ -1,0 +1,35 @@
+x<-c(1,2,4,6,7,9,10,12,30,50)
+y<-c(3,5,7,9,10,11,15,35,40,39)
+model<-lm(y-x)
+model  #display the parameters of the model
+plot(model)
+pred.y = 0.806*x + 6.841
+x= 20
+pred.y
+
+data("iris")
+iris
+install.packages('class')
+library('class')
+data(iris3)
+iris3
+iris
+train <- rbind(iris3[1:25,,1], iris3[1:25,,2], iris3[1:25,,3])
+test <- rbind(iris3[26:50,,1], iris3[26:50,,2], iris3[26:50,,3])
+cl <- factor(c(rep("s",25), rep("c",25), rep("v",25)))
+model <-knn(train, test, cl, k = 3, prob=TRUE)  # now LEARN how to classify; train (and validate)
+attributes(.Last.value)
+plot(model)
+
+boxplot()
+
+sales <- read.table(file.choose(),header = T)
+fn<-boxplot(sales,col=c("orange","green"))$stats
+fn
+fn[3,2]
+fn[3,1]
+text(1.45, fn[3,2], paste("Median =", fn[3,2]), adj=0, cex=.7)
+text(0.45, fn[3,1], paste("Median =", fn[3,1]), adj=0, cex=.7)
+grid(nx=NA, ny=NULL)
+
+

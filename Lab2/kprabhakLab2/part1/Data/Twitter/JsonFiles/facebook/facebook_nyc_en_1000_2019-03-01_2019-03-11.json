@@ -1,0 +1,45 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555286171138, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "facebook", 
+      "query_language": "en"
+    }, 
+    "text": "Facebook Dating Near Me | Facebook Dating USA UK - http://isogtec.com\u00a0https://www.isogtec.com/facebook-dating-near-me-join-facebook-dating-groups/\u00a0\u2026", 
+    "created_at": "2019-03-05T17:03:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/MMs2yKtdfC", 
+          "expanded_url": "http://isogtec.com", 
+          "display_url": "http://isogtec.com"
+        }, 
+        {
+          "url": "https://t.co/7xLawjdrYI", 
+          "expanded_url": "https://www.isogtec.com/facebook-dating-near-me-join-facebook-dating-groups/", 
+          "display_url": "https://www.isogtec.com/facebook-dating-near-me-join-facebook-dating-groups/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ckido3434", 
+      "name": "KIDO..S.O.G", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/603931022930145280/Aarr6OGY_400x400.jpg", 
+      "id": 3065704822
+    }, 
+    "retweet_count": 0, 
+    "id": 1103053449011384322, 
+    "favorite_count": 0
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555280633079, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "(6) posted by Kerry Burgess - H.V.O.M 7:11 PM Pacific Time somewhere near Seattle Washington USA Friday 13 December 2013 - http://hvom.blogspot.com/2013/12/for-guy-with-four-digit-iq-i-must-have.html\u00a0\u2026 Google Search: born 1966 \"chad trammell\" Chad Trammell - Pipl Directory", 
+    "created_at": "2019-03-08T14:53:33Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/bTAnDg8tLb", 
+          "expanded_url": "http://hvom.blogspot.com/2013/12/for-guy-with-four-digit-iq-i-must-have.html", 
+          "display_url": "http://hvom.blogspot.com/2013/12/for-guy-with-four-digit-iq-i-must-have.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kerrywburgess", 
+      "name": "Kerry Burgess", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1066373419539881985/W8G0iX78_400x400.jpg", 
+      "id": 723891985354907649
+    }, 
+    "retweet_count": 0, 
+    "id": 1104107907866484736, 
+    "favorite_count": 0
+  }
+]

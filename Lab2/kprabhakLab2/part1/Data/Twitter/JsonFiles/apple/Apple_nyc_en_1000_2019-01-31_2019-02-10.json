@@ -1,0 +1,122 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284056400, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "\u201cYou can see snow from the 4th floor of Apple Park\u201d - Jabroni 3\u201d today in Silicon Valley USA.\n#\npowday @Black Mountain (near Los Altos, California) https://www.instagram.com/p/Bthpp5FnRrA40kQlklPAEn33YpqEfoJxhXSUtw0/?utm_source=ig_twitter_share&igshid=1qzfdpf07g352\u00a0\u2026", 
+    "created_at": "2019-02-05T22:47:58Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/7b0trL9o8G", 
+          "expanded_url": "https://www.instagram.com/p/Bthpp5FnRrA40kQlklPAEn33YpqEfoJxhXSUtw0/?utm_source=ig_twitter_share&igshid=1qzfdpf07g352", 
+          "display_url": "https://www.instagram.com/p/Bthpp5FnRrA40kQlklPAEn33YpqEfoJxhXSUtw0/?utm_source=ig_twitter_share&igshid=1qzfdpf07g352\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "michael_mondry", 
+      "name": "Michael Mondry", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/797536202538655745/_Qh4oe4-_400x400.jpg", 
+      "id": 346902127
+    }, 
+    "retweet_count": 0, 
+    "id": 1092993275307413504, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284056400, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "S and P 500. Reached our near term target of 2737. Look for pull back from here.\n#\napple\n#\nfacebook\n#\ninstagram\n#\nusa\n#\nindia\n#\nchicago\n#\nlondon\n#\neurope\n#\njapan\n#\nchina\n#\nafrica\n#\nasia\n#\nsouthafrica\u2026 https://www.instagram.com/p/BtggwdxHtLu/?utm_source=ig_twitter_share&igshid=1owucubhua4ua\u00a0\u2026", 
+    "created_at": "2019-02-05T12:10:57Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/tZFXp7TN5W", 
+          "expanded_url": "https://www.instagram.com/p/BtggwdxHtLu/?utm_source=ig_twitter_share&igshid=1owucubhua4ua", 
+          "display_url": "https://www.instagram.com/p/BtggwdxHtLu/?utm_source=ig_twitter_share&igshid=1owucubhua4ua\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "gurulaapp", 
+      "name": "@ Gurula app", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/998314362933673985/o8GxBVOh_400x400.jpg", 
+      "id": 2266374289
+    }, 
+    "retweet_count": 0, 
+    "id": 1092832966965833728, 
+    "favorite_count": 0
+  }
+]

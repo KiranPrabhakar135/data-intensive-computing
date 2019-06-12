@@ -1,0 +1,4988 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Kanhaiya Kumar.. Tum Bharat k naagrik nahi ek Aatankwaadi ho..Jo Bharat mein Rahta V Hai..Bharat mein khaata v hai.Aur Baad mein chillata hai \"hum le k rahenge aajadi\".. Aur jyada bolo mat..yaha agar berojgaar hai Sab toh tumko Bill Gates ne CEO nahi Bana diya hai Microsoft ka", 
+    "created_at": "2019-03-19T22:50:01Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2584552812", 
+          "id": 2584552812, 
+          "name": "Kanhaiya Kumar", 
+          "screen_name": "kanhaiyakumar"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "_BeingDeviL", 
+      "name": "Raul Vinci\u00a0\ud83d\udc6e\u200d\u2642\ufe0f\u00a0\ud83d\udc6e\u200d\u2642\ufe0f\u00a0\ud83e\udd2d\u00a0\ud83e\udd2bAbki Baar Chowkidar \u00a0\ud83d\ude01\u00a0\ud83d\ude01", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114834292947841025/Hpu6q-Di_400x400.jpg", 
+      "id": 516624319
+    }, 
+    "retweet_count": 0, 
+    "id": 1108198983573209088, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Meri help ki Jaye mujh ko koi job mil jaye. Microsoft office par Documents update karnay ki job mil jaye or mera haq mil jata. mein nay socha tha kay ho sakta hai kay mujh ko mera haq mil jaye ga, mujh say april 2015 say signatures karay hua hain", 
+    "created_at": "2019-03-19T11:20:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ggeneratisev777", 
+      "name": "GenerationsSeventhh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1033850719055630336/kF8vXr_-_400x400.jpg", 
+      "id": 1033848639733616640
+    }, 
+    "retweet_count": 0, 
+    "id": 1108025395234988033, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Tume hi Microsoft axcel pata h tumse jyada Adhik jankaar desh ka fauji h or Wo desh k liye Apne talent ko chodkr desh ki Raksha kr rha na ki Tum jaise anti nations people jo jaante kuch nhi been bajate h#besharmi ki had illiterate", 
+    "created_at": "2019-03-19T05:51:05Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2584552812", 
+          "id": 2584552812, 
+          "name": "Kanhaiya Kumar", 
+          "screen_name": "kanhaiyakumar"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#besharmi"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Sheetal68443428", 
+      "name": "Sheetal kala", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1109858293122383873/gvXku8Fl_400x400.jpg", 
+      "id": 892789009507729409
+    }, 
+    "retweet_count": 0, 
+    "id": 1107942558510931969, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0914\u0931 \u092f\u0947 \u092e\u0939\u094b\u0926\u092f\n@\nMicrosoft \u092e\u0947 \u092a\u094b\u0938\u094d\u091f\u0947\u0921 \u0939\u0948\u0902 \u0964 https://twitter.com/kanhaiyakumar/status/1107614978444386304\u00a0\u2026", 
+    "created_at": "2019-03-19T01:13:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/VvOw7JnedJ", 
+          "expanded_url": "https://twitter.com/kanhaiyakumar/status/1107614978444386304", 
+          "display_url": "https://twitter.com/kanhaiyakumar/status/1107614978444386304\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ptdeepak0542", 
+      "name": "Pt. Deepak Pathak \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1101357068974342144/o193SuDL_400x400.jpg", 
+      "id": 851019153356054528
+    }, 
+    "retweet_count": 0, 
+    "id": 1107872701757063174, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "kar diya", 
+    "created_at": "2019-03-18T16:51:54Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1085089912498475008", 
+          "id": 1085089912498475008, 
+          "name": "A@rTi (\uff61\u25d5\u203f\u25d5\uff61) #CSK", 
+          "screen_name": "lakh_di_laanat"
+        }, 
+        {
+          "id_str": "50393960", 
+          "id": 50393960, 
+          "name": "Bill Gates", 
+          "screen_name": "BillGates"
+        }, 
+        {
+          "id_str": "1636590253", 
+          "id": 1636590253, 
+          "name": "Tim Cook", 
+          "screen_name": "tim_cook"
+        }, 
+        {
+          "id_str": "380749300", 
+          "id": 380749300, 
+          "name": "Apple", 
+          "screen_name": "Apple"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "healed_evil", 
+      "name": "^_^", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116563989364744193/Yz5x8E5X_400x400.jpg", 
+      "id": 1073050205568819201
+    }, 
+    "retweet_count": 0, 
+    "id": 1107746470634115077, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "fir theek hai karta kuch", 
+    "created_at": "2019-03-18T16:49:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1085089912498475008", 
+          "id": 1085089912498475008, 
+          "name": "A@rTi (\uff61\u25d5\u203f\u25d5\uff61) #CSK", 
+          "screen_name": "lakh_di_laanat"
+        }, 
+        {
+          "id_str": "50393960", 
+          "id": 50393960, 
+          "name": "Bill Gates", 
+          "screen_name": "BillGates"
+        }, 
+        {
+          "id_str": "1636590253", 
+          "id": 1636590253, 
+          "name": "Tim Cook", 
+          "screen_name": "tim_cook"
+        }, 
+        {
+          "id_str": "380749300", 
+          "id": 380749300, 
+          "name": "Apple", 
+          "screen_name": "Apple"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "healed_evil", 
+      "name": "^_^", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116563989364744193/Yz5x8E5X_400x400.jpg", 
+      "id": 1073050205568819201
+    }, 
+    "retweet_count": 0, 
+    "id": 1107745878369099779, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "1 CSC \u0916\u094b\u0932\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0908\u0924\u0928\u0940 \u0926\u093f\u0915\u094d\u0915\u0924 \u0915\u093e \u0938\u093e\u092e\u0928\u093e \u0915\u0930\u0928\u093e \u092a\u0921\u093c\u0924\u093e \u0939\u0948\u0964 \u092e\u0948\u0902 \u091c\u093e\u0928 \u0917\u092f\u093e", 
+    "created_at": "2019-03-18T09:12:54Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2686770528", 
+          "id": 2686770528, 
+          "name": "Digital India", 
+          "screen_name": "_DigitalIndia"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "NirmalkarJay", 
+      "name": "Jay Pal Nirmalkar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1107632612804161539/HxW-NN6e_400x400.jpg", 
+      "id": 1079261762250305536
+    }, 
+    "retweet_count": 0, 
+    "id": 1107630959438893056, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u093f\u0928 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b Microsoft excel or surf excel \u092e\u0947\u0902 \u0915\u094b\u0908 \u0905\u0902\u0924\u0930 \u0928\u0939\u0940\u0902 \u092a\u0924\u093e \u0935\u094b \u091a\u094c\u0915\u0940\u0926\u093e\u0930 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u0928 \u092d\u0940 \u0915\u094d\u092f\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u092e\u0948\u0902 \u092e\u094b\u0926\u0940 \u091c\u0940 \u0915\u094b \u0907\u0938 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0930\u092e \u0915\u0947 \u0932\u093f\u090f \u0927\u0928\u094d\u092f\u0935\u093e\u0926 \u0926\u0947\u0924\u093e \u0939\u0942\u0901 \u0915\u093f \u0906\u092a\u0928\u0947 \u0905\u0902\u0927\u092d\u0915\u094d\u0924\u094b \u0915\u093e \u090f\u0915\u0926\u092e \u0938\u0939\u0940 \u092e\u0942\u0932\u094d\u092f\u093e\u0902\u0915\u0928 \u0915\u0930\u0915\u0947 \u0909\u0928\u0915\u094b \u091a\u094c\u0915\u0940\u0926\u093e\u0930 \u092a\u0926 \u0915\u093e \u0935\u093f\u0938\u0930\u094d\u091c\u0928 \u0915\u093f\u092f\u093e\u0964", 
+    "created_at": "2019-03-18T07:49:22Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "KapilKumarGau16", 
+      "name": "Mr. KAPIL KUMAR GAUTAM AMBEDKAR", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1107927167151661057/wF9ZGSJd_400x400.jpg", 
+      "id": 1093163555887562757
+    }, 
+    "retweet_count": 0, 
+    "id": 1107609938027642880, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft Office \u0938\u0947 \u091c\u0941\u0921\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u092a\u093e\u0928\u0947 \u0915\u0947 Microsoft \u0915\u094b \u092b\u0949\u0932\u094b \u0914\u0930 \u0932\u093e\u0907\u0915 \u0915\u0930\u0928\u093e \u0928\u093e \u092d\u0942\u0932\u0947 https://b.sharechat.com/2wxSecZU4U?referrer=twitterShare\u00a0\u2026 ShareChat-100% \u092d\u093e\u0930\u0924\u0940\u092f \u090f\u092a\u094d\u092a! \u0924\u0941\u0930\u0902\u0924 \u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u0947\u0902 https://b.sharechat.com/qb3rvzIfBT\u00a0pic.twitter.com/fdES5Seibs", 
+    "created_at": "2019-03-17T22:34:43Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Kwv4YZryaK", 
+          "expanded_url": "https://b.sharechat.com/2wxSecZU4U?referrer=twitterShare", 
+          "display_url": "https://b.sharechat.com/2wxSecZU4U?referrer=twitterShare\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/h7k6MQsrAD", 
+          "expanded_url": "https://b.sharechat.com/qb3rvzIfBT", 
+          "display_url": "https://b.sharechat.com/qb3rvzIfBT"
+        }, 
+        {
+          "url": "https://t.co/fdES5Seibs", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/fdES5Seibs"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Ashokku89045714", 
+      "name": "chowkidar. Ashok Kumar Ray", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116539284851347456/hkuhO4KV_400x400.jpg", 
+      "id": 1016743298159951872
+    }, 
+    "retweet_count": 0, 
+    "id": 1107470355763875841, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Are unko thodhi Microsoft me kaam karna hai..", 
+    "created_at": "2019-03-17T12:25:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1100898809352056832", 
+          "id": 1100898809352056832, 
+          "name": "Nasir Hameed", 
+          "screen_name": "NasirHa34929305"
+        }, 
+        {
+          "id_str": "50944856", 
+          "id": 50944856, 
+          "name": "Smita Prakash", 
+          "screen_name": "smitaprakash"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "AmitRanauk", 
+      "name": "Amit Rana", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1109432660382892034/BxKdVxHV_400x400.jpg", 
+      "id": 1096113043107401731
+    }, 
+    "retweet_count": 0, 
+    "id": 1107317145996795904, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "1)Apple 2)Googel 3)Microsoft 4)Amazon 5)Samsung 6)Dell 7)HP 8)Toyota 9)Honda 10)Walmart \u0910\u0938\u0940 \u0915\u0902\u092a\u0928\u0940 \u092f\u093e \u0907\u0902\u0921\u092f\u093e \u0915\u0940 \u0915\u094d\u092f\u0942 \u0928\u0939\u0940\u0902 \u0939\u0948? \u0926\u0947\u0936 \u0915\u0940 \u0938\u0930\u0915\u093e\u0930 \u0907\u0902\u0921\u0938\u094d\u091f\u094d\u0930\u0940\u091c\u093c \u092a\u0930 \u0938\u0930\u0915\u093e\u0930\u0940 \u092c\u093e\u092c\u0942 \u0915\u093e \u0930\u093e\u091c \u0914\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0926\u0916\u093c\u0932 \u0917\u093f\u0930\u0940 \u0915\u092e \u0915\u0930 \u0926\u0947\u0964 \u0926\u0947\u0936 \u0915\u093e \u0935\u093f\u0915\u093e\u0938 \u0906\u092a\u094b \u0906\u092a \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e\u0964", 
+    "created_at": "2019-03-17T11:59:01Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "39488770", 
+          "id": 39488770, 
+          "name": "Harsh Goenka", 
+          "screen_name": "hvgoenka"
+        }, 
+        {
+          "id_str": "75237089", 
+          "id": 75237089, 
+          "name": "Amitabh Kant", 
+          "screen_name": "amitabhk87"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "HiteshParikh20", 
+      "name": "Property & Stock Mkt", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1046799141429379072/zrx--Kik_400x400.jpg", 
+      "id": 873839480301510656
+    }, 
+    "retweet_count": 0, 
+    "id": 1107310376964620288, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0917\u0902\u0926\u0940 \u0928\u093e\u0932\u0940 \u0915\u0947 \u0915\u0940\u0921\u093c\u0947 \u092c\u0939\u0941\u0924 \u0928\u092b\u0930\u0924 \u092b\u0948\u0932\u093e\u0908 \u0924\u0942\u0928\u0947,, \u0905\u092c \u0914\u0930 \u0928\u092b\u093c\u0930\u0924 \u0928 \u092b\u0948\u0932\u093e, \u0935\u0948\u0938\u0947\n#\n\u092a\u092c\u094d\u0932\u093f\u0915_\u0938\u092c_\u091c\u093e\u0928\u0924\u0940 ! \u0935\u0939\u0940\u0902 \u0932\u094b\u0917 \u0924\u0947\u0930\u0947 \u0938\u093e\u0925 \u0939\u0948 \u091c\u093f\u0938\u0947\n#\nSurfExcel \u0914\u0930\n#\nMicrosoft_Excel \u092b\u0930\u094d\u0915 \u0928\u0939\u0940\u0902 \u092a\u0924\u093e,\n#\nhatred\n#\nTerroris", 
+    "created_at": "2019-03-17T11:24:04Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "103805033", 
+          "id": 103805033, 
+          "name": "Suresh Chavhanke STV", 
+          "screen_name": "SureshChavhanke"
+        }, 
+        {
+          "id_str": "824922110", 
+          "id": 824922110, 
+          "name": "Sudarshan News", 
+          "screen_name": "SudarshanNewsTV"
+        }, 
+        {
+          "id_str": "18839785", 
+          "id": 18839785, 
+          "name": "Chowkidar Narendra Modi", 
+          "screen_name": "narendramodi"
+        }, 
+        {
+          "id_str": "1346439824", 
+          "id": 1346439824, 
+          "name": "Chowkidar Rajnath Singh", 
+          "screen_name": "rajnathsingh"
+        }, 
+        {
+          "id_str": "4049086944", 
+          "id": 4049086944, 
+          "name": "Chavhanke_Fans", 
+          "screen_name": "Chavhanke_Fans"
+        }, 
+        {
+          "id_str": "61458407", 
+          "id": 61458407, 
+          "name": "Chowkidar Rajyavardhan Rathore", 
+          "screen_name": "Ra_THORe"
+        }, 
+        {
+          "id_str": "207809313", 
+          "id": 207809313, 
+          "name": "BJP", 
+          "screen_name": "BJP4India"
+        }, 
+        {
+          "id_str": "1447949844", 
+          "id": 1447949844, 
+          "name": "Chowkidar Amit Shah", 
+          "screen_name": "AmitShah"
+        }, 
+        {
+          "id_str": "310239584", 
+          "id": 310239584, 
+          "name": "RSS", 
+          "screen_name": "RSSorg"
+        }, 
+        {
+          "id_str": "471741741", 
+          "id": 471741741, 
+          "name": "PMO India", 
+          "screen_name": "PMOIndia"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "imtiyaz_karim_", 
+      "name": "Imtiyaz Karim", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/932914701343719424/T1hUQ373_400x400.jpg", 
+      "id": 2468915753
+    }, 
+    "retweet_count": 0, 
+    "id": 1107301580649295872, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Congress ka chamcha hai ye\n@\nacjoshi , ye bhi steve jobs of Microsoft bolta hai, 1 me 2 bche kuposhit hain iske liye pappu k jaise aur isko lady ki picture se takleef hai pic.twitter.com/QqEZgNSRuS", 
+    "created_at": "2019-03-17T09:44:19Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46670617", 
+          "id": 46670617, 
+          "name": "Ashish Joshi", 
+          "screen_name": "acjoshi"
+        }, 
+        {
+          "id_str": "120737021", 
+          "id": 120737021, 
+          "name": "Ra_Bies", 
+          "screen_name": "Ra_Bies"
+        }, 
+        {
+          "id_str": "874157386952519680", 
+          "id": 874157386952519680, 
+          "name": "DCP Cybercrime", 
+          "screen_name": "DCP_CCC_Delhi"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/QqEZgNSRuS", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/QqEZgNSRuS"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "azm_go", 
+      "name": "Azm", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1091062874083086336/4GqIeqci_400x400.jpg", 
+      "id": 1058292140231409664
+    }, 
+    "retweet_count": 0, 
+    "id": 1107276477660164096, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0915\u0941\u091b \u092e\u094b\u0926\u0940 \u092d\u0915\u094d\u0924 \u0924\u094b \u0907\u0924\u0928\u0947 \u0938\u092e\u091d\u0926\u093e\u0930 \u0939\u0948\u0902 \u0915\u093f surf excel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 Microsoft excel \u0915\u093e \u0939\u0940 \u0935\u093f\u0930\u094b\u0927 \u0915\u0930 \u0926\u093f\u092f\u093e \u0926\u094b\u0928\u094b \u092e\u0947\u0902 excel \u0939\u0948 \u0928", 
+    "created_at": "2019-03-17T08:53:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "budhwardee", 
+      "name": "deepak", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/940445414284599297/PDvnZBbo_400x400.jpg", 
+      "id": 1914393998
+    }, 
+    "retweet_count": 3, 
+    "id": 1107263623150358529, 
+    "favorite_count": 6
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u092d\u0940 \u0915\u0932 \u0915\u094b \u092f\u0947 \u0906\u0926\u092e\u0940 \u092c\u094b\u0932\u0947\u0917\u093e \u0915\u0941\u090f \u092e\u0947\u0902 \u0915\u0942\u0926\u094b \u0924\u094b \u092f\u0947 Microsoft Excel \u0935\u093e\u0932\u0947 \u092d\u0915\u094d\u0924 \u0915\u0942\u0926 \u092d\u0940 \u091c\u093e\u090f\u0902\u0917\u0947\u0964 \u0915\u094d\u092f\u093e \u0939\u093e\u0932\u0924 \u0915\u0930 \u0926\u0940 \u0939\u0948 \u0926\u0947\u0936 \u0915\u0940..", 
+    "created_at": "2019-03-17T03:41:13Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1588642495", 
+          "id": 1588642495, 
+          "name": "Chowkidar Malini Laxmansingh Gaur", 
+          "screen_name": "GaurMalini"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "CitizenChetan", 
+      "name": "Chetan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1029805442484989952/RDgNzzU0_400x400.jpg", 
+      "id": 1029566935220899840
+    }, 
+    "retweet_count": 0, 
+    "id": 1107185103917047808, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092f\u0947 \u0906\u0926\u092e\u0940 \u092c\u094b\u0932\u0947\u0917\u093e \u0915\u0940 \u0915\u0941\u090f \u0915\u0942\u0926\u094b.. \u0938\u093e\u0932\u0947 \u092f\u0947 Microsoft Excel \u0935\u093e\u0932\u0947 \u0915\u0942\u0926 \u092d\u0940 \u091c\u093e\u090f\u0902\u0917\u0947\u0964 \u0915\u094d\u092f\u093e \u0939\u093e\u0932\u0924 \u0915\u0930 \u0926\u0940 \u0939\u0948 \u092b\u0947\u0915\u0942 \u0928\u0947", 
+    "created_at": "2019-03-17T03:34:21Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "821321466901692417", 
+          "id": 821321466901692417, 
+          "name": "\u091c\u0928\u0924\u093e \u0915\u093e \u0930\u093f\u092a\u094b\u0930\u094d\u091f\u0930", 
+          "screen_name": "HindiJKR"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "CitizenChetan", 
+      "name": "Chetan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1029805442484989952/RDgNzzU0_400x400.jpg", 
+      "id": 1029566935220899840
+    }, 
+    "retweet_count": 0, 
+    "id": 1107183374106390528, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u093f\u0928\u094d\u0939\u0947\u0902\n#\nSurf Excel \u0914\u0930\n#\nMicrosoft Excel \u092e\u0947\u0902 \u092b\u0930\u094d\u0915 \u0928\u0939\u0940\u0902 \u092a\u0924\u093e \u0935\u094b\n#\n\u0928\u094b\u091f\u092c\u0902\u0926\u0940,\n#\nGST \u0914\u0930\n#\n\u0930\u093e\u092b\u0947\u0932 \u0915\u0947 75 \u0924\u0915\u0928\u093f\u0915\u0940\n#\n\u092b\u093e\u092f\u0926\u0947 \u0917\u093f\u0928\u093e \u0930\u0939\u0947 \u0939\u0948 !", 
+    "created_at": "2019-03-17T03:14:04Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "iamakf", 
+      "name": "Asif Kamal Faridi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1094848170943746048/F43VSKL2_400x400.jpg", 
+      "id": 4170063793
+    }, 
+    "retweet_count": 0, 
+    "id": 1107178269953220610, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Tu roj tweet karta h me me roj tujhe aur tere jeso ko gali se nawajta ho.. Ma*ch* Tujhe pata h excel aur microsoft me difference tabhi tum kon sa jhate bana liye kissi ki.. Isliye jada gyaan na diya karo..", 
+    "created_at": "2019-03-16T22:01:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2584552812", 
+          "id": 2584552812, 
+          "name": "Kanhaiya Kumar", 
+          "screen_name": "kanhaiyakumar"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "saransh60284047", 
+      "name": "saransh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1038665483619381248/2Vj8w4h-_400x400.jpg", 
+      "id": 533895736
+    }, 
+    "retweet_count": 0, 
+    "id": 1107099610143612928, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "I support this ad \u0907\u0938\u092e\u0947\u0902 \u092c\u091a\u094d\u091a\u0947 \u090f\u0915\u0924\u093e \u0915\u093e \u090f\u0915 \u0905\u091a\u094d\u091b\u093e \u0909\u0926\u093e\u0939\u0930\u0923 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u092a\u0924\u093e \u0928\u0939\u0940 \u0915\u094d\u092f\u094b\u0902 \u0932\u094b\u0917 \u0927\u0930\u094d\u092e \u0915\u0947 \u0920\u0947\u0915\u0947\u0926\u093e\u0930 \u0915\u0947 \u092c\u093e\u0924 \u092e\u0947\u0902 \u0906\u0915\u0930 \u0907\u0938\u0915\u093e \u0935\u093f\u0930\u094b\u0927 \u0915\u0930\u0928\u093e \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u093f\u090f \u0939\u0948\u0964 \u0914\u0930 \u0924\u094b \u0914\u0930 \u0907\u0938 \u0928\u093e\u092e \u0938\u0947 \u092e\u093f\u0932\u0924\u093e \u091c\u0941\u0932\u0924\u093e \u0928\u093e\u092e (Microsoft Excel) \u0939\u094b\u0928\u0947 \u0915\u093e\u0930\u0923 \u0932\u094b\u0917 \u0907\u0938\u0915\u093e \u092d\u0940 \u0935\u093f\u0930\u094b\u0927 \u0915\u0930\u0928\u093e \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u093f\u090f\u0964 It's not good.\n#\nranglaayesangpic.twitter.com/7RRrubT1oo", 
+    "created_at": "2019-03-16T13:39:33Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/7RRrubT1oo", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/7RRrubT1oo"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ImAswiniAbhisek", 
+      "name": "\u091a\u094c\u0915\u0940\u0926\u093e\u0930 Ashwini Abhishek", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1108625427768107008/-DpwnV5c_400x400.jpg", 
+      "id": 751978595577262080
+    }, 
+    "retweet_count": 1, 
+    "id": 1106973290759778304, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "1)Apple 2)Googel 3)Microsoft 4)Amazon 5)Samsung 6)Dell 7)HP 8)Toyota 9)Honda 10)Walmart \u0910\u0938\u0940 \u0915\u0902\u092a\u0928\u0940 \u092f\u093e \u0907\u0902\u0921\u092f\u093e \u0915\u0940 \u0915\u094d\u092f\u0942 \u0928\u0939\u0940\u0902 \u0939\u0948? \u0926\u0947\u0936 \u0915\u0940 \u0938\u0930\u0915\u093e\u0930 \u0907\u0902\u0921\u0938\u094d\u091f\u094d\u0930\u0940\u091c\u093c \u092a\u0930 \u0938\u0930\u0915\u093e\u0930\u0940 \u092c\u093e\u092c\u0942 \u0915\u093e \u0930\u093e\u091c \u0914\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0926\u0916\u093c\u0932 \u0917\u093f\u0930\u0940 \u0915\u092e \u0915\u0930 \u0926\u0947\u0964 \u0926\u0947\u0936 \u0915\u093e \u0935\u093f\u0915\u093e\u0938 \u0906\u092a\u094b \u0906\u092a \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e\u0964", 
+    "created_at": "2019-03-16T10:53:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "HiteshParikh20", 
+      "name": "Property & Stock Mkt", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1046799141429379072/zrx--Kik_400x400.jpg", 
+      "id": 873839480301510656
+    }, 
+    "retweet_count": 0, 
+    "id": 1106931433656836096, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0935\u093e\u0939 \u0930\u0947 \u092d\u0915\u094d\u0924\u094b\u0902 ! \u092d\u0915\u094d\u0924\u094b\u0902 \u0928\u0947\n#\nSurfExcel \u0935\u093e\u0932\u0947 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0915\u0940 \u092d\u0921\u093c\u093e\u0938 microsoft excel \u0938\u0949\u092b\u094d\u091f\u0935\u0947\u092f\u0930 \u092a\u0930 \u0909\u0924\u093e\u0930 \u0926\u0940 \u0964\n#\nmicrosoftExcel \u090f\u0928\u094d\u091f\u0940 \u0939\u093f\u0928\u094d\u0926\u0942 \u0939\u094b \u0917\u092f\u093e\n@\njayantrld\n@\nyadavakhilesh\n@\nBJP4India\n@\nMayawati\n@\nRLDparty\n@\nsamajwadiparty", 
+    "created_at": "2019-03-16T10:25:44Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2864060538", 
+          "id": 2864060538, 
+          "name": "Jayant Chaudhary", 
+          "screen_name": "jayantrld"
+        }, 
+        {
+          "id_str": "57948579", 
+          "id": 57948579, 
+          "name": "Akhilesh Yadav", 
+          "screen_name": "yadavakhilesh"
+        }, 
+        {
+          "id_str": "207809313", 
+          "id": 207809313, 
+          "name": "BJP", 
+          "screen_name": "BJP4India"
+        }, 
+        {
+          "id_str": "1048510162527559680", 
+          "id": 1048510162527559680, 
+          "name": "Mayawati", 
+          "screen_name": "Mayawati"
+        }, 
+        {
+          "id_str": "1943792382", 
+          "id": 1943792382, 
+          "name": "Rashtriya Lok Dal", 
+          "screen_name": "RLDparty"
+        }, 
+        {
+          "id_str": "143392465", 
+          "id": 143392465, 
+          "name": "Samajwadi Party", 
+          "screen_name": "samajwadiparty"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "prvl", 
+      "name": "Praval Ponia", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1079752942314504192/AcxWByUk_400x400.jpg", 
+      "id": 99732008
+    }, 
+    "retweet_count": 0, 
+    "id": 1106924512761786368, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Hahaha beta NASA,Google,microsoft me tum bhi bikhari ho pakistan investment karwa raha hai bheek nahi maang raha.....aur imran khan kbhi na bheek maange ga na hi jhuke ga", 
+    "created_at": "2019-03-16T06:14:45Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1061815914436280320", 
+          "id": 1061815914436280320, 
+          "name": "Chowkidaar John Mathew", 
+          "screen_name": "JohnMat96301449"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "malikusama5333", 
+      "name": "Malikusama5333", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1106255078778900481/lMXWIwYJ_400x400.jpg", 
+      "id": 1102958693082169345
+    }, 
+    "retweet_count": 0, 
+    "id": 1106861351941668864, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u094d\u0915\u093e\u0907\u092a \u0917\u094d\u0930\u0941\u092a \u092e\u0947\u0902 \u0938\u0926\u0938\u094d\u092f\u094b\u0902 \u0915\u0940 \u0905\u0927\u093f\u0915\u0924\u092e \u0938\u0902\u0916\u094d\u092f\u093e 50 \u0939\u0941\u0908\n#\nSoftware\n#\nfrancisco\n#\nMicrosoft\n#\nMicrosoftTeams\n#\npunesamachar\n@\npunesamachar\n@\nMicrosoft https://bit.ly/2O91d6J", 
+    "created_at": "2019-03-16T05:21:24Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/XCfXC5Ldl7", 
+          "expanded_url": "https://bit.ly/2O91d6J", 
+          "display_url": "https://bit.ly/2O91d6J"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "punesamachar", 
+      "name": "Pune Samachar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/954704584101978113/_CQNevIO_400x400.jpg", 
+      "id": 954701671694680064
+    }, 
+    "retweet_count": 0, 
+    "id": 1106847925299277825, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\n\u0938\u0949\u092b\u094d\u091f\u0935\u0947\u092f\u0930 \u0915\u0902\u092a\u0928\u0940\n#\n\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u094d\u091f '\n#\n\u0938\u094d\u0915\u093e\u0907\u092a\u0917\u094d\u0930\u0941\u092a\u0915\u0949\u0932' \u092a\u0930 \u0938\u0926\u0938\u094d\u092f\u094b\u0902 \u0915\u0940 \u0905\u0927\u093f\u0915\u0924\u092e \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b 25 \u0938\u0947 \u092c\u0922\u093c\u093e\u0915\u0930 50 \u0915\u0930\u0928\u0947 \u0915\u0940 \u092f\u094b\u091c\u0928\u093e \u092c\u0928\u093e \u0930\u0939\u0940 \u0939\u0948\u0964\n#\nMicrosoft pic.twitter.com/bvd42i6tlB", 
+    "created_at": "2019-03-16T04:40:36Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/bvd42i6tlB", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/bvd42i6tlB"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ians_india", 
+      "name": "IANS Tweets", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1079666561/ianslogo_400x400.jpg", 
+      "id": 141584822
+    }, 
+    "retweet_count": 0, 
+    "id": 1106837657416536064, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "1. Rohit Sharma 2. Shikhar Dhawan (Rishabh Pant) 3. Virat Kohli 4. Dinesh Kartik (Vijay Shankar) 5. Microsoft 6. Kedar Jadhav 7. Hardik Pandya (Sir Jadeja) 8. Bhuvneshwar Kumar 9. Kuldeep Yadav 10. Yuzvendra Chahal 11. Jaspreet Bumrah (Mohammed Shami) High risk. But works", 
+    "created_at": "2019-03-15T21:09:05Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "LeNonymous", 
+      "name": "GItacharYa", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1060812613578158080/9XhM9cap_400x400.jpg", 
+      "id": 44295775
+    }, 
+    "retweet_count": 0, 
+    "id": 1106724030147522560, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0915\u094c\u0928 \u0932\u094b\u0917 \u0939\u0948\u0902 \u091c\u094b Microsoft Excel \u0915\u094b \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0932 \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948\u0902? https://hindi.rightlog.in/2019/03/surf-excel-ad-02/\u00a0\u2026", 
+    "created_at": "2019-03-15T14:37:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/YPGyfJVXNI", 
+          "expanded_url": "https://hindi.rightlog.in/2019/03/surf-excel-ad-02/", 
+          "display_url": "https://hindi.rightlog.in/2019/03/surf-excel-ad-02/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "sonu_sahu1980", 
+      "name": "surendra sahu", 
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png", 
+      "id": 294788427
+    }, 
+    "retweet_count": 0, 
+    "id": 1106625494861123584, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-15T12:11:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/YTnyzJ5iOb", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Harry27murari", 
+      "name": "Hare", 
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png", 
+      "id": 819162555683930112
+    }, 
+    "retweet_count": 0, 
+    "id": 1106588750518329344, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "https://youtu.be/5U8Lte-G3LM\u00a0 \u0915\u0902\u092a\u094d\u092f\u0942\u091f\u0930 \u092e\u0947\u0902 \u090f\u0915 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u092f\u093e \u0938\u0949\u092b\u094d\u091f\u0935\u0947\u092f\u0930 \u0906\u0924\u093e \u0939\u0948... Microsoft Excel... \u091c\u093f\u0938\u092e\u0947\u0902 \u090f\u0915 \u0938\u093f\u0938\u094d\u091f\u092e \u0939\u094b\u0924\u0940 \u0939\u0948...filter...\u091c\u093f\u0938\u0915\u0947 \u0915\u093e\u0930\u0923 \u0939\u092e\u0947 \u091c\u094b \u0935\u0938\u094d\u0924\u0941\u090f\u0902 \u0928\u0939\u0940\u0902 \u091a\u093e\u0907\u090f..\u0909\u0938\u0915\u094b \u0921\u093f\u0932\u0940\u091f \u092e\u093e\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948..\u0926\u0947\u0936 \u092e\u0947\u0902 \u0910\u0938\u0947 \u0939\u0940 \u090f\u0915 \u092b\u093f\u0932\u094d\u091f\u0930 \u0932\u0917\u093e\u0928\u0947 \u0915\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u092a\u0921\u093c \u0917\u0908 \u0939\u0948...\u092e\u093f\u0924\u094d\u0930\u094b...", 
+    "created_at": "2019-03-14T13:08:39Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/jRcbt5eSiz", 
+          "expanded_url": "https://youtu.be/5U8Lte-G3LM", 
+          "display_url": "https://youtu.be/5U8Lte-G3LM"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "fenilchoksy", 
+      "name": "\u0927\u094d\u0930\u0941\u0935 \u0906\u0930\u094d\u092f", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1063824222949163009/CwjAsvM5_400x400.jpg", 
+      "id": 922165992914079744
+    }, 
+    "retweet_count": 0, 
+    "id": 1106240736813559808, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft \u0915\u0947 \u0935\u093e\u092f\u0930\u0932\u0947\u0938 \u0921\u093f\u0938\u094d\u092a\u094d\u0932\u0947 \u090f\u092a\u094d\u092a \u0938\u0947 \u0905\u092c Xbox One \u092a\u0930 \u0916\u0947\u0932 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 PC \u0917\u0947\u092e\u094d\u0938... https://www.digit.in/hi/gaming/microsoft-wireless-display-app-will-let-you-play-pc-games-on-xbox-one-57769.html\u00a0\u2026", 
+    "created_at": "2019-03-14T13:00:27Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/B0MSNmcqJn", 
+          "expanded_url": "https://www.digit.in/hi/gaming/microsoft-wireless-display-app-will-let-you-play-pc-games-on-xbox-one-57769.html", 
+          "display_url": "https://www.digit.in/hi/gaming/microsoft-wireless-display-app-will-let-you-play-pc-games-on-xbox-one-57769.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "DigitHindi", 
+      "name": "\u0921\u093f\u091c\u093f\u091f \u0939\u093f\u0902\u0926\u0940", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/535009753814949888/ppywfqSl_400x400.jpeg", 
+      "id": 2883692823
+    }, 
+    "retweet_count": 0, 
+    "id": 1106238674608574465, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft Social Engagement \u0915\u0947 \u0932\u093f\u090f \u092a\u0939\u0941\u0901\u091a-\u092f\u094b\u0917\u094d\u092f\u0924\u093e 26/09/2018 \u092a\u0922\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f 16 \u092e\u093f\u0928\u091f \u092f\u094b\u0917\u0926\u093e\u0928\u0915\u0930\u094d\u0924\u093e Michael Hartmann olprod OpenLocalizationService \u0909\u0924\u094d\u092a\u093e\u0926\u0928\u0936\u0940\u0932 \u0930\u0939\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f Microsoft \u0910\u0938\u093e \u0938\u0949\u092b\u093c\u094d\u091f\u0935\u0947\u092f\u0930 \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0924\u093f\u092c\u0926\u094d\u0927 \u0939\u0948 \u091c\u094b \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u0915\u094d\u0937\u092e\u0924\u093e\u0913\u0902 \u0935\u093e\u0932\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0938\u0915\u094d\u0937\u092e \u092c\u0928\u093e\u0924\u093e \u0939\u0948. \u090f\u0915 \u0910\u0938\u093e \u092a\u0939\u0941\u0901\u091a", 
+    "created_at": "2019-03-14T08:29:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ngageTWAuto10", 
+      "name": "ngageTWAuto10", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/811216725299576832/QJZP_mdf_400x400.jpg", 
+      "id": 2829355848
+    }, 
+    "retweet_count": 0, 
+    "id": 1106170390630539266, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Ab Microsoft ko kuch din ke liye apni service band karni chiyay India me tho aaukaat pta chal jayegi", 
+    "created_at": "2019-03-14T06:30:38Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "39240673", 
+          "id": 39240673, 
+          "name": "ABP News", 
+          "screen_name": "abpnewstv"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "imrabhi", 
+      "name": "ABHISHEK SAXENA", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/890197793863684097/CBJDzxgn_400x400.jpg", 
+      "id": 1616468730
+    }, 
+    "retweet_count": 0, 
+    "id": 1106140575554813952, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0938\u0947 \u0939\u0941\u0908 \u0907\u0924\u0928\u0940 \u0928\u092b\u0930\u0924 \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u0915\u0947 \u0938\u093e\u0925 \u0915\u0930 \u0926\u093f\u092f\u093e \u0910\u0938\u093e https://ift.tt/2TDWFLA", 
+    "created_at": "2019-03-14T03:46:44Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/tBVuJRCCNl", 
+          "expanded_url": "https://ift.tt/2TDWFLA", 
+          "display_url": "https://ift.tt/2TDWFLA"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Samanth76625557", 
+      "name": "Samantha Roy", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1063047241202462721/pIjNh8I8_400x400.jpg", 
+      "id": 1063045294366048256
+    }, 
+    "retweet_count": 0, 
+    "id": 1106099325497692160, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u094b\u0936\u0932 \u092e\u0940\u0921\u093f\u092f\u093e \u092a\u0930 \u0907\u0928 \u0926\u093f\u0928\u094b\u0902 \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u0947 \u090f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u0915\u093e \u0915\u093e\u092b\u0940 \u0935\u093f\u0930\u094b\u0927 \u0939\u094b \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938 \u092c\u093e\u0930 \u092d\u0940 \u0907\u0938 \u0921\u093f\u091f\u0930\u094d\u091c\u0947\u0902\u091f \u0915\u0902\u092a\u0928\u0940 \u0928\u0947 \u0939\u094b\u0932\u0940 \u0915\u0947 \u092e\u094c\u0915\u0947 \u092a\u0930 \u090f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u092a\u0928 \u092a\u0947\u0936 \u0915\u093f\u092f\u093e\u0964\n#\nholi\n#\nmicrosoft\n#\nsurfexcelhttps://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026", 
+    "created_at": "2019-03-14T03:29:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ns1Ynr9Gl8", 
+          "expanded_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/", 
+          "display_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "cgrojgar", 
+      "name": "Chhattisgarh Rojgar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/905333748249485312/rfQuhpD3_400x400.jpg", 
+      "id": 443605771
+    }, 
+    "retweet_count": 0, 
+    "id": 1106094894626549760, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927, \u0915\u0902\u092b\u094d\u092f\u0942\u091c\u0928 \u092e\u0947\u0902 \u0932\u094b\u0917 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948 1 star rating\n#\nholi\n#\nmicrosoft\n#\nsurfexcel https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026pic.twitter.com/CK5ll691w0", 
+    "created_at": "2019-03-14T03:29:05Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ns1Ynr9Gl8", 
+          "expanded_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/", 
+          "display_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/CK5ll691w0", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/CK5ll691w0"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "cgrojgar", 
+      "name": "Chhattisgarh Rojgar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/905333748249485312/rfQuhpD3_400x400.jpg", 
+      "id": 443605771
+    }, 
+    "retweet_count": 0, 
+    "id": 1106094885613039616, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927, \u0915\u0902\u092b\u094d\u092f\u0942\u091c\u0928 \u092e\u0947\u0902 \u0932\u094b\u0917 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948 1 star\u00a0rating https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026pic.twitter.com/TwffKVwcSP", 
+    "created_at": "2019-03-14T03:27:47Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/N4FBfwkiwG", 
+          "expanded_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/", 
+          "display_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/TwffKVwcSP", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/TwffKVwcSP"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "GondwanaExp", 
+      "name": "GondwanaExpress.com", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1024914244469370880/jCgHtDtx_400x400.jpg", 
+      "id": 838250331666448385
+    }, 
+    "retweet_count": 0, 
+    "id": 1106094558222389248, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927, \u0915\u0902\u092b\u094d\u092f\u0942\u091c\u0928 \u092e\u0947\u0902 \u0932\u094b\u0917 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948 1 star rating https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row\u00a0\u2026", 
+    "created_at": "2019-03-14T03:27:42Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/NggtEjsmAZ", 
+          "expanded_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row", 
+          "display_url": "https://www.gondwanaexpress.com/business-news-people-are-boycotting-microsoft-excel-over-surf-excel-ad-row\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "GondwanaExp", 
+      "name": "GondwanaExpress.com", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1024914244469370880/jCgHtDtx_400x400.jpg", 
+      "id": 838250331666448385
+    }, 
+    "retweet_count": 0, 
+    "id": 1106094537032777728, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u0932\u094b\u0917\n#\nSurfExel \u0915\u0947 ad \u0938\u0947 \u0928\u092b\u093c\u0930\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0935\u094b \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u0947 \u091c\u093e\u0939\u093f\u0932, \u0914\u0930 \u091c\u094b \u0907\u0938 \u0935\u091c\u0939\n@\nMicrosoft\n#\nExel \u0938\u0947 \u0928\u092b\u093c\u0930\u0924 \u0915\u0930 \u0930\u0939\u0947 \u0935\u094b \u0907\u0928\u0915\u0947 \u092c\u093e\u092a\u0964\n#\nMSExel\n#\nSurfExcel\n#\nsurfexceladpic.twitter.com/CJi2H0GrRx", 
+    "created_at": "2019-03-14T03:24:46Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/CJi2H0GrRx", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/CJi2H0GrRx"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Shobhit_19", 
+      "name": "Shobhit Dwivedi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1060910200788525056/kFMrL2Pc_400x400.jpg", 
+      "id": 273841321
+    }, 
+    "retweet_count": 0, 
+    "id": 1106093799237959680, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\"Google, Microsoft, Facebook, Apple . \u0938\u092c\u0915\u0947 \u092e\u093e\u0932\u093f\u0915 \u0932\u0921\u093c\u0915\u0947 \u0939\u0948\u0902, . . \u0906\u0916\u093f\u0930 \u0932\u0921\u093c\u0915\u093f\u092f\u093e\u0901 \u0907\u0924\u0928\u0947 \u092e\u093e\u0930\u094d\u0915\u094d\u0938 \u0932\u0947\u0915\u0930 \u0915\u0930\u0924\u0940 \u0915\u094d\u092f\u093e \u0939\u0948\u0902? #\"", 
+    "created_at": "2019-03-13T14:58:47Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "3272710928", 
+          "id": 3272710928, 
+          "name": "\u2661\ud83d\udc95\u0936\u093f\u0935\u0928\u094d\u092f\u093e\ud83d\udc95\u2661", 
+          "screen_name": "imshivnya"
+        }, 
+        {
+          "id_str": "3882164719", 
+          "id": 3882164719, 
+          "name": "\u091a\u094c\u0915\u0940\u0926\u093e\u0930 SUNNY DEOL \ud83d\udea9", 
+          "screen_name": "SunnyDeol___"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "narpatrajput671", 
+      "name": "CHOWKIDAR RAJPUT NARPAT", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1079385897941041153/YjpOUZNJ_400x400.jpg", 
+      "id": 1064853660402966528
+    }, 
+    "retweet_count": 0, 
+    "id": 1105906067358314496, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u093e\u0908 \u091c\u094d\u092f\u093e\u0926\u093e \u0928 \u092c\u0939\u0915\u094b, \u091c\u0948\u0938\u0947 \u0915\u0941\u091b \u0932\u094b\u0917 \u0910\u0938\u0947 \u092d\u0940 \u0939\u0948\u0902 \u091c\u094b surf excel ki \u0915\u0940 \u091c\u0917\u0939 Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902\u0964", 
+    "created_at": "2019-03-13T14:43:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "__alok", 
+      "name": "Alok Gautam", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1073069632137895936/6z8r7jRf_400x400.jpg", 
+      "id": 61516312
+    }, 
+    "retweet_count": 0, 
+    "id": 1105902151241486336, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u093e\u0907\u092f\u094b Microsoft excel \u0915\u0940 \u0928\u0939\u0940 ,surf excel \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e\u0928\u0940 \u0939\u0948 .. \u091c\u092f \u0936\u094d\u0930\u0940 \u0930\u093e\u092e.", 
+    "created_at": "2019-03-13T11:24:08Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Mahavirlove4u", 
+      "name": "\ud83c\uddee\ud83c\uddf3 Mahavirsinh Rajput \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1099660566107381760/AhaS1MNK_400x400.jpg", 
+      "id": 165795588
+    }, 
+    "retweet_count": 0, 
+    "id": 1105852048371798021, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u093e\u0907\u092f\u094b Microsoft excel \u0915\u0940 \u0928\u0939\u0940 ,surf excel \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e\u0928\u0940 \u0939\u0948 .. \u091c\u092f \u0936\u094d\u0930\u0940 \u0930\u093e\u092e..\u0964", 
+    "created_at": "2019-03-13T11:22:19Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "KejriwalFarzi", 
+      "name": "Chowkidar Farzi Kejriwal \u2122\u00a9\u00ae", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1029302700213587973/7QvTq8sO_400x400.jpg", 
+      "id": 833064348725547008
+    }, 
+    "retweet_count": 14, 
+    "id": 1105851590127161344, 
+    "favorite_count": 87
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u0932\u094b\u0917 Microsoft Excel \u0914\u0930 Surf Excel \u092e\u0947\u0902 \u092b\u093c\u0930\u094d\u0915\u093c \u0928\u0939\u0940\u0902 \u0915\u0930 \u092a\u093e \u0930\u0939\u0947 \u0935\u094b \u0907\u0938 \u0926\u0947\u0936 \u092e\u0947\u0902 \u0905\u0917\u0932\u0940 \u0938\u0930\u0915\u093e\u0930 \u091a\u0941\u0928\u0947\u0902\u0917\u0947\u0964\n#\nElection2019", 
+    "created_at": "2019-03-13T10:46:57Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "archana0809", 
+      "name": "Archana Solanki", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1115249884997853184/dT-ybC3b_400x400.jpg", 
+      "id": 3110169882
+    }, 
+    "retweet_count": 2, 
+    "id": 1105842690401415169, 
+    "favorite_count": 10
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Left hand drive \u0935\u093e\u0932\u0947 \u092c\u0938 \u0907\u0924\u0928\u093e \u0939\u0940 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0947 !\n#\nBoycottSurfExcel Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-13T10:40:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/quGwnFIkE2", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "khachedu123", 
+      "name": "\u091a\u094c\u0915\u0940\u0926\u093e\u0930 \u0916\u091a\u0947\u095c\u0942", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1030074557925797893/Qg0Yr_YM_400x400.jpg", 
+      "id": 984036388310888449
+    }, 
+    "retweet_count": 1, 
+    "id": 1105841003242512384, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\n#\n\u092d\u0915\u094d\u0924\u094b\u0902 \u0928\u0947 MICROSOFT EXCELL \u092d\u0940 \u0905\u0928\u0907\u0902\u0938\u094d\u091f\u093e\u0932 \u0915\u0930 \u0926\u093f\u092f\u093e \u0928\u0939\u0940 \u091a\u093e\u0939\u093f\u090f \u0915\u094b\u0908 \u092d\u0940 \u090f\u0915\u094d\u0938\u0947\u0932\u0964\u0964\n#\nSurf_Excel", 
+    "created_at": "2019-03-13T10:37:58Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "FASIULLAHKHAN6", 
+      "name": "@FASIULLAH KHAN6", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1073529636859117574/Xrt4O1sP_400x400.jpg", 
+      "id": 813677675000844288
+    }, 
+    "retweet_count": 0, 
+    "id": 1105840429247934466, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092e\u094b\u0926\u0940 \u091c\u0940 \u0915\u0947 \u092d\u0915\u094d\u0924\u094b\u0902 \u0915\u0940 \u0909\u091a\u094d\u091a \u0936\u093f\u0915\u094d\u0937\u093e \u092e\u0941\u091d\u0947 \u0924\u092d\u0940 \u0938\u092e\u091d \u092e\u0947 \u0906\u092f\u0940 \u091c\u092c \u0935\u094b \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u093e \u0935\u093f\u0930\u094b\u0927 Microsoft Excel \u0915\u0940 \u0935\u0947\u092c\u0938\u093e\u0907\u091f \u092a\u0930 \u0915\u0930 \u0906\u092f\u0947\u0964", 
+    "created_at": "2019-03-13T09:39:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "iamit_babu", 
+      "name": "AMIT BABU", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1084331989144981505/Zrnyqc2x_400x400.jpg", 
+      "id": 811166226647052288
+    }, 
+    "retweet_count": 0, 
+    "id": 1105825620058099712, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "SURF EXCEL \u0938\u0947 \u0939\u0941\u0908 \u0907\u0924\u0928\u0940 \u0928\u092b\u0930\u0924 \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 MICROSOFT EXCEL \u0915\u0947 \u0938\u093e\u0925 \u0915\u0930 \u0926\u093f\u092f\u093e \u0910\u0938\u093e https://topreporter.co/surf-excel-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%A8%E0%A4%AB%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A4%BF-%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82/\u00a0\u2026", 
+    "created_at": "2019-03-13T09:02:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Ik8IBr5HgB", 
+          "expanded_url": "https://topreporter.co/surf-excel-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%A8%E0%A4%AB%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A4%BF-%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82/", 
+          "display_url": "https://topreporter.co/surf-excel-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%A8%E0%A4%AB%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A4%BF-%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Topreporter2", 
+      "name": "Topreporter", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/976053727923613697/plrxSA72_400x400.jpg", 
+      "id": 959417952658341888
+    }, 
+    "retweet_count": 0, 
+    "id": 1105816346997207045, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0938\u0947 \u0939\u0941\u0908 \u0907\u0924\u0928\u0940 \u0928\u092b\u0930\u0924 \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u0915\u0947 \u0938\u093e\u0925 \u0915\u0930 \u0926\u093f\u092f\u093e \u0910\u0938\u093e https://www.topnewscg.com/2019/03/surf-excel-microsoft-excel.html\u00a0\u2026", 
+    "created_at": "2019-03-13T08:56:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/PzsKhnBRja", 
+          "expanded_url": "https://www.topnewscg.com/2019/03/surf-excel-microsoft-excel.html", 
+          "display_url": "https://www.topnewscg.com/2019/03/surf-excel-microsoft-excel.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Topreporter2", 
+      "name": "Topreporter", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/976053727923613697/plrxSA72_400x400.jpg", 
+      "id": 959417952658341888
+    }, 
+    "retweet_count": 0, 
+    "id": 1105814832312406017, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\nMicrosoft \u0928\u0947 \u092c\u094d\u0932\u093e\u0907\u0902\u0921 \u092f\u0942\u091c\u0930\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u2018\u0910\u092a\u2019 \u092e\u0947\u0902 \u091c\u094b\u0921\u093c\u093e \u091f\u091a \u0938\u092a\u094b\u0930\u094d\u091f https://goo.gl/rHCr41\u00a0pic.twitter.com/bx9Cp2WeTJ", 
+    "created_at": "2019-03-13T08:12:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/WOWWg89tcA", 
+          "expanded_url": "https://goo.gl/rHCr41", 
+          "display_url": "https://goo.gl/rHCr41"
+        }, 
+        {
+          "url": "https://t.co/bx9Cp2WeTJ", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/bx9Cp2WeTJ"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ccm_hindi", 
+      "name": "CCM Hindi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/636121471585157120/w5c3p4Rq_400x400.png", 
+      "id": 3438993275
+    }, 
+    "retweet_count": 0, 
+    "id": 1105803755738595328, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0935\u093f\u0935\u093e\u0926: \u0938\u0930\u0928\u0947\u092e \u090f\u0915 \u0939\u0948, \u0924\u094b \u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u094d\u091f \u0915\u094b \u0907\u0924\u0928\u093e \u092d\u0941\u0917\u0924\u0928\u093e \u0924\u094b \u092c\u0928\u0924\u093e \u0939\u0948!\n@\nHUL_News\n@\nMicrosoft https://www.shudhdesi.com/virus/people-rated-1-to-ms-excel-on-surf-excel-advertisement-dispute/\u00a0\u2026", 
+    "created_at": "2019-03-13T08:04:41Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1703704490", 
+          "id": 1703704490, 
+          "name": "Hindustan Unilever", 
+          "screen_name": "HUL_News"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/9nobJ44Q8Y", 
+          "expanded_url": "https://www.shudhdesi.com/virus/people-rated-1-to-ms-excel-on-surf-excel-advertisement-dispute/", 
+          "display_url": "https://www.shudhdesi.com/virus/people-rated-1-to-ms-excel-on-surf-excel-advertisement-dispute/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ShudhDesiHindi", 
+      "name": "Shudh Desi \u0939\u093f\u0928\u094d\u0926\u0940", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103620429594402816/dfEWNolr_400x400.png", 
+      "id": 1023906828596457472
+    }, 
+    "retweet_count": 0, 
+    "id": 1105801855282614273, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0910\u0938\u0947 \u0910\u0938\u0947 \u0932\u094b\u0917 \u092d\u0940 \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932\u0924\u0947 \u0939\u0948\u0902 Google Play Store \u092a\u0947 \u091c\u093f\u0938\u0915\u094b \u0905\u092d\u0940 \u0924\u0915 Surf Excel \u0914\u0930 Microsoft Excel \u092e\u0947\u0902 \u092b\u0930\u094d\u0915 \u0928\u0939\u0940\u0902 \u092e\u093e\u0932\u0942\u092e \u0939\u0948 l \u0906\u092a \u0916\u0941\u0926 \u0939\u0940 \u0926\u0947\u0916 \u0932\u0947\u0902 l Surf Excel \u0915\u093e Boycott \u0915\u0930\u0928\u0947 \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u092c\u0947\u091a\u093e\u0930\u0947 Microsoft Excel \u0935\u093e\u0932\u0947 \u0915\u094b \u0939\u0940 \u0928\u093f\u0936\u093e\u0928\u093e \u092c\u0928\u093e \u0932\u093f\u092f\u093e \u0907\u0902\u0938\u093e\u0928\u093f\u092f\u0924 \u0915\u0947 \u0926\u0941\u0936\u094d\u092e\u0928\u094b\u0902 \u0928\u0947 l pic.twitter.com/Q5bquvUVh6", 
+    "created_at": "2019-03-13T07:23:53Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Q5bquvUVh6", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/Q5bquvUVh6"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "AFarhan1996", 
+      "name": "Jagrook Matdata Farhan Saifi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1035593105422962689/LAD0kAby_400x400.jpg", 
+      "id": 847195181887696897
+    }, 
+    "retweet_count": 0, 
+    "id": 1105791586376581120, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026", 
+    "created_at": "2019-03-13T07:01:31Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/WH2w0fm9oi", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Rannvijay06", 
+      "name": "Rannvijay", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/669755738625933312/g7uBAJCM_400x400.jpg", 
+      "id": 124742925
+    }, 
+    "retweet_count": 0, 
+    "id": 1105785958753021952, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0938\u0947 \u0939\u0941\u0908 \u0907\u0924\u0928\u0940 \u0928\u092b\u0930\u0924 \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u0915\u0947 \u0938\u093e\u0925 \u0915\u0930 \u0926\u093f\u092f\u093e \u0910\u0938\u093e http://www.newssummedup.com/a/75sglx", 
+    "created_at": "2019-03-13T06:31:22Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/eVlbymOfLy", 
+          "expanded_url": "http://www.newssummedup.com/a/75sglx", 
+          "display_url": "http://www.newssummedup.com/a/75sglx"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "newssummeduphq", 
+      "name": "News Summed Up", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/731455561695264770/Oj_92lRJ_400x400.jpg", 
+      "id": 731451424605753344
+    }, 
+    "retweet_count": 0, 
+    "id": 1105778369017217024, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u0932\u094b\u0917 snapdeal \u0915\u0940 \u091c\u0917\u0939 snapchat \u0915\u094b \u0914\u0930 \u0905\u092c surf excel \u0915\u0940 \u091c\u0917\u0939 microsoft excel \u0915\u094b \u092c\u0941\u0930\u0947 \u0930\u093f\u0935\u094d\u092f\u0942 \u0926\u0947 \u0930\u0939\u0947 \u0939\u0948 \u092f\u0947 \u0932\u094b\u0917 \u0915\u093f\u0938\u0915\u094b \u0935\u094b\u091f \u0915\u0930\u0947\u0902\u0917\u0947 ?? \u0915\u093e\u092b\u093c\u0940 \u092c\u0947\u0935\u0915\u093c\u0942\u092b\u093c \u0932\u094b\u0917 \u0932\u0917 \u0930\u0939\u0947 \u0939\u0948 \u092e\u0941\u091d\u0947 \u0924\u094b, \u0915\u093e\u0936 \u0907\u0938\u0928\u0947 \u0935\u094b\u091f\u0930 \u0915\u093e\u0930\u094d\u0921 \u0916\u094b \u091c\u093e\u090f \u0964\n#\nSurf_Excel", 
+    "created_at": "2019-03-13T06:16:49Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Ankit77Thakur", 
+      "name": "Kancha_INC", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1110263912975470592/PGmQXBrv_400x400.jpg", 
+      "id": 323365434
+    }, 
+    "retweet_count": 1, 
+    "id": 1105774708375646208, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Kya chutiya log h yaar ye!", 
+    "created_at": "2019-03-13T05:59:45Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "224180296", 
+          "id": 224180296, 
+          "name": "Raju Narisetti", 
+          "screen_name": "raju"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ashubhguy", 
+      "name": "Shubham Verma", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1101576272596033536/-g6iSD01_400x400.jpg", 
+      "id": 729714710841458688
+    }, 
+    "retweet_count": 0, 
+    "id": 1105770415354306561, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092f\u0939\u093e\u0901 \u0926\u0947\u0916\u093f\u092f\u0947 \u0939\u093f\u0928\u094d\u0926\u0941\u0913 \u0915\u0940 \u090f\u0915\u0924\u093e \u0938\u0947 \u0915\u0948\u0938\u0947 \u0935\u093e\u092e\u092a\u0902\u0925\u0940 \u0938\u093e\u0907\u091f\u094d\u0938 \u092c\u094c\u0916\u0932\u093e \u0917\u092f\u0940 \u0939\u0948\u0902, Microsoft Excel \u0938\u093f\u0902\u0917\u0932 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u092e\u0941\u0938\u094d\u0932\u093f\u092e \u0909\u0928\u094d\u0939\u0947\u0902 \u0939\u093f\u0928\u094d\u0926\u0942 \u0932\u0917 \u0930\u0939\u0947 \u0939\u0948, \u090f\u0915 \u0914\u0930 \u092a\u094d\u0930\u094b\u092a\u094b\u0917\u0902\u0921\u093e \u090f\u0915\u094d\u0938\u092a\u094b\u091c, \u0936\u0947\u092f\u0930 \u0915\u0930\u0947 https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026", 
+    "created_at": "2019-03-13T05:25:21Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Zf8Y3wHzrk", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "SinghAwantika", 
+      "name": "Awantika\u200f\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1056418853410893824/-r1Xmx1-_400x400.jpg", 
+      "id": 636242542
+    }, 
+    "retweet_count": 5, 
+    "id": 1105761756700278785, 
+    "favorite_count": 7
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0938\u0947 \u0939\u0941\u0908 \u0907\u0924\u0928\u0940 \u0928\u092b\u0930\u0924 \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u0915\u0947 \u0938\u093e\u0925 \u0915\u0930 \u0926\u093f\u092f\u093e \u0910\u0938\u093e pic.twitter.com/VKWGqj5eTC", 
+    "created_at": "2019-03-13T04:36:42Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/VKWGqj5eTC", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/VKWGqj5eTC"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "VishalV96491393", 
+      "name": "Vishal Vaid", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1001677517030346754/9yTu1Duw_400x400.jpg", 
+      "id": 961075167010152449
+    }, 
+    "retweet_count": 0, 
+    "id": 1105749513451589632, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091d\u0917\u0921\u093c\u093e\n#\nSurfExcel \u0938\u0947 \u0939\u0941\u0906 \u092e\u093e\u0930 \u092c\u0947\u091a\u093e\u0930\u0947\n#\nMicrosoft\n#\nExcel \u0928\u0947 \u0916\u093e\u0908... https://www.ichowk.in/humour/agitated-over-surf-excel-recent-advertisement-on-holi-people-trolled-microsoft-excel-and-gave-1-star-rating-on-google-play/story/1/14250.html\u00a0\u2026\n#\nBoycottSurfExcel\n#\nSnapchat\n#\nSnapdeal\n#\nPakistan\n@\nbilalj8pic.twitter.com/YvJpguy4oK", 
+    "created_at": "2019-03-13T03:30:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "137047067", 
+          "id": 137047067, 
+          "name": "Bilal Jafri", 
+          "screen_name": "bilalj8"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/UN882sGov0", 
+          "expanded_url": "https://www.ichowk.in/humour/agitated-over-surf-excel-recent-advertisement-on-holi-people-trolled-microsoft-excel-and-gave-1-star-rating-on-google-play/story/1/14250.html", 
+          "display_url": "https://www.ichowk.in/humour/agitated-over-surf-excel-recent-advertisement-on-holi-people-trolled-microsoft-excel-and-gave-1-star-rating-on-google-play/story/1/14250.html\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/YvJpguy4oK", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/YvJpguy4oK"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "iChowk_", 
+      "name": "iChowk", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/582512389431558145/wmeoWSe__400x400.jpg", 
+      "id": 3075371238
+    }, 
+    "retweet_count": 1, 
+    "id": 1105732846080192513, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u0915\u094d\u0924\u094b\u0902 \u0915\u0940 \u0905\u0915\u094d\u0932 \u0915\u093e \u0905\u0902\u0926\u093e\u091c\u093e \u0907\u0938 \u092c\u093e\u0924 \u0938\u0947 \u0938\u093e\u092b \u092a\u0924\u093e \u0932\u0917\u0924\u093e \u0939\u0948\u0901 \u0915\u093f\u0924\u0928\u093e \u0917\u094b\u092c\u0930 \u092d\u0930\u093e \u0939\u0941\u0906 \u0939\u0948\u0901 \u0926\u093f\u092e\u093e\u0917\u093c \u092e\u0947\n#\nsurf_Excle \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e\n#\nmicrosoft_Excle \u092a\u0930 \u0928\u093f\u0915\u093e\u0932 \u0930\u0939 \u0939\u0948\u0901\n#\nplya_store \u092a\u0930 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947 \u0915\u0930\n#\nbjp_\u092d\u0917\u093e\u0913_\u0926\u0947\u0936_\u092c\u091a\u093e\u0913\n#\nRahulGandhiForPM\n#\n\u0939\u093f\u0902\u0926\u0940_\u0936\u092c\u094d\u0926", 
+    "created_at": "2019-03-13T03:27:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "iamsrk_00", 
+      "name": "Shahrukh Khan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1086980640178749441/xe9vrqyg_400x400.jpg", 
+      "id": 787938300724178944
+    }, 
+    "retweet_count": 4, 
+    "id": 1105732044682752001, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u0915\u094d\u0924\u094b\u0902 \u0915\u093e Surf Excel \u0938\u0947 \u0932\u0947 \u0915\u0930 Microsoft Excel \u0924\u0915 \u0915\u093e \u0938\u092b\u0930\u0964 \u092d\u0915\u094d\u0924\u094b\u0902 \u0928\u0947 \u092b\u093f\u0930\u0938\u0947 \u0938\u093e\u092c\u093f\u0924 \u0915\u093f\u092f\u093e \u0915\u0940, \u0909\u0928\u0915\u093e Brain unused \u0925\u093e, \u0939\u0948 \u0914\u0930 \u0930\u0939\u0947\u0917\u093e\u2022\u2022\u2022\n#\nVSGT\n#\n\u0906\u0930\u0941\u0937\u093fpic.twitter.com/AcOCTapakk", 
+    "created_at": "2019-03-13T02:53:40Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/AcOCTapakk", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/AcOCTapakk"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "AarushiRawat_", 
+      "name": "\ud83c\uddee\ud83c\uddf3Aarushi Rawat\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1012974632805289984/lRQDyMSv_400x400.jpg", 
+      "id": 2481753037
+    }, 
+    "retweet_count": 32, 
+    "id": 1105723582812966912, 
+    "favorite_count": 53
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092c\u0921\u0947 \u092c\u0941\u091c\u0941\u0930\u094d\u0917 \u0938\u0939\u093f \u0915\u0947\u0939\u0924\u0947 \u0939\u0948 \u0915\u0940 \u092d\u0915\u094d\u0924\u093f \u0914\u0930 \u092c\u0926\u0932\u093e \u0932\u0947\u0928\u0947 \u0915\u0940 \u0939\u0921\u092c\u0921\u0940 \u092e\u0947\u0902 \u0932\u094b\u0917 \u0905\u0928\u094d\u0927\u0947 \u0939\u094b \u091c\u093e\u0924\u0947 \u0939\u0948\u0902. \u0905\u092c \u092f\u0939\u0940 \u0926\u0947\u0916\u094b \u0928\u093e \u0907\u0938 \u0932\u094c\u0928\u094d\u0921\u0947 \u0915\u094b surf exel \u0915\u093e \u092c\u0926\u0932\u093e microsoft exel \u0938\u0947 \u0932\u0947 \u0930\u0939\u093e \u0939\u0948. pic.twitter.com/KyjPEi6wPl", 
+    "created_at": "2019-03-13T02:11:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/KyjPEi6wPl", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/KyjPEi6wPl"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Badshahh2", 
+      "name": "Badshahh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1088353742901202945/NLY42ZLV_400x400.jpg", 
+      "id": 994187578722091013
+    }, 
+    "retweet_count": 0, 
+    "id": 1105712963854438400, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\nFactCheck : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-13T01:18:53Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/XVncvTTSqo", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "deepaksanatan_1", 
+      "name": "\u0926\u0940\u092a\u0915 \u0938\u0928\u093e\u0924\u0928", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/979032333255757829/y0eKR-tm_400x400.jpg", 
+      "id": 4828225055
+    }, 
+    "retweet_count": 1, 
+    "id": 1105699730590306306, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\nFactCheck : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-13T01:18:33Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/sqJ4oy1N9h", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "deepak_sanatan", 
+      "name": "D E E P@K\u00a0\ud83c\uddee\ud83c\uddf3\u091a\u094c\u0915\u0940\u0926\u093e\u0930", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103495626648502272/CKCzgCB3_400x400.jpg", 
+      "id": 850337286
+    }, 
+    "retweet_count": 0, 
+    "id": 1105699647354363904, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0935\u0948\u0938\u0947 \u0907\u0938\u0915\u094b \u092d\u0940 \u092a\u0922\u093c\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0925\u093e \u0924\u0941\u092e\u094d\u0939\u0947\n@\nsakshijoshii ,\n@\ne_postmortem Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026https://twitter.com/sakshijoshii/status/1105445279011143681\u00a0\u2026", 
+    "created_at": "2019-03-13T00:37:43Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "105733665", 
+          "id": 105733665, 
+          "name": "Sakshi Joshi", 
+          "screen_name": "sakshijoshii"
+        }, 
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/UbWgGyCyXd", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/Z9hIEb3quZ", 
+          "expanded_url": "https://twitter.com/sakshijoshii/status/1105445279011143681", 
+          "display_url": "https://twitter.com/sakshijoshii/status/1105445279011143681\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "mrsanjay04", 
+      "name": "SANJAY", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114351032274964480/mg5ca6Wd_400x400.jpg", 
+      "id": 103821999
+    }, 
+    "retweet_count": 0, 
+    "id": 1105689370961563651, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-13T00:08:26Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/i2rNH3nDLl", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "vishal1109", 
+      "name": "VISHAL ANAND", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1109674548587184129/qmBEpBkg_400x400.jpg", 
+      "id": 132080181
+    }, 
+    "retweet_count": 0, 
+    "id": 1105682002890637312, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092c\u093f\u0928\u093e \u0915\u093f\u0938\u0940 \u0907\u092e\u094b\u0936\u0928, \u092c\u093f\u0928\u093e \u0915\u093f\u0938\u0940 \u0926\u093f\u092e\u093e\u0917, \u0914\u0930 \u092c\u093f\u0928\u093e \u0915\u093f\u0938\u0940 \u0938\u092e\u091d \u0915\u0947. \u092e\u0917\u0930 \u090f\u0902\u091f\u0930\u091f\u0947\u0928\u092e\u0947\u0902\u091f \u092b\u0941\u0932 \u0915\u0930\u0924\u0940 \u0939\u0948\u0905\u092c \u092f\u0947 \u0926\u0947\u0916\u093f\u092f\u0947\"Surf Excel\" \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e\u0928\u0947 \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u092f\u0947 \u092d\u0915\u094d\u0924 \u091c\u093e \u0915\u0947 \"Microsoft Excel\" \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e \u0906\u092f\u093e \u0939\u0948.. \u092c\u093f\u0932 \u0917\u0947\u091f\u094d\u0938 \u092d\u0940 \u0938\u094b\u091a\u0947\u0902\u0917\u0947 \u0915\u093f \u0906\u0916\u093f\u0930 Microsoft Excel \u0939\u093f\u0928\u094d\u0926\u0942 \u0935\u093f\u0930\u094b\u0927\u0940 \u0915\u0948\u0938\u0947 \u0939\u094b \u0917\u092f\u093e? pic.twitter.com/8qSdjrzNgz", 
+    "created_at": "2019-03-12T23:21:21Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/8qSdjrzNgz", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/8qSdjrzNgz"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kidwai_azhar", 
+      "name": "Azhar kidwai", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1103370580521213953/uQR2wKVN_400x400.jpg", 
+      "id": 987043344323895298
+    }, 
+    "retweet_count": 6, 
+    "id": 1105670154547953664, 
+    "favorite_count": 6
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0938\u0947 \u0925\u093e \u0917\u0941\u0938\u094d\u0938\u093e, \u0932\u0947\u0915\u093f\u0928 \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 Microsoft Excel \u0915\u094b \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 \u0926\u0940 http://tinyurl.com/y3eu8emm\u00a0pic.twitter.com/2LsjpVNyYu", 
+    "created_at": "2019-03-12T21:30:06Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/0jCPvXgR4q", 
+          "expanded_url": "http://tinyurl.com/y3eu8emm", 
+          "display_url": "http://tinyurl.com/y3eu8emm"
+        }, 
+        {
+          "url": "https://t.co/2LsjpVNyYu", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/2LsjpVNyYu"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "khabar24by7", 
+      "name": "Khabar247", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/872725060330455040/-Rj9xsvc_400x400.jpg", 
+      "id": 869451319462969344
+    }, 
+    "retweet_count": 0, 
+    "id": 1105642156394536960, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft Excel \u0935\u093e\u0932\u093e \u092f\u0942\u0928\u093f\u0932\u0940\u0935\u0930 \u0915\u093e \u092a\u094d\u0930\u094b\u092a\u0947\u0917\u0947\u0902\u0921\u093e \u0939\u0948\u0964\u200c\u0910\u0938\u093e \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0939\u0948 \u0938\u092c \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 Microsoft Excel is not SurfExcel. \u0939\u092e\u0947 \u092f\u0942\u0928\u093f\u0932\u0940\u0935\u0930 \u0915\u093e \u092c\u0939\u093f\u0937\u094d\u0915\u093e\u0930 \u091c\u093e\u0930\u0940 \u0930\u0916\u0928\u093e \u0939\u0948\u0964\n#\nBoycottSurfExcel\n#\nBoycottHULproducts\n#\nBoycottHindustanUnilever", 
+    "created_at": "2019-03-12T19:20:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Ganesh_Prajapat", 
+      "name": "Chowkidar Ganesh Prajapat", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/949354064487137280/L2t2Ykws_400x400.jpg", 
+      "id": 357668584
+    }, 
+    "retweet_count": 0, 
+    "id": 1105609482170560513, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Tum iss DESHROHI\n@\nnarendramodi jo khud apne maa aur biwi jasodaben ko bech Sakta hai fake news spread Kar ne ke liye aur aab tum modi bhakt apne maa aur baap ko beech rahe Microsoft Excel ke against fake news spread Kar ne ke liye.. Dunya bar mey India ka mazak bana diya hai", 
+    "created_at": "2019-03-12T17:32:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1101122078005112832", 
+          "id": 1101122078005112832, 
+          "name": "MiG21Bison", 
+          "screen_name": "mi_g21"
+        }, 
+        {
+          "id_str": "3266261875", 
+          "id": 3266261875, 
+          "name": "chokidar Rohitsingh", 
+          "screen_name": "d7854a8b63df401"
+        }, 
+        {
+          "id_str": "73635356", 
+          "id": 73635356, 
+          "name": "Tarun", 
+          "screen_name": "TeJay29"
+        }, 
+        {
+          "id_str": "121219467", 
+          "id": 121219467, 
+          "name": "Krishna", 
+          "screen_name": "Atheist_Krishna"
+        }, 
+        {
+          "id_str": "18839785", 
+          "id": 18839785, 
+          "name": "Chowkidar Narendra Modi", 
+          "screen_name": "narendramodi"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Bollywood_addic", 
+      "name": "ZII SHAWN", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1066976315503460354/y6OsFQMZ_400x400.jpg", 
+      "id": 46344708
+    }, 
+    "retweet_count": 0, 
+    "id": 1105582306956402689, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Tum iss DESHROHI\n@\nnarendramodi jo khud apne maa aur biwi jasodaben ko bech Sakta hai fake news spread Kar ne ke liye aur aab tum modi bhakt apne maa aur baap ko beech rahe Microsoft Excel ke against fake news spread Kar ne ke liye.. Dunya bar mey India ka mazak bana diya hai pic.twitter.com/D4xFeQvbdE", 
+    "created_at": "2019-03-12T17:31:41Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "296647439", 
+          "id": 296647439, 
+          "name": "Tonti boy", 
+          "screen_name": "2BHKFLAT"
+        }, 
+        {
+          "id_str": "18839785", 
+          "id": 18839785, 
+          "name": "Chowkidar Narendra Modi", 
+          "screen_name": "narendramodi"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/D4xFeQvbdE", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/D4xFeQvbdE"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Bollywood_addic", 
+      "name": "ZII SHAWN", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1066976315503460354/y6OsFQMZ_400x400.jpg", 
+      "id": 46344708
+    }, 
+    "retweet_count": 0, 
+    "id": 1105582156691181568, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Gandu sun Tera DESHROHI\n@\nnarendramodi aur uske bhakt jaisa jaahil aur gawar nahi dekha ye dekh Microsoft Excel ko nahi choda.. Ek limit hoti hai .. India ka Naam dooba rahe ho harami pic.twitter.com/NnHBjGqvEo", 
+    "created_at": "2019-03-12T17:26:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "296647439", 
+          "id": 296647439, 
+          "name": "Tonti boy", 
+          "screen_name": "2BHKFLAT"
+        }, 
+        {
+          "id_str": "18839785", 
+          "id": 18839785, 
+          "name": "Chowkidar Narendra Modi", 
+          "screen_name": "narendramodi"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/NnHBjGqvEo", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/NnHBjGqvEo"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Bollywood_addic", 
+      "name": "ZII SHAWN", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1066976315503460354/y6OsFQMZ_400x400.jpg", 
+      "id": 46344708
+    }, 
+    "retweet_count": 0, 
+    "id": 1105580851570659328, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026 via\n@\ne_postmortem", 
+    "created_at": "2019-03-12T15:58:27Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2742366647", 
+          "id": 2742366647, 
+          "name": "E-Postmortem", 
+          "screen_name": "e_postmortem"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/xEKS4jviD8", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "sauhem26", 
+      "name": "Hemal Trivedi (\u0905\u0916\u0902\u0921 \u092d\u093e\u0930\u0924)", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1113480290242945025/xIms06-3_400x400.jpg", 
+      "id": 814106042732642304
+    }, 
+    "retweet_count": 0, 
+    "id": 1105558694354345984, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Fact Check : \u0938\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b Microsoft Excel \u0938\u092e\u091d \u0915\u0930 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 1 \u0930\u0947\u091f\u093f\u0902\u0917 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u094c\u0928 \u0939\u0948? https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026", 
+    "created_at": "2019-03-12T15:51:37Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/LomHu806sf", 
+          "expanded_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/", 
+          "display_url": "https://www.epostmortem.org/opinion/microsoft-excel-given-1-rating-instead-of-surf-excel-by-whom-on-google-play-store/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "e_postmortem", 
+      "name": "E-Postmortem", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/990570920438726657/EAPggZRz_400x400.jpg", 
+      "id": 2742366647
+    }, 
+    "retweet_count": 7, 
+    "id": 1105556972672294913, 
+    "favorite_count": 9
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0925\u094b\u0921\u093c\u0947 \u092c\u0921\u093c\u0947 \u0939\u094b \u091c\u093e\u0913 \u092f\u093e\u0930\u0964 \u0935\u094d\u092f\u0902\u0917\u094d\u092f \u092d\u0940 \u0938\u092e\u091d\u093e\u0928\u093e \u092a\u0921\u093c\u0947\u0917\u093e?", 
+    "created_at": "2019-03-12T15:43:49Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "224180296", 
+          "id": 224180296, 
+          "name": "Raju Narisetti", 
+          "screen_name": "raju"
+        }, 
+        {
+          "id_str": "2895357769", 
+          "id": 2895357769, 
+          "name": "Pankhuri Pathak \u067e\u0646\u06a9\u06be\u0691\u06cc", 
+          "screen_name": "pankhuripathak"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ambikapant", 
+      "name": "Ambika P Pant", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/915085763988955136/aZYnKYDb_400x400.jpg", 
+      "id": 294635253
+    }, 
+    "retweet_count": 0, 
+    "id": 1105555009242951681, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Pakka dusre duniya ka hai\n#\nsorry\n#\nmicrosoft\n#\nlevelofbhakti\n#\nAndhbhakt\n#\nSurf_Excel_Indiapic.twitter.com/RnMwtS5L8i", 
+    "created_at": "2019-03-12T15:00:48Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/RnMwtS5L8i", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/RnMwtS5L8i"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "saddam_barbil", 
+      "name": "Mukhtar Samar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075390702333259776/nPOHMDun_400x400.jpg", 
+      "id": 487799540
+    }, 
+    "retweet_count": 0, 
+    "id": 1105544185959014400, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u0948\u0938\u093e \u091a\u0941#\n#\n\u092f\u093e \u0928\u0947\u0924\u093e \u0939\u0948 \u0935\u0948\u0938\u093e \u0939\u0940 \u091a\u0941#\n#\n\u092f\u093e \u0907\u0938\u0915\u093e \u092d\u0915\u094d\u0924 \u092d\u0940 \u0939\u0948\u0964 Surf Excel \u0915\u0940 \u091c\u0917\u0939 Microsoft Excel delete \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964", 
+    "created_at": "2019-03-12T14:54:09Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "iANIMESHKUMAR", 
+      "name": "ANIMESH KUMAR", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1106971650535362560/8kZy9fw6_400x400.jpg", 
+      "id": 241068662
+    }, 
+    "retweet_count": 0, 
+    "id": 1105542512566038528, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "bichara Microsoft pitgya ishi liye bujurg kahte hai same mila jula nam mat rakho", 
+    "created_at": "2019-03-12T13:59:34Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2963884203", 
+          "id": 2963884203, 
+          "name": "Gyan Varsha", 
+          "screen_name": "varshasinghmcx"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Ravi_Fichadia", 
+      "name": "Ravi Fichadia \u00a9\u00a0\u270d", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1106955128781881344/UXu2ljXp_400x400.jpg", 
+      "id": 951118988674764800
+    }, 
+    "retweet_count": 0, 
+    "id": 1105528774874013699, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u091c\u094d\u092f\u093e\u0926\u093e \u0905\u0915\u094d\u0932 \u0935\u093e\u0932\u094b\u0902 \u0928\u0947 Microsoft Excel \u0915\u0940 \u0939\u0940 \u0935\u093e\u091f \u0932\u0917\u093e \u0926\u0940 \u092c\u0947\u091a\u093e\u0930\u0947 \u0915\u0940\u0964", 
+    "created_at": "2019-03-12T13:53:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "KumarNexia", 
+      "name": "Kumar mukesh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/556560390515994624/89WlVWbu_400x400.jpeg", 
+      "id": 845045012
+    }, 
+    "retweet_count": 0, 
+    "id": 1105527121059987457, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u091c\u093e\u0939\u093f\u0932 surf excel \u0914\u0930 Microsoft excel \u092e\u0947\u0902 \u092b\u093c\u0930\u094d\u0915\u093c \u0928\u093e \u0915\u0930 \u0938\u0915\u0947 \u0964 \u0935\u094b \u0926\u0947\u0936 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091a\u0942\u0928\u0947 \u0915\u0940 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947\u0902 \u0939\u0947 \u092d\u0915\u094d\u0924\u093f \u092e\u0947\u0902 \u0905\u092a\u093e\u0930 \u0936\u0915\u094d\u0924\u093f https://twitter.com/chhuti_is/status/1105046112879013889\u00a0\u2026", 
+    "created_at": "2019-03-12T13:46:02Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/JhAtIV08c2", 
+          "expanded_url": "https://twitter.com/chhuti_is/status/1105046112879013889", 
+          "display_url": "https://twitter.com/chhuti_is/status/1105046112879013889\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MalikSantosh", 
+      "name": "Chaudhary Sk Malik", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114641137959043072/Fe6g3JVK_400x400.jpg", 
+      "id": 495086660
+    }, 
+    "retweet_count": 1, 
+    "id": 1105525371733245953, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u091c\u093e\u0939\u093f\u0932 surf excel \u0914\u0930 Microsoft excel \u092e\u0947\u0902 \u092b\u093c\u0930\u094d\u0915\u093c \u0928\u093e \u0915\u0930 \u0938\u0915\u0947 \u0964 \u0935\u094b \u0926\u0947\u0936 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091a\u0942\u0928\u0947 \u0915\u0940 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947\u0902 \u0939\u0947 \u092d\u0915\u094d\u0924\u093f \u092e\u0947\u0902 \u0905\u092a\u093e\u0930 \u0936\u0915\u094d\u0924\u093f https://twitter.com/Pun_Starr/status/1104822182461562882\u00a0\u2026", 
+    "created_at": "2019-03-12T13:45:18Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/UF9nJJ3liV", 
+          "expanded_url": "https://twitter.com/Pun_Starr/status/1104822182461562882", 
+          "display_url": "https://twitter.com/Pun_Starr/status/1104822182461562882\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MalikSantosh", 
+      "name": "Chaudhary Sk Malik", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114641137959043072/Fe6g3JVK_400x400.jpg", 
+      "id": 495086660
+    }, 
+    "retweet_count": 1, 
+    "id": 1105525185711611905, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u091c\u093e\u0939\u093f\u0932 surf excel \u0914\u0930 Microsoft excel \u092e\u0947\u0902 \u092b\u093c\u0930\u094d\u0915\u093c \u0928\u093e \u0915\u0930 \u0938\u0915\u0947 \u0964 \u0935\u094b \u0926\u0947\u0936 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091a\u0942\u0928\u0947 \u0915\u0940 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947\u0902 \u0939\u0947 \u092d\u0915\u094d\u0924\u093f \u092e\u0947\u0902 \u0905\u092a\u093e\u0930 \u0936\u0915\u094d\u0924\u093f https://twitter.com/JhaSanjay/status/1105169092095418368\u00a0\u2026", 
+    "created_at": "2019-03-12T13:44:13Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/F8gupwWIf7", 
+          "expanded_url": "https://twitter.com/JhaSanjay/status/1105169092095418368", 
+          "display_url": "https://twitter.com/JhaSanjay/status/1105169092095418368\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MalikSantosh", 
+      "name": "Chaudhary Sk Malik", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114641137959043072/Fe6g3JVK_400x400.jpg", 
+      "id": 495086660
+    }, 
+    "retweet_count": 1, 
+    "id": 1105524911869693953, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u094b \u091c\u093e\u0939\u093f\u0932 surf excel \u0914\u0930 Microsoft excel \u092e\u0947\u0902 \u092b\u093c\u0930\u094d\u0915\u093c \u0928\u093e \u0915\u0930 \u0938\u0915\u0947 \u0964 \u0935\u094b \u0926\u0947\u0936 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091a\u0942\u0928\u0947 \u0915\u0940 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u0947\u0902 \u0939\u0947 \u092d\u0915\u094d\u0924\u093f \u092e\u0947\u0902 \u0905\u092a\u093e\u0930 \u0936\u0915\u094d\u0924\u093f https://twitter.com/BDUTT/status/1105486642100535296\u00a0\u2026", 
+    "created_at": "2019-03-12T13:43:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/NXfvrVOgl5", 
+          "expanded_url": "https://twitter.com/BDUTT/status/1105486642100535296", 
+          "display_url": "https://twitter.com/BDUTT/status/1105486642100535296\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MalikSantosh", 
+      "name": "Chaudhary Sk Malik", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114641137959043072/Fe6g3JVK_400x400.jpg", 
+      "id": 495086660
+    }, 
+    "retweet_count": 0, 
+    "id": 1105524835470491649, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u0902\u0927\u092d\u0915\u094d\u0924\u093f \u0928\u0947 \u0907\u0924\u0928\u0940 \u092c\u0941\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092d\u0915\u094d\u0924\u094b\u0902 \u0915\u094b \u091c\u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948 \u0915\u0940 Microsoft Excel \u0914\u0930 Surf Excel \u092e\u0947\u0902 \u0915\u094b\u0908 \u092b\u0930\u094d\u0915 \u0939\u0940 \u0928\u091c\u093c\u0930 \u0928\u0939\u0940\u0902 \u0906\u0924\u093e \u0939\u0948 l https://twitter.com/sakshijoshii/status/1105445279011143681\u00a0\u2026", 
+    "created_at": "2019-03-12T11:46:46Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/HgrVWn1G3I", 
+          "expanded_url": "https://twitter.com/sakshijoshii/status/1105445279011143681", 
+          "display_url": "https://twitter.com/sakshijoshii/status/1105445279011143681\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "AFarhan1996", 
+      "name": "Jagrook Matdata Farhan Saifi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1035593105422962689/LAD0kAby_400x400.jpg", 
+      "id": 847195181887696897
+    }, 
+    "retweet_count": 1, 
+    "id": 1105495354865315840, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "...\u0914\u0930 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u092e\u0941\u0932\u094d\u0932\u094b\u0902 \u0915\u094b \u0938\u092e\u091d \u0939\u0940 \u0928\u0939\u0940\u0902 \u0906 \u0930\u0939\u093e \u0939\u0948\u0936\u091f\u0948\u0917, Microsoft Excel \u0915\u094b uninstall \u0915\u0930 \u0930\u0939\u0947 \u0964", 
+    "created_at": "2019-03-12T11:18:56Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1017325505736069122", 
+          "id": 1017325505736069122, 
+          "name": "Chowkidar Parwati singh", 
+          "screen_name": "parwati_singh"
+        }, 
+        {
+          "id_str": "1153045459", 
+          "id": 1153045459, 
+          "name": "Congress", 
+          "screen_name": "INCIndia"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "LittleMonk12", 
+      "name": "Little Monk\u00b0", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114377811710492674/SnrYRPgu_400x400.jpg", 
+      "id": 1040058542755991553
+    }, 
+    "retweet_count": 0, 
+    "id": 1105488351660896256, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026", 
+    "created_at": "2019-03-12T11:14:29Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/282HaxZbfU", 
+          "expanded_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545", 
+          "display_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kabiridrisi", 
+      "name": "Berojgaar-Adv. L.M. Idrisi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1112339581381345280/MSHU28Yw_400x400.jpg", 
+      "id": 67857036
+    }, 
+    "retweet_count": 0, 
+    "id": 1105487230125129729, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091f\u094d\u0930\u094b\u0932\u0930\u094d\u0938 \u0938\u093f\u0930\u094d\u092b \u0915\u0949\u092a\u0940 \u092a\u0947\u0938\u094d\u091f \u0915\u0930\u0924\u0947 \u0939\u0948\u0902, \u0907\u0938\u0932\u093f\u090f \u092f\u0939 \u0928\u0939\u0940\u0902 \u0926\u0947\u0916\u0924\u0947 \u0915\u093f Surf Excel \u0939\u0948 \u092f\u093e Microsoft Excel\n#\n\u0905\u0902\u0927\u0947\u092d\u0915\u094d\u0924", 
+    "created_at": "2019-03-12T11:05:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "khanrazia3", 
+      "name": "Razia Ansari", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1084643618768412672/k1aqh604_400x400.jpg", 
+      "id": 2305113476
+    }, 
+    "retweet_count": 0, 
+    "id": 1105484905713160193, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0906\u092a\u0915\u094b \u0915\u094d\u092f\u093e \u0932\u0917\u0924\u093e \u0939\u0948 \u092e\u094b\u0926\u0940 \u0915\u0947 \u092a\u0940\u091b\u0947 \u092a\u0921\u093c\u0947 \u0932\u093f\u0916\u0947 \u0932\u094b\u0917 \u0938\u093e\u0925 \u0926\u0947 \u0930\u0939\u0947\u0964 \u0905\u0928\u092a\u0922\u093c \u0917\u0935\u093e\u0902\u0930, \u0905\u0902\u0927\u0947 \u0927\u0941\u0902\u0927 \u092d\u0915\u094d\u0924 \u0939\u0948\u0964 \u0926\u0947\u0916\u093f\u090f \u0907\u0938\u0915\u093e \u0938\u092c\u0942\u0924 Surf Excel \u0938\u0947 \u0925\u093e \u0917\u0941\u0938\u094d\u0938\u093e, \u0932\u0947\u0915\u093f\u0928 \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 Microsoft Excel \u0915\u094b \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 \u0926\u0940 \u092f\u0939 \u092a\u0939\u0932\u093e... https://www.facebook.com/503145399777158/posts/2119671761457839/\u00a0\u2026", 
+    "created_at": "2019-03-12T10:56:21Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/DC6kLcGdS2", 
+          "expanded_url": "https://www.facebook.com/503145399777158/posts/2119671761457839/", 
+          "display_url": "https://www.facebook.com/503145399777158/posts/2119671761457839/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "techgill", 
+      "name": "Techgill", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1004589312644530176/DDXV35Ap_400x400.jpg", 
+      "id": 226234060
+    }, 
+    "retweet_count": 0, 
+    "id": 1105482669201244160, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026", 
+    "created_at": "2019-03-12T09:52:48Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/LCWYxFNVzC", 
+          "expanded_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545", 
+          "display_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "buntyjorwal", 
+      "name": "buntyjorwal", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/566289910554841090/6cw6rpNe_400x400.jpeg", 
+      "id": 142635368
+    }, 
+    "retweet_count": 0, 
+    "id": 1105466672700370944, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026", 
+    "created_at": "2019-03-12T09:41:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/TvW2pmm3u3", 
+          "expanded_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545", 
+          "display_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Piyushkapoor789", 
+      "name": "Piyush kapoor", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/514971615524696065/no3MgXMW_400x400.jpeg", 
+      "id": 212068685
+    }, 
+    "retweet_count": 0, 
+    "id": 1105463765078822913, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Hain??? Sachchi???", 
+    "created_at": "2019-03-12T09:41:09Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "40023042", 
+          "id": 40023042, 
+          "name": "Anisha Dutta", 
+          "screen_name": "A2D2_"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Delhiite_", 
+      "name": "BesabRiyaa'n", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1093399079927889921/8111_l2h_400x400.jpg", 
+      "id": 61533959
+    }, 
+    "retweet_count": 0, 
+    "id": 1105463743117430786, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938", 
+    "created_at": "2019-03-12T09:36:12Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "RajendraAT", 
+      "name": "Rajendra Singh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1093028267290955781/y8xy640B_400x400.jpg", 
+      "id": 165766380
+    }, 
+    "retweet_count": 0, 
+    "id": 1105462498470309888, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u091c\u093f\u0928 \u0932\u094b\u0917\u094b \u0915\u094b surf excel \u0914\u0930 microsoft excel \u092e\u0947\u0902 \u0905\u0902\u0924\u0930 \u0928\u0939\u0940 \u092a\u0924\u093e \u0935\u0939\u0940 \u0932\u094b\u0917 \u092e\u094b\u0926\u0940 \u0915\u0947 \u0938\u092e\u0930\u094d\u0925\u0915 \u0939\u0948 \u0964\u0964", 
+    "created_at": "2019-03-12T09:35:05Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "atulsocialist", 
+      "name": "Atul Mishra \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1046465908745654272/7WtH0EzB_400x400.jpg", 
+      "id": 95594038
+    }, 
+    "retweet_count": 0, 
+    "id": 1105462217124782080, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u0930\u0947 \u092d\u093e\u0908 Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927 \u092e\u0924 \u0915\u0930\u094b....\u0909\u0938\u0938\u0947 \u0915\u092a\u0921\u093c\u0947 \u0928\u0939\u0940\u0902 \u0927\u094b\u092f\u0947 \u091c\u093e\u0924\u0947...!\n#\nbycotsurfexcel", 
+    "created_at": "2019-03-12T09:29:52Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "imvkindian", 
+      "name": "vishal kumar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1095367756185198593/sPjRmdgf_400x400.jpg", 
+      "id": 4497493348
+    }, 
+    "retweet_count": 0, 
+    "id": 1105460904374624257, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092f\u0939 \u092d\u093e\u0930\u0924 \u0915\u093e \u092d\u0935\u093f\u0937\u094d\u092f \u0939\u0948\u0964 Surf excel \u0915\u094b Microsoft Excel Snapchat \u0915\u094b Snapdeal \u0938\u092e\u091d\u0928\u0947 \u0935\u093e\u0932\u0947 \u0932\u094b\u0917\u0964 \u0910\u0938\u0947 \u092e\u0941\u0930\u094d\u0916\u094b \u0938\u0947 \u0915\u094d\u092f\u093e \u0905\u092a\u0947\u0915\u094d\u0937\u093e \u0915\u0930\u0947\u0902\u0917\u0940 \u0906\u0928\u0947 \u0935\u093e\u0932\u0940 \u092a\u0940\u0922\u093c\u093f\u092f\u093e\u0902\u0964", 
+    "created_at": "2019-03-12T08:56:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "105733665", 
+          "id": 105733665, 
+          "name": "Sakshi Joshi", 
+          "screen_name": "sakshijoshii"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "TRChoudhary1", 
+      "name": "Thakur Choudhary\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/961533002013724672/fVfEJOBr_400x400.jpg", 
+      "id": 930250332
+    }, 
+    "retweet_count": 1, 
+    "id": 1105452450641657856, 
+    "favorite_count": 4
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u0902\u0927\u092d\u0915\u094d\u0924\u094b\u0902 \u0915\u0940 \u091a\u093f\u0922\u093c \u0905\u092c Excel \u0928\u093e\u092e\u0940 \u0936\u092c\u094d\u0926 \u0938\u0947 \u0939\u094b \u091a\u0941\u0915\u0940 \u0939\u0948 \u091a\u093e\u0939\u0947 \u0935\u0940 surf Excel \u0939\u094b \u092f\u093e Microsoft Excel \u0926\u0947\u0916\u0928\u093e \u0905\u092c \u092d\u0915\u094d\u0924 \u0905\u092a\u0928\u0940 \u0905\u092a\u0928\u0940 \u0917\u093e\u0921\u093c\u093f\u092f\u094b\u0902 \u0915\u0947 Front And Back Excel \u092d\u0940 \u0916\u094b\u0932 \u0915\u0930 \u092c\u0939\u093f\u0937\u094d\u0915\u093e\u0930 \u0938\u094d\u0935\u0930\u0942\u092a \u0930\u0916 \u0926\u0947\u0902\u0917\u0947", 
+    "created_at": "2019-03-12T08:51:51Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "730974469", 
+          "id": 730974469, 
+          "name": "Gajendra Sharma", 
+          "screen_name": "Airavta"
+        }, 
+        {
+          "id_str": "2895357769", 
+          "id": 2895357769, 
+          "name": "Pankhuri Pathak \u067e\u0646\u06a9\u06be\u0691\u06cc", 
+          "screen_name": "pankhuripathak"
+        }, 
+        {
+          "id_str": "53313935", 
+          "id": 53313935, 
+          "name": "Tehseen Poonawalla", 
+          "screen_name": "tehseenp"
+        }, 
+        {
+          "id_str": "16967612", 
+          "id": 16967612, 
+          "name": "Dilip K. Pandey", 
+          "screen_name": "dilipkpandey"
+        }, 
+        {
+          "id_str": "1016786527", 
+          "id": 1016786527, 
+          "name": "Deshbhakt Aarti", 
+          "screen_name": "aartic02"
+        }, 
+        {
+          "id_str": "24338525", 
+          "id": 24338525, 
+          "name": "The DeshBhakt", 
+          "screen_name": "akashbanerjee"
+        }, 
+        {
+          "id_str": "105733665", 
+          "id": 105733665, 
+          "name": "Sakshi Joshi", 
+          "screen_name": "sakshijoshii"
+        }, 
+        {
+          "id_str": "50943008", 
+          "id": 50943008, 
+          "name": "Sanjay Jha", 
+          "screen_name": "JhaSanjay"
+        }, 
+        {
+          "id_str": "359317196", 
+          "id": 359317196, 
+          "name": "Manoj K Jha", 
+          "screen_name": "manojkjhadu"
+        }, 
+        {
+          "id_str": "72034591", 
+          "id": 72034591, 
+          "name": "Deshbhakt Ankit Lal", 
+          "screen_name": "AnkitLal"
+        }, 
+        {
+          "id_str": "267861878", 
+          "id": 267861878, 
+          "name": "Rohini Singh", 
+          "screen_name": "rohini_sgh"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "safdarIND", 
+      "name": "Safdar Baig", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1067136125511307266/_qsTIF4w_400x400.jpg", 
+      "id": 2776742371
+    }, 
+    "retweet_count": 0, 
+    "id": 1105451335065972741, 
+    "favorite_count": 4
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092c\u0938 \u0907\u0928\u094d\u0939\u0940 \u0938\u0941\u0924\u093f\u092f\u094b \u0915\u0940 \u0928\u091c\u0930 \u092e\u0947\u0902 \u0939\u093f\u0928\u094d\u0926\u0942 \u0916\u0924\u0930\u0947 \u092e\u0947\u0902 \u0939\u0948 \u0964 \u091c\u093f\u0928\u094d\u0939\u0947\u0902 microsoft excel \u0913\u0930 surf excel \u092e\u0947\u0902 \u092b\u0930\u094d\u0915 \u0928\u0939\u0940 \u092a\u0924\u093e \u0964", 
+    "created_at": "2019-03-12T08:51:20Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "imvj_chouhan", 
+      "name": "@Vijay chouhan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/972861735034998784/-0NFZtTG_400x400.jpg", 
+      "id": 429524314
+    }, 
+    "retweet_count": 0, 
+    "id": 1105451207143944192, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 \u0914\u0930 \u0905\u0928\u0907\u0902\u0938\u094d\u091f\u093e\u0932 \u0915\u093f\u090f", 
+    "created_at": "2019-03-12T08:41:54Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "salahuddin_786", 
+      "name": "salahuddin khan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/507471285396312064/wudmahZH_400x400.jpeg", 
+      "id": 226133499
+    }, 
+    "retweet_count": 0, 
+    "id": 1105448831548829697, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Surf Excel \u0915\u093e \u0917\u0941\u0938\u094d\u0938\u093e \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 Microsoft Excel \u092a\u0930 \u0928\u093f\u0915\u093e\u0932\u093e, \u0917\u0942\u0917\u0932 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 \u0926\u0940 \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0930\u0947\u091f\u093f\u0902\u0917\u094d\u0938 https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026", 
+    "created_at": "2019-03-12T08:41:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ZGkpzswovZ", 
+          "expanded_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545", 
+          "display_url": "https://abpnews.abplive.in/gadgets/angry-with-surf-excel-indian-patriots-target-microsoft-excel-and-give-1-star-ratings-on-google-play-1087545\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "shuklaji1990", 
+      "name": "shuklaji pradeep", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/548189731133988866/mpzRZ9ta_400x400.jpeg", 
+      "id": 2801608675
+    }, 
+    "retweet_count": 0, 
+    "id": 1105448700632018944, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft Excel be like - \u0905\u092c\u0947 \u092e\u0948\u0902\u0928\u0947 \u0915\u094d\u092f\u093e \u0915\u0930 \u0926\u093f\u092f\u093e, \u092e\u0947\u0930\u0940 \u0915\u094d\u092f\u094b\u0902 \u092e\u093e\u0930 \u0930\u0939\u0947 \u0939\u094b?", 
+    "created_at": "2019-03-12T07:21:51Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "thakur_sahaab", 
+      "name": "\ud83c\uddee\ud83c\uddf3\u091a\u094b\u0915\u0940\u0926\u093e\u0930 Simran \u00a0\ud83c\uddee\ud83c\uddf3Kaur\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/611111162168512512/KemrK6Cj_400x400.jpg", 
+      "id": 3247658970
+    }, 
+    "retweet_count": 0, 
+    "id": 1105428686994620417, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u093e\u0908 \u0915\u094b\u0908 \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u090f\u0902\u0917\u0947 \u092f\u0947 \u0915\u094d\u092f\u093e \u0939\u094b \u0930\u0939\u093e \u0939\u0948\u0964 \u0935\u093f\u0930\u094b\u0927 surf \u0915\u093e \u0939\u0948 \u092f\u093e Microsoft \u0915\u093e \u0964 \u0905\u0902\u0927\u092d\u0915\u094d\u0924 \u0915\u094b \u092f\u0947 \u092a\u094d\u0930\u094b\u092a\u094b\u0917\u0947\u0902\u0921\u093e \u092b\u0948\u0932\u093e\u0928\u0947 \u0915\u0947 \u092c\u091c\u093e\u0908 \u092c\u0940\u091c\u0947\u092a\u0940 \u0928\u0947 \u0936\u093f\u0915\u094d\u0937\u093e \u0915\u0940 \u0924\u093e\u0932\u0940\u092e \u0926\u0940 \u0939\u094b\u0924\u0940 \u0924\u094b \u092d\u0940 \u092d\u093e\u0930\u0924 \u0915\u093e \u0938\u093e\u0915\u094d\u0937\u0930 \u0926\u0930 \u0915\u0908 \u0917\u0941\u0928\u093e \u090a\u092a\u0930 \u0906 \u091c\u093e\u0924\u093e \u0964 \u0905\u092c \u0938\u092e\u092f \u0906 \u0917\u092f\u093e \u0939\u0948 \u0905\u0928\u092a\u0922\u093c \u092d\u0915\u094d\u0924 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u094b \u0938\u0941\u0927\u093e\u0930\u0928\u0947 \u0915\u093e, \u0936\u093f\u0915\u094d\u0937\u093e \u0926\u0947\u0928\u0947 \u0915\u093e\u0964\n@\nacjoshipic.twitter.com/CFb3Rwtoy1", 
+    "created_at": "2019-03-12T07:21:10Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "46670617", 
+          "id": 46670617, 
+          "name": "Ashish Joshi", 
+          "screen_name": "acjoshi"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/CFb3Rwtoy1", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/CFb3Rwtoy1"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "KantNirmit", 
+      "name": "Nirmit_kant", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1100384653091979264/tPa7XjAO_400x400.jpg", 
+      "id": 932266906962206721
+    }, 
+    "retweet_count": 0, 
+    "id": 1105428515502125056, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u094d\u0928\u0948\u092a\u091a\u0948\u091f \u0915\u0947 \u0932\u093f\u090f \u0938\u094d\u0928\u0948\u092a\u0921\u0940\u0932 \u0915\u093e \u0935\u093f\u0930\u094b\u0927, \u0905\u092c Surf Excel \u0915\u0947 \u0932\u093f\u090f Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927..", 
+    "created_at": "2019-03-12T06:51:58Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "theAwaaz123", 
+      "name": "The Awaaz", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/962206088899768320/P4hvgno2_400x400.jpg", 
+      "id": 949138089095540736
+    }, 
+    "retweet_count": 1, 
+    "id": 1105421164879405056, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\nSurfExcel \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902\n#\nMicrosoft Excel \u0915\u0940 \u0935\u093e\u091f \u0932\u0917 \u0917\u092f\u0940 pic.twitter.com/V7FJ2TdSkH", 
+    "created_at": "2019-03-12T06:47:56Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/V7FJ2TdSkH", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/V7FJ2TdSkH"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "yashrazz", 
+      "name": "Yash Raj", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/477289384878669824/E7O2Zlhk_400x400.jpeg", 
+      "id": 23278955
+    }, 
+    "retweet_count": 0, 
+    "id": 1105420149836914688, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0938\u094d\u0928\u0948\u092a\u091a\u0948\u091f \u0915\u0947 \u0932\u093f\u090f \u0938\u094d\u0928\u0948\u092a\u0921\u0940\u0932 \u0915\u093e \u0935\u093f\u0930\u094b\u0927, \u0905\u092c Surf Excel \u0915\u0947 \u0932\u093f\u090f Microsoft Excel \u0915\u093e \u0935\u093f\u0930\u094b\u0927.. https://aajtak.intoday.in/story/some-people-boy-cotting-ms-excel-after-surf-excel-holi-ad-campaign-ttec-1-1067647.html\u00a0\u2026", 
+    "created_at": "2019-03-12T05:07:41Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/XN77DZEpJX", 
+          "expanded_url": "https://aajtak.intoday.in/story/some-people-boy-cotting-ms-excel-after-surf-excel-holi-ad-campaign-ttec-1-1067647.html", 
+          "display_url": "https://aajtak.intoday.in/story/some-people-boy-cotting-ms-excel-after-surf-excel-holi-ad-campaign-ttec-1-1067647.html\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "aajtak", 
+      "name": "\u0906\u091c \u0924\u0915", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/877490086278971393/B_zS1PGw_400x400.jpg", 
+      "id": 42606652
+    }, 
+    "retweet_count": 47, 
+    "id": 1105394923870793730, 
+    "favorite_count": 260
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0907\u0928\u094d\u0939\u0947 \u0939\u0940 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u0905\u0928\u092a\u0922\u093c \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092a\u094d\u0932\u0947 \u0938\u094d\u091f\u094b\u0930 \u092a\u0930 microsoft \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u094b \u0928\u0947\u0917\u0947\u091f\u093f\u0935 \u0915\u0949\u092e\u0947\u0902\u091f \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948", 
+    "created_at": "2019-03-12T03:29:18Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "128212909", 
+          "id": 128212909, 
+          "name": "Satya Choudhary( Team Rahul Kaswan)", 
+          "screen_name": "satyagodara"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "parulchaudhary2", 
+      "name": "PaRuL Chaudhary", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116756190266920961/ac5YrD0R_400x400.jpg", 
+      "id": 213992876
+    }, 
+    "retweet_count": 0, 
+    "id": 1105370165594726401, 
+    "favorite_count": 2
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0932\u0917\u0924\u093e \u0939\u0948 \u0932\u094b\u0917 \u0917\u093e\u0921\u093c\u0940 \u092e\u0947\u0902 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u090f\u0915\u094d\u0938\u0932 \u0915\u093e \u092d\u0940 \u0935\u093f\u0930\u094b\u0927 \u0915\u0930 \u0926\u0947\u0902. \u091f\u0940\u0936\u0930\u094d\u091f \u092e\u0947\u0902 \u092d\u0940 XL \u0915\u093e \u092c\u0939\u093f\u0937\u094d\u0915\u093e\u0930 \u0915\u0930 \u0926\u0947\u0902. \u0907\u0924\u0928\u093e \u0938\u092c \u0939\u094b \u091c\u093e\u090f \u0924\u094b \u0906\u0928\u0902\u0926 \u0906 \u091c\u093e\u090f \u0915\u0938\u092e \u0938\u0947 what about Microsoft Excel ?\n#\nSurfExcel\n#\nHindustanUnilever\n#\nSurf_Excel", 
+    "created_at": "2019-03-12T02:57:52Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Khanmaskooralam", 
+      "name": "Khan", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1114798019675742214/6FX0s8T8_400x400.jpg", 
+      "id": 730373483973255168
+    }, 
+    "retweet_count": 0, 
+    "id": 1105362254541647874, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u0915\u094d\u0924\u094b \u0915\u0940 \u092e\u093e\u0938\u0942\u092e\u093f\u092f\u0924 \u0914\u0930 \u0939\u0942\u0924\u0940\u092f\u093e\u092a\u093e \u092e\u0947\u0902 \u091c\u094d\u092f\u093e\u0926\u093e \u092b\u0930\u094d\u0915 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e Surf Excel \u0915\u0940 \u092c\u091c\u093e\u092f Microsoft Excel \u0930\u093f\u092e\u0942\u0935 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902! pic.twitter.com/5vVefi6QWb", 
+    "created_at": "2019-03-11T22:00:13Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/5vVefi6QWb", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/5vVefi6QWb"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MuslimAwaz", 
+      "name": "Muslim Aawaz", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1049913642970431488/86NxckZ4_400x400.jpg", 
+      "id": 1041023986593882112
+    }, 
+    "retweet_count": 10, 
+    "id": 1105287345400557568, 
+    "favorite_count": 32
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\"\u0924\u0947\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0926\u093f\u0932 \u0932\u0917\u0924\u093e \u0928\u0939\u0940\u0902, \u0935\u093e\u092a\u0938 \u092c\u0941\u0932\u093e \u0932\u0947...\" \u092e\u0941\u0915\u0947\u0936 \u0915\u093e \u092f\u0947 \u0917\u0940\u0924 \u0906\u091c \u092b\u093f\u0930 \u0938\u0947 \u092f\u093e\u0926 \u0906 \u091c\u093e\u0924\u093e \u0939\u0948, \u091c\u092c \u0926\u0947\u0916\u0924\u093e \u0939\u0942\u0901 \u0915\u093f 'Surf Excel' \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e\u0928\u0947 \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947\u0902 \u092f\u0947 \u0938\u0941\u0924\u093f\u090f \u091c\u093e \u0915\u0930 \"Microsoft Excel\" \u0915\u0940 \u0930\u0947\u091f\u093f\u0902\u0917 \u0917\u093f\u0930\u093e \u0906\u0924\u0947 \u0939\u0948..!!", 
+    "created_at": "2019-03-11T14:05:35Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "dharmendra61", 
+      "name": "D.K.Google", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1065624656764432384/rX8iyzdD_400x400.jpg", 
+      "id": 81634543
+    }, 
+    "retweet_count": 0, 
+    "id": 1105167903538769921, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u0915\u094d\u0924\u094b \u0915\u0947 \u091c\u094d\u091e\u093e\u0928 \u0915\u093e \u0905\u0926\u094d\u092d\u0941\u0924 \u0909\u0926\u093e\u0939\u0930\u0923\n#\nSurf_Excel_India \u091c\u0917\u0939 Microsoft Excel \u0915\u093e review \u0915\u0930 \u0930\u0939\u0947\u0964 \u091c\u092f \u0939\u094b\u0964\n@\nRoflGandhi_\n@\nSaralPatel\n@\npankhuripathak\n@\nrohini_sgh\n@\nRajeevRai\n#\nByeByeModi\n@\nINCTharoorian\n@\nalamgirizvi\n@\nRuchiraC\n@\nashoswai\n@\nAjayLalluINCpic.twitter.com/fU0F7M9F1n", 
+    "created_at": "2019-03-11T11:47:02Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "115887279", 
+          "id": 115887279, 
+          "name": "Rofl Gandhi", 
+          "screen_name": "RoflGandhi_"
+        }, 
+        {
+          "id_str": "1254474637", 
+          "id": 1254474637, 
+          "name": "Saral Patel", 
+          "screen_name": "SaralPatel"
+        }, 
+        {
+          "id_str": "2895357769", 
+          "id": 2895357769, 
+          "name": "\u0905\u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u092c\u0947\u091f\u0940 - \u092a\u0902\u0916\u0941\u0921\u093c\u0940 \u092a\u093e\u0920\u0915", 
+          "screen_name": "pankhuripathak"
+        }, 
+        {
+          "id_str": "267861878", 
+          "id": 267861878, 
+          "name": "Rohini Singh", 
+          "screen_name": "rohini_sgh"
+        }, 
+        {
+          "id_str": "136166720", 
+          "id": 136166720, 
+          "name": "Rajeev Rai", 
+          "screen_name": "RajeevRai"
+        }, 
+        {
+          "id_str": "49264202", 
+          "id": 49264202, 
+          "name": "INCian", 
+          "screen_name": "INCTharoorian"
+        }, 
+        {
+          "id_str": "191376204", 
+          "id": 191376204, 
+          "name": "Alamgir Rizvi(\u200f\u200e\u0639\u0627\u0644\u0645\u06af\u06cc\u0631 \u0631\u0636\u0648\u06cc)", 
+          "screen_name": "alamgirizvi"
+        }, 
+        {
+          "id_str": "328446807", 
+          "id": 328446807, 
+          "name": "Ruchira Chaturvedi | #NYAYforIndia", 
+          "screen_name": "RuchiraC"
+        }, 
+        {
+          "id_str": "70355674", 
+          "id": 70355674, 
+          "name": "Ashok Swain", 
+          "screen_name": "ashoswai"
+        }, 
+        {
+          "id_str": "2860160384", 
+          "id": 2860160384, 
+          "name": "Ajay Kumar Lallu", 
+          "screen_name": "AjayLalluINC"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/fU0F7M9F1n", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/fU0F7M9F1n"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "shivamrai", 
+      "name": "Shivam Rai \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075431930273910791/mDdXrNFN_400x400.jpg", 
+      "id": 62256263
+    }, 
+    "retweet_count": 1, 
+    "id": 1105133034678992896, 
+    "favorite_count": 6
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "#\nbycottSurfExcel \u0915\u093e \u0939\u0940 \u0915\u0930\u0928\u093e \u0939\u0948 \u092f\u093e\n#\nMicrosoft \u0935\u093e\u0932\u0947 \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u093e \u092d\u0940 \u0915\u0930\u0928\u093e \u0939\u0948\n#\n\u091c\u0938\u094d\u091f_\u092a\u0942\u091b\u093f\u0902\u0917pic.twitter.com/I9USuydkj2", 
+    "created_at": "2019-03-11T09:02:06Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/I9USuydkj2", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/I9USuydkj2"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Neerajshukla97", 
+      "name": "\u0928\u0940\u0930\u091c \u0936\u0941\u0915\u094d\u0932\u093e\u00a0\ud83d\udea9\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1098571358328344577/702Ul1bX_400x400.jpg", 
+      "id": 403545647
+    }, 
+    "retweet_count": 0, 
+    "id": 1105091528899276800, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Solve, Bheema Bhishma\n@\narrahman\n@\nsachin_rt\n@\nNASA\n@\nUN\n@\nTomCruise\n@\nLeoDiCaprio\n@\ntomhanks\n@\nMicrosoft\n@\nAppleMusic\n@\nBenAffleck\n@\nStanford\n@\nikamalhaasan\n@\nnramind\n@\nUNESCO\n@\nTamilTheHindu\n@\nnytimes\n@\nguardian\n@\nIBMResearch\n@\nbgreene\n@\nTheCrick\n@\nCERN\n@\nNASAHubble\n@\nTwitter\n@\nIBMpic.twitter.com/JIpsY9VGXC", 
+    "created_at": "2019-03-11T07:56:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "19895282", 
+          "id": 19895282, 
+          "name": "A.R.Rahman", 
+          "screen_name": "arrahman"
+        }, 
+        {
+          "id_str": "135421739", 
+          "id": 135421739, 
+          "name": "Sachin Tendulkar", 
+          "screen_name": "sachin_rt"
+        }, 
+        {
+          "id_str": "11348282", 
+          "id": 11348282, 
+          "name": "NASA", 
+          "screen_name": "NASA"
+        }, 
+        {
+          "id_str": "14159148", 
+          "id": 14159148, 
+          "name": "United Nations", 
+          "screen_name": "UN"
+        }, 
+        {
+          "id_str": "48410093", 
+          "id": 48410093, 
+          "name": "Tom Cruise", 
+          "screen_name": "TomCruise"
+        }, 
+        {
+          "id_str": "133880286", 
+          "id": 133880286, 
+          "name": "Leonardo DiCaprio", 
+          "screen_name": "LeoDiCaprio"
+        }, 
+        {
+          "id_str": "50374439", 
+          "id": 50374439, 
+          "name": "Tom Hanks", 
+          "screen_name": "tomhanks"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }, 
+        {
+          "id_str": "74580436", 
+          "id": 74580436, 
+          "name": "Apple Music", 
+          "screen_name": "AppleMusic"
+        }, 
+        {
+          "id_str": "329746058", 
+          "id": 329746058, 
+          "name": "Ben Affleck", 
+          "screen_name": "BenAffleck"
+        }, 
+        {
+          "id_str": "18036441", 
+          "id": 18036441, 
+          "name": "Stanford University", 
+          "screen_name": "Stanford"
+        }, 
+        {
+          "id_str": "4628602041", 
+          "id": 4628602041, 
+          "name": "Kamal Haasan", 
+          "screen_name": "ikamalhaasan"
+        }, 
+        {
+          "id_str": "41898533", 
+          "id": 41898533, 
+          "name": "N. Ram", 
+          "screen_name": "nramind"
+        }, 
+        {
+          "id_str": "20646711", 
+          "id": 20646711, 
+          "name": "UNESCO", 
+          "screen_name": "UNESCO"
+        }, 
+        {
+          "id_str": "1704625526", 
+          "id": 1704625526, 
+          "name": "Tamil The Hindu", 
+          "screen_name": "TamilTheHindu"
+        }, 
+        {
+          "id_str": "807095", 
+          "id": 807095, 
+          "name": "The New York Times", 
+          "screen_name": "nytimes"
+        }, 
+        {
+          "id_str": "87818409", 
+          "id": 87818409, 
+          "name": "The Guardian", 
+          "screen_name": "guardian"
+        }, 
+        {
+          "id_str": "16319797", 
+          "id": 16319797, 
+          "name": "IBM Research", 
+          "screen_name": "IBMResearch"
+        }, 
+        {
+          "id_str": "594666501", 
+          "id": 594666501, 
+          "name": "Brian Greene", 
+          "screen_name": "bgreene"
+        }, 
+        {
+          "id_str": "74724779", 
+          "id": 74724779, 
+          "name": "The Crick", 
+          "screen_name": "TheCrick"
+        }, 
+        {
+          "id_str": "15234407", 
+          "id": 15234407, 
+          "name": "CERN", 
+          "screen_name": "CERN"
+        }, 
+        {
+          "id_str": "14091091", 
+          "id": 14091091, 
+          "name": "Hubble", 
+          "screen_name": "NASAHubble"
+        }, 
+        {
+          "id_str": "783214", 
+          "id": 783214, 
+          "name": "Twitter", 
+          "screen_name": "Twitter"
+        }, 
+        {
+          "id_str": "18994444", 
+          "id": 18994444, 
+          "name": "IBM", 
+          "screen_name": "IBM"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/JIpsY9VGXC", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/JIpsY9VGXC"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "yottamultiply", 
+      "name": "Shiva #Treenstsquirrel", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1090149141265604608/QncEoZmO_400x400.jpg", 
+      "id": 985846349458423808
+    }, 
+    "retweet_count": 0, 
+    "id": 1105075011344195584, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285607036, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u0947 \u0932\u093f\u090f surf excell \u0924\u094b \u0915\u094d\u092f\u093e \u092e\u0948\u0902 microsoft excel \u0915\u093e \u092d\u0940 \u092c\u0939\u093f\u0937\u094d\u0915\u093e\u0930 \u0915\u0930 \u0926\u0942\u0902\u0917\u093e", 
+    "created_at": "2019-03-11T01:05:24Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "291811157", 
+          "id": 291811157, 
+          "name": "S\u029c\u1d07\u1d0b\u029c\u1d00\u0280 C\u029c\u1d00\u029c\u1d00\u029f (#NamoAgain)\u2122", 
+          "screen_name": "shekharchahal"
+        }, 
+        {
+          "id_str": "779809399", 
+          "id": 779809399, 
+          "name": "\u091a\u094c\u0915\u0940\u0926\u093e\u0930 Chetan Barot", 
+          "screen_name": "barotchetan99"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ksnpsingh", 
+      "name": "chowkidarSrinarayan singh", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116336565830205440/y_4mt0pQ_400x400.jpg", 
+      "id": 863388408
+    }, 
+    "retweet_count": 0, 
+    "id": 1104971561776209920, 
+    "favorite_count": 0
+  }
+]

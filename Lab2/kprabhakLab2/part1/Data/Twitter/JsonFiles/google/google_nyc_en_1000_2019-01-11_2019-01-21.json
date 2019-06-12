@@ -1,0 +1,41 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555279673032, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "I also get Omaha. I wonder if that\u2019s what google maps gives for \u2018usa\u2019 if you don\u2019t give any other address info. Most places seem to use a geo lookup of ip addresses (I\u2019m near Baltimore, MD)", 
+    "created_at": "2019-01-18T09:16:29Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "63779496", 
+          "id": 63779496, 
+          "name": "Donia (Lasagna)", 
+          "screen_name": "doniamae"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "bcbroom", 
+      "name": "Brian Broom", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1029519069953896449/qctPFYew_400x400.jpg", 
+      "id": 1632781
+    }, 
+    "retweet_count": 0, 
+    "id": 1086266079457013760, 
+    "favorite_count": 1
+  }
+]

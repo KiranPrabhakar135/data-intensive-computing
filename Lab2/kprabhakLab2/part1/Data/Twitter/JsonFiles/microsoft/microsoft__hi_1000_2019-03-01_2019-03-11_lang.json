@@ -1,0 +1,1433 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092a\u093f\u091b\u0932\u0940 \u092c\u093e\u0930 \u0938\u094d\u0928\u0948\u092a\u091a\u0948\u091f \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947 \u0938\u092c\u0928\u0947 \u0938\u094d\u0928\u0948\u092a\u0921\u0940\u0932 \u0915\u0940 \u092e\u093e\u0930 \u0932\u0940\u0964 \u0905\u092c\u0915\u0940 \u0938\u093f\u0930\u094d\u092b \u090f\u0915\u094d\u0938\u0947\u0932 \u0915\u0947 \u091a\u0915\u094d\u0915\u0930 \u092e\u0947 \u090f\u092e \u090f\u0938 \u090f\u0915\u094d\u0938\u0947\u0932 \u0928 \u091a\u0932\u093e \u091c\u093e\u092f\u0947\u0964\n@\nDaagAchheHain\n@\nMicrosoft\n@\nmsexcel", 
+    "created_at": "2019-03-10T15:14:08Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "730116914", 
+          "id": 730116914, 
+          "name": "Surf Excel India", 
+          "screen_name": "DaagAchheHain"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }, 
+        {
+          "id_str": "15934026", 
+          "id": 15934026, 
+          "name": "Microsoft Excel", 
+          "screen_name": "msexcel"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "localbrucewayne", 
+      "name": "Basu", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1032615074458812416/X7ZEE7vs_400x400.jpg", 
+      "id": 508729065
+    }, 
+    "retweet_count": 0, 
+    "id": 1104822765859663872, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "80 \u0915\u0930\u094b\u0921\u093c \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0921\u093f\u0935\u093e\u0907\u0938 \u092a\u0930 \u091a\u0932 \u0930\u0939\u0940 \u2018\u0935\u093f\u0902\u0921\u094b 10\u2019: \u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u094d\u091f https://buff.ly/2TCeFp0\n@\nMicrosoftIndia\n@\nMicrosoft\n@\nWindowsInd\n#\nWindows10pic.twitter.com/DME0cF2PeH", 
+    "created_at": "2019-03-10T06:30:07Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "37942193", 
+          "id": 37942193, 
+          "name": "Microsoft India", 
+          "screen_name": "MicrosoftIndia"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }, 
+        {
+          "id_str": "386609580", 
+          "id": 386609580, 
+          "name": "Windows India", 
+          "screen_name": "WindowsInd"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/2Eso72bUW8", 
+          "expanded_url": "https://buff.ly/2TCeFp0", 
+          "display_url": "https://buff.ly/2TCeFp0"
+        }, 
+        {
+          "url": "https://t.co/DME0cF2PeH", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/DME0cF2PeH"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "bgrhindi", 
+      "name": "BGR Hindi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/899489640507420672/NpZywB12_400x400.jpg", 
+      "id": 292846303
+    }, 
+    "retweet_count": 0, 
+    "id": 1104690893028802562, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Agar Gaali Dene Ke Paise Milte To Aaj Microsoft Meri Hoti Hai\n#\nMEMES\n#\nmemesdaily\n#\nBillions", 
+    "created_at": "2019-03-10T01:49:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "heyitsachyut", 
+      "name": "Achyut \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1112326931674873857/hUwERo3S_400x400.jpg", 
+      "id": 1087013347684343808
+    }, 
+    "retweet_count": 0, 
+    "id": 1104635313182240768, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Poori duniya me india ne enhe badnaam kar diya...aap bhi kar lete..aukaad thi to...aukaad banani padti hai dost..per aapko jihadi aur fidayeen banane se fursat to ho..bas jihadi banwao....hum microsoft aur google k ceo bana rahe....tabhi duniya me humari sunni jaati...", 
+    "created_at": "2019-03-09T04:14:05Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1016695218018639872", 
+          "id": 1016695218018639872, 
+          "name": "'\u0915\u092a\u094d\u0924\u093e\u0928' Jack Sparrow \ud83c\uddee\ud83c\uddf3", 
+          "screen_name": "trollCaptainJS"
+        }, 
+        {
+          "id_str": "1289847366", 
+          "id": 1289847366, 
+          "name": "Dennis Does Pakistan", 
+          "screen_name": "DennisCricket_"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Saurabh_Jha_01", 
+      "name": "Saurabh Jha", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1104643901208621056/mBHEjjGE_400x400.jpg", 
+      "id": 835565370723328000
+    }, 
+    "retweet_count": 0, 
+    "id": 1104309369154371586, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092e\u0948\u0902 \u0938\u093e\u092b\u094d\u091f\u0935\u0947\u092f\u0930 \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930 \u092c\u0928\u0928\u093e \u091a\u093e\u0939\u0924\u093e \u0939\u0942\u0902 , 12 \u0915\u0947 \u092c\u093e\u0926 \u092e\u0941\u091d\u0947 \u0915\u094c\u0928-\u0938\u0947 \u0915\u094b\u0930\u094d\u0938 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f?", 
+    "created_at": "2019-03-09T00:17:33Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "SanjayC76912647", 
+      "name": "Sanjay Chaudhary", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1091656576870637569/ThWyYeVO_400x400.jpg", 
+      "id": 1074910761359761408
+    }, 
+    "retweet_count": 0, 
+    "id": 1104249843315138561, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "USA \u0915\u0947 35% \u0921\u0949\u0915\u094d\u091f\u0930 \u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0948 NASA \u0915\u0947 36% \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915 \u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0948 Microsoft \u0915\u0947 34% \u0915\u0930\u094d\u092e\u091a\u093e\u0930\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0948 IBM \u0915\u0947 28% \u0915\u0930\u094d\u092e\u091a\u093e\u0930\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u092b\u093f\u0930 \u092d\u0940 \u0939\u092e\u093e\u0930\u093e \u0926\u0947\u0936 \u092a\u093f\u091b\u0921\u093c\u093e \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0938\u094d\u0935\u093e\u0930\u094d\u0925\u0940 \u0928\u0947\u0924\u093e \u0928\u0947 \u0935\u094b\u091f \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0924\u093f\u092d\u093e \u0915\u094b \u092e\u093e\u0930\u0915\u0930 \u0906\u0930\u0915\u094d\u0937\u0923 \u0915\u094b \u092c\u0922\u093c\u093e\u0935\u093e \u0926\u0947 \u0930\u0916\u093e \u0939\u0948\n#\n\u0906\u0930\u0915\u094d\u0937\u0923\n#\n\u0938\u094b\u091a_\u092c\u0926\u0932\u094b_\u0926\u0947\u0936_\u0905\u092a\u0928\u0947_\u0906\u092a_\u092c\u0926\u0932_\u091c\u093e\u090f\u0917\u093e", 
+    "created_at": "2019-03-08T22:18:39Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "RohitTyagi777", 
+      "name": "Rohit Tyagi\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116371009211260929/Eg4K3Fdu_400x400.jpg", 
+      "id": 823055294989111296
+    }, 
+    "retweet_count": 0, 
+    "id": 1104219922668806145, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0926\u0941\u0928\u093f\u092f\u093e\u092d\u0930 \u092e\u0947\u0902 80 \u0915\u0930\u094b\u0921\u093c \u0938\u0947 \u092d\u0940 \u091c\u094d\u092f\u093e\u0926\u093e \u0921\u093f\u0935\u093e\u0907\u0938\u0947\u091c \u092a\u0930 \u091a\u0932 \u0930\u0939\u093e \u2018\u0935\u093f\u0902\u0921\u094b 10\u2019\n#\nMicrosoft\n#\nWindow10 http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/\u00a0\u2026 http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/\u00a0\u2026", 
+    "created_at": "2019-03-08T10:48:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/ygpzncCFa6", 
+          "expanded_url": "http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/", 
+          "display_url": "http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/ygpzncCFa6", 
+          "expanded_url": "http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/", 
+          "display_url": "http://uttaranchaltoday.com/hn/2019/03/08/window-10-is-running-on-eighty-crore-user/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "uttaratoday", 
+      "name": "Uttaranchal Today", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/919133239909924866/t-zu_qI4_400x400.jpg", 
+      "id": 2989549185
+    }, 
+    "retweet_count": 0, 
+    "id": 1104046248615706625, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Sara din Microsoft word pe beth k manjan baichti hoon aur raat ko sochti hoon mera sar kyun dard se phat raha hai.", 
+    "created_at": "2019-03-08T00:01:04Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "nonsains", 
+      "name": "N", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1104816496402812929/rL0-Njvl_400x400.png", 
+      "id": 1052427937356615681
+    }, 
+    "retweet_count": 2, 
+    "id": 1103883309052878850, 
+    "favorite_count": 36
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "60 \u0938\u093e\u0932 \u092e\u0947\u0902 \u0926\u0947\u0936 \u0915\u093e \u0938\u0924\u094d\u092f\u093e\u0928\u093e\u0936 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u0935\u0902\u0936 \u0915\u0947 \u092c\u0941\u091d\u0924\u0947 \u091a\u093f\u0930\u093e\u0917 \u092a\u0930 \u0915\u094b\u0908 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964 NCC \u0915\u093e \u092e\u0924\u0932\u092c \u092a\u0924\u093e \u0928\u0939\u0940\u0902\u0964\u0906\u0932\u0942 \u0938\u0947 \u0938\u094b\u0928\u093e \u092c\u0928\u093e\u0928\u0947 \u0915\u0940 \u092e\u0936\u0940\u0928 \u0939\u0935\u093e \u092e\u0947\u0902 \u092c\u0928\u093e \u0926\u0940\u0964Steve Jobs \u0915\u094b Microsoft \u0915\u093e CEO\u092c\u0924\u093e\u0924\u093e \u0939\u0948\u0964 \u0932\u093f\u0916 \u0915\u0930 \u0926\u093f\u092f\u093e \u0939\u0941\u0906 \u092d\u093e\u0937\u0923 \u092a\u0922\u093c \u0928\u0939\u0940\u0902 \u0938\u0915\u0924\u093e,\u0915\u0941\u092e\u094d\u092d\u093e\u0930\u093e\u092e \u0915\u094b \u0915\u0941\u092e\u094d\u092d\u0915\u0930\u094d\u0923 \u092c\u0928\u093e \u0926\u093f\u092f\u093e\u0964\u0914\u0930 \u091a\u092e\u091a\u0947 \u0909\u0938\u0915\u094b PM \u092c\u0928\u0928\u0947 \u0915\u093e \u0938\u092a\u0928\u093e https://twitter.com/sherryontopp/status/1103498926412517376\u00a0\u2026", 
+    "created_at": "2019-03-07T22:16:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/wmX3ABWGdQ", 
+          "expanded_url": "https://twitter.com/sherryontopp/status/1103498926412517376", 
+          "display_url": "https://twitter.com/sherryontopp/status/1103498926412517376\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "koshurBatti", 
+      "name": "\ud83c\uddff\ud83c\udde6Chowkidar VirendraDhar\u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1042133007069401088/L3jA7RNC_400x400.jpg", 
+      "id": 70398879
+    }, 
+    "retweet_count": 0, 
+    "id": 1103856963421638656, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u093f \u0938\u092c\u0938\u0947 \u092c\u0921\u0940 microsoft \u0915\u0902\u092a\u0928\u0940 \u0928\u0947 \u092d\u093e\u0930\u0924 \u0915\u0947 \u0938\u092c \u091a\u0901\u0928\u0932 \u0915\u094d\u092f\u093e \u0915\u0939\u093e pic.twitter.com/Ywcdus7m7W", 
+    "created_at": "2019-03-07T07:20:00Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Ywcdus7m7W", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/Ywcdus7m7W"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Nilesh22851596", 
+      "name": "Nilesh Gotiram pawar", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1099373489314766849/isArHZAa_400x400.jpg", 
+      "id": 1019847370136317952
+    }, 
+    "retweet_count": 0, 
+    "id": 1103631381773594624, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "https://arynews.tv/en/us-visa-duration-reduced/\u00a0\u2026. Abhi has na gaddhe. Terrorism failate raho zaleel hote raho. Indians ko 10 saal ka milta hai visa. Waise bhi tumhe farak thodi padega bhikariyon ke paas itne paise kahan. Indians ko dekho google Microsoft pepsi mastercard jaise companies ke ceo .", 
+    "created_at": "2019-03-06T08:29:14Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "760774231244337152", 
+          "id": 760774231244337152, 
+          "name": "double meaning", 
+          "screen_name": "sallu065"
+        }, 
+        {
+          "id_str": "784022571167649796", 
+          "id": 784022571167649796, 
+          "name": "Mona Alam", 
+          "screen_name": "MonaAlamm"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/9OUnnHistY", 
+          "expanded_url": "https://arynews.tv/en/us-visa-duration-reduced/", 
+          "display_url": "https://arynews.tv/en/us-visa-duration-reduced/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "anshu_trips", 
+      "name": "Anshuman Tripathy", 
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png", 
+      "id": 1096294754101481472
+    }, 
+    "retweet_count": 0, 
+    "id": 1103286417415909376, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092d\u093e\u0908\u092f\u094b \u092d\u093e\u0930\u0924 \u092c\u0928\u093e \u0928\u20221 \u092b\u0930\u094d\u091c\u0940 \u0916\u092c\u0930\u094b \u092e\u0947 Microsoft \u0915\u092e\u094d\u092a\u0928\u0940 \u0915\u093e \u0916\u0942\u0932\u093e\u0938\u093e \u0906\u0916\u093f\u0930 \u090f\u0915 \u0913\u0930 \u0915\u093e\u092e \u092e\u0947 \u0939\u092e \u0928\u20221 \u092c\u0928\u0947 \u092d\u0915\u094d\u0924\u094b\u0902 \u092e\u0942\u092c\u093e\u0930\u0915 \u0939\u094b\n@\nsarchana1016\n@\nHassanM47016687\n@\nAnjupra7743\n@\nRamnarainmegh\n@\nBhimArmyChief\n@\nsomvirsingh93\n@\nPankajN44678513\n@\nRoflNana_\n@\narjunrammeghwal\n@\nPMOIndia\n@\nRajCMO\n@\nashokgehlot51", 
+    "created_at": "2019-03-06T00:34:23Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "906588874582790144", 
+          "id": 906588874582790144, 
+          "name": "Bharat Prabhat Party", 
+          "screen_name": "sarchana1016"
+        }, 
+        {
+          "id_str": "921637310466179072", 
+          "id": 921637310466179072, 
+          "name": "\ud83d\udc6dM.Hassan Rajpoot\ud83d\udc6c\ud83d\udc48", 
+          "screen_name": "HassanM47016687"
+        }, 
+        {
+          "id_str": "826463139814326272", 
+          "id": 826463139814326272, 
+          "name": "Anju Prasad", 
+          "screen_name": "Anjupra7743"
+        }, 
+        {
+          "id_str": "853194610725834752", 
+          "id": 853194610725834752, 
+          "name": "r.narain meghwal", 
+          "screen_name": "Ramnarainmegh"
+        }, 
+        {
+          "id_str": "968482448253140993", 
+          "id": 968482448253140993, 
+          "name": "Chandra Shekhar Aazad", 
+          "screen_name": "BhimArmyChief"
+        }, 
+        {
+          "id_str": "3146089686", 
+          "id": 3146089686, 
+          "name": "\u092c\u0947\u0930\u094b\u091c\u0917\u093e\u0930 - Somvir Singh \ud83c\udf00", 
+          "screen_name": "somvirsingh93"
+        }, 
+        {
+          "id_str": "948154399628566529", 
+          "id": 948154399628566529, 
+          "name": "Pankaj Nigam", 
+          "screen_name": "PankajN44678513"
+        }, 
+        {
+          "id_str": "904766185710944256", 
+          "id": 904766185710944256, 
+          "name": "Nana : Chowkidar chor hai", 
+          "screen_name": "RoflNana_"
+        }, 
+        {
+          "id_str": "262219886", 
+          "id": 262219886, 
+          "name": "Chowkidar Arjun Ram Meghwal", 
+          "screen_name": "arjunrammeghwal"
+        }, 
+        {
+          "id_str": "471741741", 
+          "id": 471741741, 
+          "name": "PMO India", 
+          "screen_name": "PMOIndia"
+        }, 
+        {
+          "id_str": "786161824622194688", 
+          "id": 786161824622194688, 
+          "name": "CM Office, GoR", 
+          "screen_name": "RajCMO"
+        }, 
+        {
+          "id_str": "385926583", 
+          "id": 385926583, 
+          "name": "Ashok Gehlot", 
+          "screen_name": "ashokgehlot51"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "nandlal_royal", 
+      "name": "\u092e\u0948 \u0906\u092e\u094d\u092c\u0947\u0921\u0915\u0930\u0935\u093e\u0926\u0940 \u0939\u0942 Royal Nandlal", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1096809710915895299/kOhGJkP7_400x400.jpg", 
+      "id": 969091048986365952
+    }, 
+    "retweet_count": 4, 
+    "id": 1103166919002206208, 
+    "favorite_count": 7
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u092e\u093e\u0907\u0915\u094d\u0930\u094b\u0938\u0949\u092b\u094d\u091f \u0915\u0947 \u090f\u0915 \u0938\u0930\u094d\u0935\u0947\u0915\u094d\u0937\u0923 \u0928\u0947 \u0907\u0938\u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0930 \u0926\u0940 \u0939\u0948 \u0915\u093f \u092b\u0930\u094d\u091c\u0940 \u0916\u092c\u0930\u094b\u0902 \u092f\u093e\u0928\u0940 \u092b\u0947\u0915 \u0928\u094d\u092f\u0942\u091c \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0905\u0935\u094d\u0935\u0932 \u0939\u0948.\n#\nFakenews\n#\nMicrosoft\n#\nIndia https://p.dw.com/p/3ERjp\u00a0pic.twitter.com/UpwAKDFeFz", 
+    "created_at": "2019-03-05T10:00:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/V0211f6E9u", 
+          "expanded_url": "https://p.dw.com/p/3ERjp", 
+          "display_url": "https://p.dw.com/p/3ERjp"
+        }, 
+        {
+          "url": "https://t.co/UpwAKDFeFz", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/UpwAKDFeFz"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "dw_hindi", 
+      "name": "DW Hindi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/900356227624046597/tjjTquvk_400x400.jpg", 
+      "id": 94082324
+    }, 
+    "retweet_count": 8, 
+    "id": 1102946941032415232, 
+    "favorite_count": 6
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft \u0928\u0947 Oreo \u0915\u0947 \u0928\u093f\u0930\u094d\u092e\u093e\u0924\u093e\u0913\u0902 \u0915\u0947 \u0938\u093e\u0925 \u090f\u0915 Xbox One X \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u093e\u091d\u0947\u0926\u093e\u0930\u0940 \u0915\u0940 \u0939\u0948 \u091c\u094b \u090f\u0915 \u0938\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f Oreo \u0915\u0941\u0915\u0940 \u0915\u0947 \u091b\u0940\u0932\u0947 \u0939\u0941\u090f \u0938\u092b\u0947\u0926-\u0914\u0930 \u0915\u093e\u0932\u0947 \u0930\u0902\u0917 \u0915\u0940 \u0924\u0930\u0939 \u0926\u093f\u0916\u0924\u093e \u0939\u0948\u0964\n#\nIndia\n#\nMicrosoft\n#\nXboxOneX\n#\ntechnology\n#\ngadgetspic.twitter.com/QGVfmI15KI", 
+    "created_at": "2019-03-05T07:54:46Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/QGVfmI15KI", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/QGVfmI15KI"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Naveena85797215", 
+      "name": "Naveena", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1082905327522070528/k0rsoqjb_400x400.jpg", 
+      "id": 1079661102458273793
+    }, 
+    "retweet_count": 0, 
+    "id": 1102915353535897600, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Agr ye sach hota to aaj tmhara pm aik chai wala na hota.", 
+    "created_at": "2019-03-05T05:32:35Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2565289687", 
+          "id": 2565289687, 
+          "name": "\u0a9a\u0acc\u0a95\u0ac0\u0aa6\u0abe\u0ab0 VJ", 
+          "screen_name": "vjchats_IN"
+        }, 
+        {
+          "id_str": "80185804", 
+          "id": 80185804, 
+          "name": "Mehreen Zahra-Malik", 
+          "screen_name": "mehreenzahra"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "TheRightful", 
+      "name": "Sheikh of Karachi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1037431244324315136/79KF7JvD_400x400.jpg", 
+      "id": 2499569942
+    }, 
+    "retweet_count": 0, 
+    "id": 1102879573744734208, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0905\u0928\u092a\u0922\u094b \u0915\u0940 \u092a\u093e\u0930\u094d\u091f\u0940 \u0905\u092a\u0928\u0947 \u0906\u092a\u0915\u094b microsoft \u0938\u0947 \u0915\u093e\u092e \u0928\u0939\u0940\u0902 \u0938\u092e\u091d\u0924\u0940 \u0925\u0940 hackers \u0928\u0947 \u0906\u0908\u0928\u093e \u0926\u093f\u0916\u093e \u0926\u093f\u092f\u093e \u0905\u0928\u092a\u0922\u094b \u0915\u0947 \u0938\u0930\u0926\u093e\u0930 \u0915\u094b \u0914\u0930 \u0909\u0938\u0915\u0947 \u092a\u093f\u0932\u094d\u0932\u094b \u0915\u094b \u092d\u0940\u0964", 
+    "created_at": "2019-03-05T03:26:49Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "39240673", 
+          "id": 39240673, 
+          "name": "ABP News", 
+          "screen_name": "abpnewstv"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "KumarSunil11", 
+      "name": "Kumar Sunil", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/826698670087118848/FI7xCOk2_400x400.jpg", 
+      "id": 385442686
+    }, 
+    "retweet_count": 0, 
+    "id": 1102847922578681856, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0915\u0947 \u0930\u093e\u091c \u092e\u0947\u0902 \u0924\u094b \u091c\u0948\u0938\u0947 microsoft \u092e\u0947\u0902 Ceo \u0925\u0940 \u0924\u094b", 
+    "created_at": "2019-03-04T19:25:12Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1064104951402520576", 
+          "id": 1064104951402520576, 
+          "name": "Yaduvanshi Akanksha", 
+          "screen_name": "Akanksh49879258"
+        }, 
+        {
+          "id_str": "403545647", 
+          "id": 403545647, 
+          "name": "\u0928\u0940\u0930\u091c \u0936\u0941\u0915\u094d\u0932\u093e\ud83d\udea9\ud83c\uddee\ud83c\uddf3", 
+          "screen_name": "Neerajshukla97"
+        }, 
+        {
+          "id_str": "1003979105014968320", 
+          "id": 1003979105014968320, 
+          "name": "\u091a\u094c\u0915\u0940\u0926\u093e\u0930 \u0915\u093e \u092e\u093e\u0932\u093f\u0915 \u092d\u093e\u0930\u0924", 
+          "screen_name": "VinodKu41947774"
+        }, 
+        {
+          "id_str": "950041520790372352", 
+          "id": 950041520790372352, 
+          "name": "\ud83c\udf42Shabana\ud83d\udcb2\ud83c\udf42(\u200f\u0634\u0628\u0627\u0646\u06c1 \u0634\u06cc\u062e)", 
+          "screen_name": "ShabanaSeikha"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "I__Manish", 
+      "name": "\ud83c\uddee\ud83c\uddf3 Chowkidar Choudhary \u00a0\ud83c\uddee\ud83c\uddf3", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1116349326505037824/ZWFBr6Su_400x400.jpg", 
+      "id": 1000487526707187714
+    }, 
+    "retweet_count": 0, 
+    "id": 1102726718517846017, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "-\n#\nBharat: Duniya Me Jhooti Khabar Phelaney Me Pehley Number Par He, India Me 64% Log Jhooti Khabron Ka Samna Kartey Hein. _ @-\n#\nMicrosoft", 
+    "created_at": "2019-03-04T02:42:50Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "PNN_Alert", 
+      "name": "Pakistan News Network", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/954432566030938112/RA4cSiUA_400x400.jpg", 
+      "id": 901272541846806528
+    }, 
+    "retweet_count": 0, 
+    "id": 1102474466087616512, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Ashi: (Microsoft in hindi) Chota mulayam Randeep: Yeh toh yaar kisi aur angle par jaa raha hai.. chota mulayam.\n#\nYehUnDinonKiBaatHaipic.twitter.com/xWUoEkV6Hx", 
+    "created_at": "2019-03-03T08:40:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/xWUoEkV6Hx", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/xWUoEkV6Hx"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "anshu_0803", 
+      "name": "Anshu \u2661", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1117162880812478464/IUaNn-_h_400x400.jpg", 
+      "id": 880683590446710785
+    }, 
+    "retweet_count": 4, 
+    "id": 1102202086698176512, 
+    "favorite_count": 41
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "zakhtarji bahut achha Dost bas aise hi hum Indians ko aap Job dete raho hamaara bhi gujaara hota rahegaa...aapke sahaare hi hum zinda hai agar aap PEPSI--GOOGLE-MICROSOFT-MASTERCARD k CEO ko job nhi dete to hum bhookhe mar jaate aap khud ko abroad me INDIAN batate ho..i know", 
+    "created_at": "2019-03-03T03:13:36Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "976761026883522561", 
+          "id": 976761026883522561, 
+          "name": "zeem", 
+          "screen_name": "zakhtar77"
+        }, 
+        {
+          "id_str": "893683611186204672", 
+          "id": 893683611186204672, 
+          "name": "muslim", 
+          "screen_name": "muslim7211"
+        }, 
+        {
+          "id_str": "1419319015", 
+          "id": 1419319015, 
+          "name": "\ud83c\uddf5\ud83c\uddf0Ch. Muhammad Akram\ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "RaeeAkram"
+        }, 
+        {
+          "id_str": "1007043263193370629", 
+          "id": 1007043263193370629, 
+          "name": "Maira Umair\ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "MairaUmair2"
+        }, 
+        {
+          "id_str": "19929890", 
+          "id": 19929890, 
+          "name": "barkha dutt", 
+          "screen_name": "BDUTT"
+        }, 
+        {
+          "id_str": "69807765", 
+          "id": 69807765, 
+          "name": "Javeria Siddique", 
+          "screen_name": "javerias"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "intara_kamal", 
+      "name": "kamal Intara \u00a0\ud83d\udcac\u05db\u05de\u05d0\u05dc", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1108274853704941568/C-usUT0g_400x400.png", 
+      "id": 988643712853934080
+    }, 
+    "retweet_count": 0, 
+    "id": 1102119820911235072, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Yaar... Pakistan nikla Hindustan main se hain... Abhi toh diya proof katwe tere ko.. Oh English main tha na.. Microsoft certified likhne se koi ho nahin jata..Tu pehle woh dimag utha le..abh tri maa ko kya laden ne liya tha afgan se pani choda tu pakistan mai paida hua..", 
+    "created_at": "2019-03-02T09:15:55Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1342349383", 
+          "id": 1342349383, 
+          "name": "Fahad Data \ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "iamfahaddata"
+        }, 
+        {
+          "id_str": "1100696319847469056", 
+          "id": 1100696319847469056, 
+          "name": "Tazmeen Khan", 
+          "screen_name": "ErdoImran"
+        }, 
+        {
+          "id_str": "18839785", 
+          "id": 18839785, 
+          "name": "Chowkidar Narendra Modi", 
+          "screen_name": "narendramodi"
+        }, 
+        {
+          "id_str": "3005031135", 
+          "id": 3005031135, 
+          "name": "Mehr Sher", 
+          "screen_name": "musher_01"
+        }, 
+        {
+          "id_str": "45075214", 
+          "id": 45075214, 
+          "name": "Siasat.pk", 
+          "screen_name": "siasatpk"
+        }, 
+        {
+          "id_str": "434071161", 
+          "id": 434071161, 
+          "name": "Sheikh Rashid Ahmad", 
+          "screen_name": "ShkhRasheed"
+        }, 
+        {
+          "id_str": "723309166782255104", 
+          "id": 723309166782255104, 
+          "name": "Irshad Bhatti", 
+          "screen_name": "IrshadBhatti336"
+        }, 
+        {
+          "id_str": "242714826", 
+          "id": 242714826, 
+          "name": "Hamza Ali Abbasi", 
+          "screen_name": "iamhamzaabbasi"
+        }, 
+        {
+          "id_str": "522377068", 
+          "id": 522377068, 
+          "name": "Syed Ali Haider", 
+          "screen_name": "SyedAliHaider13"
+        }, 
+        {
+          "id_str": "251060309", 
+          "id": 251060309, 
+          "name": "Dr Shahid Masood", 
+          "screen_name": "Shahidmasooddr"
+        }, 
+        {
+          "id_str": "3493773739", 
+          "id": 3493773739, 
+          "name": "M Hanzala Tayyab MHT \ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "OfficialHanzala"
+        }, 
+        {
+          "id_str": "65659343", 
+          "id": 65659343, 
+          "name": "Ajay Devgn", 
+          "screen_name": "ajaydevgn"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "AmitSapra16", 
+      "name": "Brave Hearted", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1101693765620719616/Yti0KeK2_400x400.jpg", 
+      "id": 991944174457929729
+    }, 
+    "retweet_count": 0, 
+    "id": 1101848612261179393, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "@\nwindowsblog\n@\nmicrosoft \u0915\u094d\u092f\u093e 10 \u092f\u093e 10 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092c\u0921\u093c\u0947 \u0938\u093e\u0907\u091c \u0915\u0940 \u092b\u093e\u0907\u0932\u094d\u0938 \u0915\u094b \u0915\u0949\u092a\u0940 \u0915\u0930\u0928\u0947 \u092a\u0930 \u0915\u094b\u0908 \u0910\u0938\u093e \u0938\u0947\u0932\u0947\u0915\u094d\u091f \u0911\u092a\u094d\u0936\u0928 \u0906\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0915\u093f \u092a\u0942\u0930\u093e \u0915\u0948\u0902\u0938\u093f\u0932 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u091c\u093e\u090f \u0932\u093f\u0938\u094d\u091f \u092e\u0947\u0902 \u0938\u0947 \u0915\u094b\u0908 \u092d\u0940 \u092b\u093c\u093e\u0907\u0932 \u0938\u093f\u0932\u0947\u0915\u094d\u091f \u0915\u0930\u0915\u0947 \u0939\u091f\u093e \u0926\u0940 \u091c\u093e\u090f\u0964", 
+    "created_at": "2019-03-02T06:49:32Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "17034634", 
+          "id": 17034634, 
+          "name": "Windows Blogs", 
+          "screen_name": "windowsblog"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "neeraj4friends", 
+      "name": "Chowkidar Neeraj Kumar Sharma", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/769095902271246336/_O8VCIxP_400x400.jpg", 
+      "id": 2152254858
+    }, 
+    "retweet_count": 0, 
+    "id": 1101811776629268480, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Acchi bat hai tumhe fakar hai aaj, google se lekar Microsoft tak ceo Indian ahi. Hum engineer, doctors duniya ko dete hai aur pak terrorist deta hai. Hum world k liye satellite launch karte hai aur tum. Competition karna hain na to space, medical, economic main karte hai.", 
+    "created_at": "2019-03-01T23:00:31Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "833564316855058432", 
+          "id": 833564316855058432, 
+          "name": "Asif Ali khan\ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "Mrgopang2211"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "dalal_nikhil", 
+      "name": "Nikhil Dalal", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1102479160025333760/yP3NBxt4_400x400.jpg", 
+      "id": 804734581
+    }, 
+    "retweet_count": 0, 
+    "id": 1101693741889478656, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Tumhari education dekhale kha ho tum bhosadi wale ... aaj america ke president ki candidate bhi hindu hi hai agale chunav me madarchodo google microsoft MasterCard Nokia Adobe cognizant Sanddisk and many more or nobel prize wale bhi jb tumhara desh peda bhi nhi hua tb jeete hai 2", 
+    "created_at": "2019-03-01T22:01:10Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "429178401", 
+          "id": 429178401, 
+          "name": "abdullah memon", 
+          "screen_name": "abdullaharif89"
+        }, 
+        {
+          "id_str": "352499128", 
+          "id": 352499128, 
+          "name": "Nawaal Zareef", 
+          "screen_name": "NawaalZareef"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "pradeep25verma3", 
+      "name": "Pk_verma", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/802935170605010945/tsCRrDze_400x400.jpg", 
+      "id": 2893297589
+    }, 
+    "retweet_count": 0, 
+    "id": 1101678807411503104, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Apko English Nahi aati to na bole. Tum log isi wajah se bhikhari ho aur humare desh k businessman, engineer aur doctor duniya me naam kama rahe Hai. Google use karte ho? Uska CEO Indian Hai, Microsoft uska bhi, Indra nooyi ko jante ho? Tumhare logo ki Tarah hum jihad Nahi karte!!", 
+    "created_at": "2019-03-01T12:26:19Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1070988189731602432", 
+          "id": 1070988189731602432, 
+          "name": "Idk", 
+          "screen_name": "ThousifAhmed427"
+        }, 
+        {
+          "id_str": "2962428649", 
+          "id": 2962428649, 
+          "name": "Moazzama Ali\ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "moaxxama"
+        }, 
+        {
+          "id_str": "213539531", 
+          "id": 213539531, 
+          "name": "Hamid Mir", 
+          "screen_name": "HamidMirPAK"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "shivtripa", 
+      "name": "Shivangi", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1068847763033636867/gBZLiMgM_400x400.jpg", 
+      "id": 438319988
+    }, 
+    "retweet_count": 0, 
+    "id": 1101534140858580992, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "haa pakistan Hafis saed, masood azhar, afzal, kasab and many more jo ki 1100 ki UN ki list hai unko bhi paida karta hai.. ahhahahahah aur India- google. microsoft, adobe, nokia, RIL, TATA jaise ko paida karta hai..", 
+    "created_at": "2019-03-01T06:03:12Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1024678962205732865", 
+          "id": 1024678962205732865, 
+          "name": "\ud83c\uddf5\ud83c\uddf0Samrah Ejaz Paracha\ud83c\uddf5\ud83c\uddf0", 
+          "screen_name": "Samrahparacha"
+        }, 
+        {
+          "id_str": "122453931", 
+          "id": 122453931, 
+          "name": "Imran Khan", 
+          "screen_name": "ImranKhanPTI"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "sharma_rjit", 
+      "name": "Prashant Sharma", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/962708624165318656/kn3aoUdy_400x400.jpg", 
+      "id": 142347343
+    }, 
+    "retweet_count": 0, 
+    "id": 1101437726908342272, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Microsoft, google Sab Jahan Indians hai aur tum logo ko khud ko Bahar khud ko pakistani bole Mai bhi Sharma aati hai https://twitter.com/Issshhhuuu/status/1101302600694222848\u00a0\u2026", 
+    "created_at": "2019-03-01T05:55:39Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/skrKygr5tF", 
+          "expanded_url": "https://twitter.com/Issshhhuuu/status/1101302600694222848", 
+          "display_url": "https://twitter.com/Issshhhuuu/status/1101302600694222848\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "bagrishruti", 
+      "name": "Shruti bagri", 
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png", 
+      "id": 341967031
+    }, 
+    "retweet_count": 0, 
+    "id": 1101435827962314752, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555285487808, 
+      "query_topic": "Tech companies", 
+      "query_city": "usa", 
+      "query": "microsoft", 
+      "query_language": "hi"
+    }, 
+    "text": "Yassss Karen!", 
+    "created_at": "2019-03-01T03:09:10Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "17088353", 
+          "id": 17088353, 
+          "name": "AnushaSriJ", 
+          "screen_name": "Anusha55"
+        }, 
+        {
+          "id_str": "19199654", 
+          "id": 19199654, 
+          "name": "Karen Bergin", 
+          "screen_name": "karenmbergin"
+        }, 
+        {
+          "id_str": "74286565", 
+          "id": 74286565, 
+          "name": "Microsoft", 
+          "screen_name": "Microsoft"
+        }, 
+        {
+          "id_str": "14526582", 
+          "id": 14526582, 
+          "name": "RBC", 
+          "screen_name": "RBC"
+        }, 
+        {
+          "id_str": "21697106", 
+          "id": 21697106, 
+          "name": "Benevity", 
+          "screen_name": "benevity"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "AlexisTrust", 
+      "name": "Transit Van Trust", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1112476721851318273/DoY03rZ6_400x400.jpg", 
+      "id": 168122433
+    }, 
+    "retweet_count": 0, 
+    "id": 1101393931395305472, 
+    "favorite_count": 0
+  }
+]

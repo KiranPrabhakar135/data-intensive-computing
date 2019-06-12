@@ -1,0 +1,178 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555283578965, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Apple puts up billboard ad near Consumer Electronics Show center in Las Vegas\n#\nUSA http://bit.ly/2GYy3aJ", 
+    "created_at": "2019-01-06T08:49:18Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/jM9MEfnZrW", 
+          "expanded_url": "http://bit.ly/2GYy3aJ", 
+          "display_url": "http://bit.ly/2GYy3aJ"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "dailyreadlist", 
+      "name": "Daily Read List", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/586407826085388288/31l8PVlQ_400x400.png", 
+      "id": 3146652697
+    }, 
+    "retweet_count": 0, 
+    "id": 1081910583203717125, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555283578965, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "1/5/19: Took a small SHORT STOCKS position on Friday, selling into huge rally. Plan to add to short position if Dow gets anywhere near to 24,000. Stocks are no longer oversold. Apple warning confirms USA companies are losing business from foreign countries who hate trump.", 
+    "created_at": "2019-01-05T19:26:30Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "kaine_on", 
+      "name": "Thomas Kaine On Stocks...", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054539200001798144/KNLamw4m_400x400.jpg", 
+      "id": 1054495500613742592
+    }, 
+    "retweet_count": 1, 
+    "id": 1081708550609661952, 
+    "favorite_count": 3
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555283578965, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Lets see\n@\nNoahpinion,What an entirely inept FEAR piece on \"warning\" US socialists- Venezuela is Apples & Oranges USA= ONLY major economy without Healthcare fore Citizens K-12,Higher education ranked near bottom,Infrastructure is disaster\n@\nRBReich\n@\nMikeBloomberg\n@\nbusiness\n@\nFT", 
+    "created_at": "2019-01-03T10:10:48Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "281877818", 
+          "id": 281877818, 
+          "name": "Noah Smith \ud83d\udc07", 
+          "screen_name": "Noahpinion"
+        }, 
+        {
+          "id_str": "148529707", 
+          "id": 148529707, 
+          "name": "Robert Reich", 
+          "screen_name": "RBReich"
+        }, 
+        {
+          "id_str": "16581604", 
+          "id": 16581604, 
+          "name": "Mike Bloomberg", 
+          "screen_name": "MikeBloomberg"
+        }, 
+        {
+          "id_str": "34713362", 
+          "id": 34713362, 
+          "name": "Bloomberg", 
+          "screen_name": "business"
+        }, 
+        {
+          "id_str": "18949452", 
+          "id": 18949452, 
+          "name": "Financial Times", 
+          "screen_name": "FT"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "AG_Hays", 
+      "name": "Arthur Garfield Hays", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1052313472149663745/GHr3PPS1_400x400.jpg", 
+      "id": 901478532139843585
+    }, 
+    "retweet_count": 0, 
+    "id": 1080843929866694656, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555283578965, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "just a few bad apples rot the whole barrel.what we have here is a barrel of rotten apples otherwise know as Americans.the last best hope of mankind is near death because a cancer called socialist/communism is eating away the fabric of society.only God can save the USA. pray often", 
+    "created_at": "2019-01-03T09:10:56Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "23970102", 
+          "id": 23970102, 
+          "name": "Bill O'Reilly", 
+          "screen_name": "BillOReilly"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "clearwa51830290", 
+      "name": "clearwater", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1047531802817171456/zA2vES-e_400x400.jpg", 
+      "id": 1047523163029102593
+    }, 
+    "retweet_count": 0, 
+    "id": 1080828861624082432, 
+    "favorite_count": 0
+  }
+]

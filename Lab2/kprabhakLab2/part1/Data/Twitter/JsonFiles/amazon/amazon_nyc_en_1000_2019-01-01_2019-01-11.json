@@ -1,0 +1,136 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555280905426, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "esse cigarettes menthol,esse cigarettes near me esse cigarettes usa,esse cigarettes amazon Buy cigarettes at cheapest prices \u21d2 http://www.cigarettessale.com\u00a0pic.twitter.com/y1aax2znjL", 
+    "created_at": "2019-01-02T22:01:25Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/BTvmfzpHJr", 
+          "expanded_url": "http://www.cigarettessale.com", 
+          "display_url": "http://www.cigarettessale.com"
+        }, 
+        {
+          "url": "https://t.co/y1aax2znjL", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/y1aax2znjL"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "CockRival", 
+      "name": "rival cock", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075574440333697024/SJlGMAbN_400x400.jpg", 
+      "id": 1075298566111821824
+    }, 
+    "retweet_count": 0, 
+    "id": 1080660375287156738, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555280905426, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "davidoff cigarettes gold,esse cigarettes near me esse cigarettes usa,esse cigarettes amazon Buy cigarettes at cheapest prices \u21d2 http://www.cigarettessale.com\u00a0pic.twitter.com/eEnOLoniak", 
+    "created_at": "2019-01-02T21:54:50Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/BTvmfzpHJr", 
+          "expanded_url": "http://www.cigarettessale.com", 
+          "display_url": "http://www.cigarettessale.com"
+        }, 
+        {
+          "url": "https://t.co/eEnOLoniak", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/eEnOLoniak"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "CockRival", 
+      "name": "rival cock", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1075574440333697024/SJlGMAbN_400x400.jpg", 
+      "id": 1075298566111821824
+    }, 
+    "retweet_count": 0, 
+    "id": 1080658716083404800, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555280905426, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Amazon\u2019s HQ2 Near D.C. Widens Battle for Tech-Savvy Vets https://goo.gl/9VXGSw\n#\nUSA\n#\nUS\n#\nUSBiz", 
+    "created_at": "2019-01-02T00:50:09Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/6Y4F6w2fRE", 
+          "expanded_url": "https://goo.gl/9VXGSw", 
+          "display_url": "https://goo.gl/9VXGSw"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "USA_Biz", 
+      "name": "US Business \u00a0\ud83c\uddfa\ud83c\uddf8", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/889512120970293249/0807d10m_400x400.jpg", 
+      "id": 842245886
+    }, 
+    "retweet_count": 0, 
+    "id": 1080340449011871744, 
+    "favorite_count": 0
+  }
+]

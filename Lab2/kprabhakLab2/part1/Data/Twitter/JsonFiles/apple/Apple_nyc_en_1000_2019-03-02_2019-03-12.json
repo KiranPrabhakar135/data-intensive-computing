@@ -1,0 +1,98 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284535962, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Global Job Search Looking for USA Jobs or UK Jobs? Searching for Disney Jobs, Walmart Jobs, Boeing Jobs, Microsoft Jobs, Aldi Jobs or Apple Jobs? We have Jobs from all top global employers. Search & apply for Jobs near you today. https://pos.li/2b9jsm\u00a0pic.twitter.com/BFcRkZrRcC", 
+    "created_at": "2019-03-11T07:04:15Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/L0Xyo9Vuob", 
+          "expanded_url": "https://pos.li/2b9jsm", 
+          "display_url": "https://pos.li/2b9jsm"
+        }, 
+        {
+          "url": "https://t.co/BFcRkZrRcC", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/BFcRkZrRcC"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "martynv_martyn", 
+      "name": "Martyn V", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/864522581168185344/sASNqGXP_400x400.jpg", 
+      "id": 864758804
+    }, 
+    "retweet_count": 0, 
+    "id": 1105061869608452097, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555284535962, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "The New York City or The Big Apple is situated near the Hudson River which meets the Atlantic Ocean. https://iflyus.blogspot.com/2019/03/6-amazing-things-to-do-in-new-york-city.html\u00a0\u2026\n#\nnewyork\n#\nusa\n#\ntravelpic.twitter.com/mmuazmxYLR", 
+    "created_at": "2019-03-08T07:28:28Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/Q2JALRI7YA", 
+          "expanded_url": "https://iflyus.blogspot.com/2019/03/6-amazing-things-to-do-in-new-york-city.html", 
+          "display_url": "https://iflyus.blogspot.com/2019/03/6-amazing-things-to-do-in-new-york-city.html\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/mmuazmxYLR", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/mmuazmxYLR"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "travelwithjohn_", 
+      "name": "John Smith", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054270616864518144/vVDqCnV4_400x400.jpg", 
+      "id": 1052845871392538624
+    }, 
+    "retweet_count": 0, 
+    "id": 1103995901217927170, 
+    "favorite_count": 0
+  }
+]

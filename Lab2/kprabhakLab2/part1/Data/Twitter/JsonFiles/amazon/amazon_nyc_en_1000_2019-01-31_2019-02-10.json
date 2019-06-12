@@ -1,0 +1,186 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281331024, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Looking\n#\nnorth of the\n#\n505Hwy n\n#\nvacaville\n#\ncalifornia @5:15pm 2/4/19 near\n#\nAllendale and the new homes of\n#\nAvondale nx to\n#\nAmazon distribution center\n#\nphotography\n#\nweather\n#\nskynews\n#\nclouds\n@\nabc7now\n#\nWeathercloud\n#\nnews\n#\nbluesky\n#\nTravel\n#\nsunset\n#\nUSA pic.twitter.com/zlqMxlLpEw", 
+    "created_at": "2019-02-04T21:16:01Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "108226687", 
+          "id": 108226687, 
+          "name": "Now", 
+          "screen_name": "abc7now"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/zlqMxlLpEw", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/zlqMxlLpEw"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "ILoveTonyMyBoo", 
+      "name": "Jim&Tony Since2004 Native American Creek Indian", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/693538773515120640/oHOM-12s_400x400.jpg", 
+      "id": 2324660304
+    }, 
+    "retweet_count": 1, 
+    "id": 1092607746208223234, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281331024, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Amazon is a US company..it pays tax in the USA on its worldwide earnings. Just like BP pays its tax on worldwide earnings in the UK. There is some more tax that Amazon UK probably does owe a few 100m. But that goes nowhere near the 1tn of fantasy money Jezza wants", 
+    "created_at": "2019-02-01T15:26:13Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2723998020", 
+          "id": 2723998020, 
+          "name": "TheDodo", 
+          "screen_name": "RaphusCucu"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "BillyBremners", 
+      "name": "BillyBremnersBoots", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1089927391156334593/HusDL0jr_400x400.jpg", 
+      "id": 1089917170417569793
+    }, 
+    "retweet_count": 0, 
+    "id": 1091432552777302016, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281331024, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "S&P near 8-week high after upbeat jobs data; Amazon results weigh https://goo.gl/YmT3Dm\n#\nUSA\n#\nUS\n#\nUSBiz", 
+    "created_at": "2019-02-01T10:29:17Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/EDhr6MfaL9", 
+          "expanded_url": "https://goo.gl/YmT3Dm", 
+          "display_url": "https://goo.gl/YmT3Dm"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "USA_Biz", 
+      "name": "US Business \u00a0\ud83c\uddfa\ud83c\uddf8", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/889512120970293249/0807d10m_400x400.jpg", 
+      "id": 842245886
+    }, 
+    "retweet_count": 0, 
+    "id": 1091357828575649798, 
+    "favorite_count": 0
+  }
+]

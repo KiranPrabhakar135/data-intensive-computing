@@ -1,0 +1,194 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281764089, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Finally got round to building and Amazon USA Store again with their new platform. There will also be a UK one too in the near future! https://www.amazon.com/shop/mcqbushcraft/ref=cm_sw_r_fa_inf_own_mcqbushcraft_oFNHCbGWF4N7X\u00a0\u2026", 
+    "created_at": "2019-03-11T11:04:52Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/vsyw1qdszA", 
+          "expanded_url": "https://www.amazon.com/shop/mcqbushcraft/ref=cm_sw_r_fa_inf_own_mcqbushcraft_oFNHCbGWF4N7X", 
+          "display_url": "https://www.amazon.com/shop/mcqbushcraft/ref=cm_sw_r_fa_inf_own_mcqbushcraft_oFNHCbGWF4N7X\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "MCQBushcraft", 
+      "name": "MCQBushcraft", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/555487410201456642/LhfSuFOr_400x400.jpeg", 
+      "id": 2810907284
+    }, 
+    "retweet_count": 1, 
+    "id": 1105122423123427328, 
+    "favorite_count": 21
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281764089, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "@\nSenWarren For Haven sack to take Whole Foods away from Amazon is to stifle food competition! We are looking forward to a new Whole Food being built near us! Please rethink what it is your trying to accomplish! Every Grocery Store in the USA is frightened to death!", 
+    "created_at": "2019-03-08T11:53:16Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "970207298", 
+          "id": 970207298, 
+          "name": "Elizabeth Warren", 
+          "screen_name": "SenWarren"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ftaubert", 
+      "name": "Frederick Taubert", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/3708977392/ddbd4c7b9cf2a846037e2cb053f5e8a1_400x400.jpeg", 
+      "id": 212335425
+    }, 
+    "retweet_count": 0, 
+    "id": 1104062539229552640, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281764089, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Yes, tax cuts really create jobs and wealth for the workers!Amazon is consistently at or near the top of the 50 worst workplaces list in the USA https://twitter.com/unionsnsw/status/1103013490564902913\u00a0\u2026", 
+    "created_at": "2019-03-05T19:43:01Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/mRy8d1VyvN", 
+          "expanded_url": "https://twitter.com/unionsnsw/status/1103013490564902913", 
+          "display_url": "https://twitter.com/unionsnsw/status/1103013490564902913\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Povah_F", 
+      "name": "Ffrank ApHwfa", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/906275979961630720/jnB3r28z_400x400.jpg", 
+      "id": 1140850310
+    }, 
+    "retweet_count": 0, 
+    "id": 1103093593785262080, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281764089, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "No, unfortunately i live nowhere near USA, i live in Russia and Amazon tells me you do not ship to my town.", 
+    "created_at": "2019-03-03T16:54:36Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1027214340112437250", 
+          "id": 1027214340112437250, 
+          "name": "Elephant Chateau", 
+          "screen_name": "ElephantChateau"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "zelassin", 
+      "name": "Zelassin", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/939266686112468993/r2e73Lf3_400x400.jpg", 
+      "id": 921270612785532928
+    }, 
+    "retweet_count": 0, 
+    "id": 1102326431835701248, 
+    "favorite_count": 1
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281764089, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Search operations in connection with the Boeing 767-300 cargo, that crashed in the Trinity Bay near Anahuac, Texas (USA). Flight Amazon Prime Air 5Y-3591 by operated Atlas Air. pic.twitter.com/EBSBRZYmKs", 
+    "created_at": "2019-03-02T19:19:19Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/EBSBRZYmKs", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/EBSBRZYmKs"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "Tomas40916602", 
+      "name": "Tom\u00e1\u0161 Semr\u00e1d", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/978339076180008961/VkNzdK2H_400x400.jpg", 
+      "id": 958420414438559745
+    }, 
+    "retweet_count": 0, 
+    "id": 1102000464747511813, 
+    "favorite_count": 1
+  }
+]

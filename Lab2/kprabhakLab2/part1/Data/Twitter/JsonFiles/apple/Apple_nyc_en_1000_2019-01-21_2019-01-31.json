@@ -1,0 +1,44 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555283897136, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "Apple", 
+      "query_language": "en"
+    }, 
+    "text": "Private Room#4 near Apple + Free Organic Breakfast - Hus til leie i Cupertino, California, USA http://joistamatic.com/egg1Accq", 
+    "created_at": "2019-01-21T19:09:54Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#4"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/NhG2a8u1Qb", 
+          "expanded_url": "http://joistamatic.com/egg1Accq", 
+          "display_url": "http://joistamatic.com/egg1Accq"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "IndustryVentur3", 
+      "name": "Robert Park", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1082746027445288960/JNzRak3Y_400x400.jpg", 
+      "id": 1082711722807447553
+    }, 
+    "retweet_count": 0, 
+    "id": 1087502579016388615, 
+    "favorite_count": 0
+  }
+]

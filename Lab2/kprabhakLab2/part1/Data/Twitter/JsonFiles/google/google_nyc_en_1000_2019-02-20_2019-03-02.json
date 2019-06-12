@@ -1,0 +1,53 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555280441308, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "google", 
+      "query_language": "en"
+    }, 
+    "text": "Hahaaa... Dare pakis ki phati padi hai.... Go and beg some food. Then some old junk for China and then come near border after taking permission from usa. 7 days ka paisa nahi aur Chale India se ladne. Gdp of only bombay is more than Pakistan... Google and come back....", 
+    "created_at": "2019-02-24T02:51:29Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2229545336", 
+          "id": 2229545336, 
+          "name": "kpk", 
+          "screen_name": "Indecissive"
+        }, 
+        {
+          "id_str": "320592813", 
+          "id": 320592813, 
+          "name": "Naila Inayat \u0928\u093e\u092f\u0932\u093e \u0907\u0928\u093e\u092f\u0924", 
+          "screen_name": "nailainayat"
+        }, 
+        {
+          "id_str": "122453931", 
+          "id": 122453931, 
+          "name": "Imran Khan", 
+          "screen_name": "ImranKhanPTI"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "ashkumar70", 
+      "name": "Underdog", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/749413763053412352/og7nsKi9_400x400.jpg", 
+      "id": 2646919734
+    }, 
+    "retweet_count": 0, 
+    "id": 1099577538924417024, 
+    "favorite_count": 0
+  }
+]

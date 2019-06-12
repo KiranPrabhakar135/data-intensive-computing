@@ -1,0 +1,126 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555286904867, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "facebook", 
+      "query_language": "en"
+    }, 
+    "text": "@\nespn\n@\ntigerwoods\n@\nespnradio\n@\ncbssports\n@\nnbcsports\n@\nbbcsport\n@\nfoxsports\n@\ncnn\n@\nabcnews\n@\ntwitter\n@\nfacebook\n@\ngolfweek\n#\nnba\n#\nnfl\n#\nusa\n#\nuk GOLF STORM:Tiger Woods making his move, near lead at Masters https://golfweek.com/2019/04/13/golf-tiger-woods-tracker-saturday-augusta-national/\u00a0\u2026 via\n@\ngolfweek", 
+    "created_at": "2019-04-13T18:14:48Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "2557521", 
+          "id": 2557521, 
+          "name": "ESPN", 
+          "screen_name": "espn"
+        }, 
+        {
+          "id_str": "32453930", 
+          "id": 32453930, 
+          "name": "Tiger Woods", 
+          "screen_name": "TigerWoods"
+        }, 
+        {
+          "id_str": "25432501", 
+          "id": 25432501, 
+          "name": "ESPN Radio", 
+          "screen_name": "ESPNRadio"
+        }, 
+        {
+          "id_str": "14885860", 
+          "id": 14885860, 
+          "name": "CBS Sports", 
+          "screen_name": "CBSSports"
+        }, 
+        {
+          "id_str": "11856342", 
+          "id": 11856342, 
+          "name": "NBC Sports", 
+          "screen_name": "NBCSports"
+        }, 
+        {
+          "id_str": "265902729", 
+          "id": 265902729, 
+          "name": "BBC Sport", 
+          "screen_name": "BBCSport"
+        }, 
+        {
+          "id_str": "16877611", 
+          "id": 16877611, 
+          "name": "FOX Sports", 
+          "screen_name": "FOXSports"
+        }, 
+        {
+          "id_str": "759251", 
+          "id": 759251, 
+          "name": "CNN", 
+          "screen_name": "CNN"
+        }, 
+        {
+          "id_str": "2768501", 
+          "id": 2768501, 
+          "name": "ABC News", 
+          "screen_name": "abcnews"
+        }, 
+        {
+          "id_str": "783214", 
+          "id": 783214, 
+          "name": "Twitter", 
+          "screen_name": "Twitter"
+        }, 
+        {
+          "id_str": "2425151", 
+          "id": 2425151, 
+          "name": "Facebook", 
+          "screen_name": "facebook"
+        }, 
+        {
+          "id_str": "28406157", 
+          "id": 28406157, 
+          "name": "Golfweek", 
+          "screen_name": "golfweek"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/VvgGe19fVv", 
+          "expanded_url": "https://golfweek.com/2019/04/13/golf-tiger-woods-tracker-saturday-augusta-national/", 
+          "display_url": "https://golfweek.com/2019/04/13/golf-tiger-woods-tracker-saturday-augusta-national/\u00a0\u2026"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "kckool11", 
+      "name": "kckool11", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/116297935/R1_400x400.jpg", 
+      "id": 16986760
+    }, 
+    "retweet_count": 0, 
+    "id": 1117189419390447616, 
+    "favorite_count": 1
+  }
+]

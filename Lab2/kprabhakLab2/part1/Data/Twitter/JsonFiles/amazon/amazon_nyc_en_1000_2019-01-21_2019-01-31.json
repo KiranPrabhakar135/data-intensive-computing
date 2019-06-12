@@ -1,0 +1,100 @@
+[
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281198321, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Jebus I just looked round to see the current price its supposed to have a msrp of 139 ish (probably in usd).. but I can't find it for anywhere near that online atm beside expanding the listing on Amazon USA to see the used offers. @\u00d7@am so sorry. ;\u00d7;", 
+    "created_at": "2019-01-25T15:46:52Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "39927968", 
+          "id": 39927968, 
+          "name": "erica", 
+          "screen_name": "aurahack"
+        }
+      ], 
+      "media": [], 
+      "hashtags": [], 
+      "symbols": [], 
+      "urls": []
+    }, 
+    "user": {
+      "screen_name": "Zazishi_U", 
+      "name": "Raia", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/685677378647920640/qbF4Nbty_400x400.jpg", 
+      "id": 117877370
+    }, 
+    "retweet_count": 0, 
+    "id": 1088901037287563264, 
+    "favorite_count": 0
+  }, 
+  {
+    "queryMetadata": {
+      "query_city_range": 1000, 
+      "query_time": 1555281198321, 
+      "query_topic": "Tech companies", 
+      "query_city": "nyc", 
+      "query": "amazon", 
+      "query_language": "en"
+    }, 
+    "text": "Addict is once again 36th in Amazon USA's\n#\nLGBT\n#\nScifi\n#\nKindle charts! Whoo! The series is finally charting in the UK too :) If you're looking for some\n#\nlesfic\n#\ncrimenoir with a near future Scif-Fi setting, please do check the series out :) https://www.amazon.com/gp/product/B071V3J36S/\u00a0\u2026pic.twitter.com/8OhKMqJ3BU", 
+    "created_at": "2019-01-21T13:48:58Z", 
+    "coordinates": {
+      "type": "", 
+      "coordinates": []
+    }, 
+    "entities": {
+      "user_mentions": [], 
+      "media": [], 
+      "hashtags": [
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }, 
+        {
+          "text": "#"
+        }
+      ], 
+      "symbols": [], 
+      "urls": [
+        {
+          "url": "https://t.co/rkPxPREBjM", 
+          "expanded_url": "https://www.amazon.com/gp/product/B071V3J36S/", 
+          "display_url": "https://www.amazon.com/gp/product/B071V3J36S/\u00a0\u2026"
+        }, 
+        {
+          "url": "https://t.co/8OhKMqJ3BU", 
+          "expanded_url": null, 
+          "display_url": "pic.twitter.com/8OhKMqJ3BU"
+        }
+      ]
+    }, 
+    "user": {
+      "screen_name": "mattdoylemedia", 
+      "name": "Matt Doyle", 
+      "profile_image_url": "https://pbs.twimg.com/profile_images/877451189260095489/68UflMXo_400x400.jpg", 
+      "id": 3355435210
+    }, 
+    "retweet_count": 1, 
+    "id": 1087421812215042048, 
+    "favorite_count": 2
+  }
+]
